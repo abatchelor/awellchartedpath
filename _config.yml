@@ -2,7 +2,7 @@
 
 # Website settings
 title: A Well Charted Path
-description: Amy and Nate's travel blog.
+description: Travel blog.
 keywords: travel, RTW
 baseurl:  /awellchartedpath # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://abatchelor.github.io/awellchartedpath  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -13,7 +13,7 @@ img_path: /awellchartedpath/static/assets/img/blog  # url should be '/homepage/s
 author:  # change following line to your infomation.
   name: Amy   # Be used at blog posts' author.
   first_name: Amy  # Be used at index page about me section.
-  last_name: Batchelor  # Be used at index page about me section.
+  last_name:   # Be used at index page about me section.
  # avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: abatchelor  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
