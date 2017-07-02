@@ -7,6 +7,7 @@ keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
 tags: [Jalpc,Jekyll]
 icon: icon-html
+author: Amy
 ---
 
 No one wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.
