@@ -1,0 +1,29 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Destination A
+    i18n: destination_a
+  desc:
+    detail: We went to A...
+    i18n: destination_a_desc
+  date:
+    detail: Apr. 2016
+    i18n: destination_a_date
+  job:
+    detail: City 1
+    i18n: city_activity
+  icon: fa-plus-square
+
+- name:
+    detail: Destination B
+    i18n: destination_b
+  desc:
+    detail: We went to B ...
+    i18n: destination_b_desc
+  date:
+    detail: Jun. 2015
+    i18n: destination_b_date
+  job:
+    detail: City 2
+    i18n: city_activity
+  icon: fa-plus-square
