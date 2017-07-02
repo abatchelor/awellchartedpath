@@ -6,16 +6,16 @@
   tpl: about.html
   css:
 
-- id: career
-  i18n: nav.career
-  name: Career
-  tpl: career.html
+- id: itinerary
+  i18n: nav.itinerary
+  name: Intinerary
+  tpl: itinerary.html
   css: timeline
 
-- id: skills
-  i18n: nav.skills
-  name: Skills
-  tpl: skills.html
+- id: map
+  i18n: nav.map
+  name: Map
+  tpl: map.html
   css: team
 
 - id: projects
@@ -23,6 +23,7 @@
   name: Projects
   tpl: projects.html
   css: project
+  hidden: true
 
 - id: blog
   i18n: nav.blog
@@ -35,3 +36,4 @@
   name: Links
   tpl: links.html
   css: contact
+  hidden: true
