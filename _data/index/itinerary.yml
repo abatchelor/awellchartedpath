@@ -1,29 +1,200 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Destination A
-    i18n: destination_a
-  desc:
-    detail: We went to A...
-    i18n: destination_a_desc
-  date:
-    detail: Apr. 2016
-    i18n: destination_a_date
-  job:
-    detail: City 1
-    i18n: city_activity
-  icon: fa-plus-square
+- country: South Africa
+  city: 
+    - Cape Town 
+    - Johannesburg
+  start_date: September 15, 2017
+  end_date: September 30, 2017
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
 
-- name:
-    detail: Destination B
-    i18n: destination_b
-  desc:
-    detail: We went to B ...
-    i18n: destination_b_desc
-  date:
-    detail: Jun. 2015
-    i18n: destination_b_date
-  job:
-    detail: City 2
-    i18n: city_activity
-  icon: fa-plus-square
+- country: Brazil
+  city: 
+    - Sao Paolo
+    - Rio de Janiero
+  start_date: October 1, 2017
+  end_date: October 15, 2017
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Argentina
+  city: 
+    - Buenos Aires
+  start_date: October 16 2017
+  end_date: October 30, 2017
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Chile
+  city: 
+    - Easter Island
+    - Santiago
+  start_date: October 30, 2017
+  end_date: November 16, 2017
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Bolivia
+  city: 
+    - La Paz
+  start_date: November 17, 2017
+  end_date: November 20, 2017
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Peru
+  city: 
+    - Cusco
+  start_date: November 20, 2017
+  end_date: December 7, 2017
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Australia
+  city: 
+    - Melbourne
+    - Cairns
+  start_date: December 8, 2017
+  end_date: December 16, 2017
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Singapore
+  city: 
+    - Singapore
+  start_date: December 17, 2017
+  end_date: December 19, 2017
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Myanmar
+  city: 
+    - Yangon
+    - Thazi
+    - Inle Lake
+    - Mandalay
+    - Bagan
+  start_date: December 20, 2017
+  end_date: January 2, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Vietnam
+  city: 
+    - Hanoi
+    - Saigon
+  start_date: January 3, 2018
+  end_date: January 16, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Cambodia
+  city: 
+    - Phnom Penh
+    - Diem Reap
+  start_date: January 17, 2018
+  end_date: January 25, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Thailand
+  city: 
+    - Bangkok
+    - Nam Tok
+    - Surat Thani
+  start_date: January 26, 2018
+  end_date: February 21, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Laos
+  city: 
+    - Vientiane
+    - Luang Prabang
+  start_date: February 22, 2018
+  end_date: March 1, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Malaysia
+  city: 
+    - Kuala Lumpur
+  start_date: March 2, 2018
+  end_date: March 4, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: India
+  city: 
+    - Sawai Madhopus
+    - Amritsar
+    - Shimla
+    - New Delhi
+    - Agra
+    - Varanasi
+    - Gaya
+    - Kolkata
+    - Mumbai
+    - Ranakpus
+    - Jodhpur
+    - Jaipus
+  start_date: March 5, 2018
+  end_date: March 28, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Japan
+  city: 
+    - Tokyo
+    - Hiroshima
+    - Kyoto
+  start_date: March 29, 2018
+  end_date: April 10, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: China
+  city: 
+    - Beijing
+    - Hong Kong SAR
+  start_date: April 11, 2018
+  end_date: April 21, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Jordan
+  city: 
+    - Amman
+  start_date: April 22, 2018
+  end_date: April 29, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Europe
+  city: 
+    - Spain
+    - France
+    - Italy
+    - Switzerland
+    - Germany
+    - Austria
+    - Hungary
+    - Czech Republic
+    - Denmark
+    - Netherlands
+    - Belgium
+    - Ireland
+    - United Kingdom
+  start_date: April 30, 2018
+  end_date: August 5, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Mauritius
+  city: 
+    - Port Louis
+  start_date: August 8, 2018
+  end_date: August 14, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase

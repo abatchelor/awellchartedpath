@@ -8,17 +8,20 @@
     <div class="row features-block">
         <div class="col-lg-12">
             <div id="vertical-timeline" class="vertical-container light-timeline center-orientation">
-            {% for career in site.data.index.itinerary %}
+            {% for place in site.data.index.itinerary %}
             {% assign loopindex = forloop.index | modulo: 2 %}
                 <div class="vertical-timeline-block">
                     <div class="vertical-timeline-icon navy-bg wow rotateIn">
-                        <i class="fa {{ career.icon }}"></i>
+                        <i class="fa {{ place.icon }}"></i>
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-                        <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
-                        <p><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span></p>
-                        <span class="vertical-date"><span data-i18n="career.{{ career.date.i18n }}"> {{ career.date.detail }} </span>
-                        <br/> <small><span data-i18n="career.{{ career.job.i18n }}">{{ career.job.detail }}</span></small> </span>
+                        <h2><span data-i18n="place.{{ place.country }}">{{ place.country }}</span></h2>
+                        {% for city in place.city %}
+                        <p><span data-i18n="place.{{ place.city }}">{{ city }} </span></p>
+                         {% endfor %}
+                        <span class="vertical-date"><span data-i18n="place.{{ place.start_date }}"> {{ place.start_date | date: "%B %d" }} - {{ place.end_date | date: "%B %d, %Y" }} </span>
+                        <!--- <span class="vertical-date"><span data-i18n="place.{{ place.end_date }}"> {{ place.end_date }} </span> ---!>
+                        <br/> <small><span data-i18n="place.{{ place.blog_post_link }}">{{ place.blog_post_link }}</span></small> </span>
                     </div>
                 </div>
             {% endfor %}
