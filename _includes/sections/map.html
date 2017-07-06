@@ -10,6 +10,31 @@
     </style>
 </head>
 
+<style>
+.overlay {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.overlay button {
+    font:600 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background-color: #3386c0;
+    color: #fff;
+    display: inline-block;
+    margin: 0;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.overlay button:hover {
+    background-color:#4ea0da;
+}
+</style>
+<script src='//api.tiles.mapbox.com/mapbox.js/plugins/turf/v2.0.0/turf.min.js' charset='utf-8'></script>
+
 <div class="container">
 <div class="row">
 <div id='map'></div>
@@ -19,12 +44,66 @@ var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/natep/cj4rlyqn484xz2rpg33bdlrvb', //hosted style id
     center: [-77.38, 39], // starting position
-    zoom: 2 // starting zoom
+    zoom: 2, // starting zoom
+    attributionControl: true
+});
+
+// map.addControl(new mapboxgl.AttributionControl(), 'top-left');
+
+// LAX
+var origin = [-118.4085, 33.9416];
+
+// CPT
+var destination = [18.6021, -33.9715];
+
+// A simple line from origin to destination.
+var route = {
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                origin,
+                destination
+            ]
+        }
+    }]
+};
+
+// Calculate the distance in kilometers between route start/end point.
+var lineDistance = turf.lineDistance(route.features[0], 'kilometers');
+
+var arc = [];
+
+// Draw an arc between the `origin` & `destination` of the two points
+for (var i = 0; i < lineDistance; i++) {
+    var segment = turf.along(route.features[0], i / 1000 * lineDistance, 'kilometers');
+    arc.push(segment.geometry.coordinates);
+}
+
+// Update the route with calculated arc coordinates
+route.features[0].geometry.coordinates = arc;
+
+map.on('load', function () {
+    // Add a source and layer displaying a point which will be animated in a circle.
+    map.addSource('route', {
+        "type": "geojson",
+        "data": route
+    });
+
+    map.addLayer({
+        "id": "route",
+        "source": "route",
+        "type": "line",
+        "paint": {
+            "line-width": 2,
+            "line-color": "#2495c4"
+        }
+    });
+
 });
 </script>
 </div>
-</div>
-<div class="row">
-Text
 </div>
 </div>
