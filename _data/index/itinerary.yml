@@ -171,30 +171,150 @@
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
-- country: Europe
+- country: Spain
   city: 
-    - Spain
-    - France
-    - Italy
-    - Switzerland
-    - Germany
-    - Austria
-    - Hungary
-    - Czech Republic
-    - Denmark
-    - Netherlands
-    - Belgium
-    - Ireland
-    - United Kingdom
+    - Barcelona
   start_date: April 30, 2018
-  end_date: August 5, 2018
+  end_date: May 5, 2018
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
+- country: France
+  city: 
+    - Marseille
+  start_date: May 5, 2018
+  end_date: May 8, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Italy
+  city: 
+    - Porto Torres
+    - Cagliari
+    - Palermo
+    - Naples
+    - Rome
+    - Plorence
+    - Pisa
+    - Venice
+    - Milan
+  start_date: May 9, 2018
+  end_date: June 4, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Switzerland
+  city: 
+    - Geneva
+    - Basel
+  start_date: June 5, 2018
+  end_date: June 7, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Germany
+  city: 
+    - Munich
+  start_date: June 8, 2018
+  end_date: June 10, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Austria
+  city: 
+    - Salzburg
+    - Vienna
+  start_date: June 11, 2018
+  end_date: June 17, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Hungary
+  city: 
+    - Budapest
+  start_date: June 18, 2018
+  end_date: June 22, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+  
+- country: Czech Republic
+  city: 
+    - Prague
+  start_date: June 23, 2018
+  end_date: June 28, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+  
+- country: Germany
+  city: 
+    - Berlin
+  start_date: June 29, 2018
+  end_date: July 1, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+  
+- country: Denmark
+  city: 
+    - Copenhagen
+  start_date: July 2, 2018
+  end_date: July 7, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
+- country: Netherlands
+  city: 
+    - Amsterdam
+  start_date: July 8, 2018
+  end_date: July 12, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+  
+- country: Belgium
+  city: 
+    - Brussels
+  start_date: July 13, 2018
+  end_date: July 16, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+  
+- country: France
+  city: 
+    - Paris
+    - Cherbourg
+  start_date: July 17 2018
+  end_date: July 24, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+  
+- country: Ireland
+  city: 
+    - Rossiare
+    - Dublin
+  start_date: July 25, 2018
+  end_date: July 30, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+  
+- country: United Kingdom
+  city: 
+    - London
+  start_date: July 31, 2018
+  end_date: August 5, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+  
 - country: Mauritius
   city: 
     - Port Louis
   start_date: August 8, 2018
   end_date: August 14, 2018
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+  
+- country: United States
+  city: 
+    - Cromberg
+  start_date: August 15, 2018
+  end_date: 
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
