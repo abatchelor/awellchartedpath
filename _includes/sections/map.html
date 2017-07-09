@@ -129,7 +129,7 @@ function buildRoute(origin, destination, color, opacity, transport) {
 		};
 	 }
 	count = count + 1;
-	console.log(route);
+//	console.log(route);
 }
 
 function buildArcs() {
@@ -140,17 +140,18 @@ function buildArcs() {
 		{
 			// Calculate the distance in kilometers between route start/end point.
 			var lineDistance = turf.lineDistance(route.features[j], 'kilometers');
-
-			var arc = [];
+			if (lineDistance > 399) {
+				var arc = [];
 		
-			// Draw an arc between the `origin` & `destination` of the two points
-			for (var i = 0; i < lineDistance; i++) {
-				var segment = turf.along(route.features[j], i / 1000 * lineDistance, 'kilometers');
-				arc.push(segment.geometry.coordinates);
-			}
+				// Draw an arc between the `origin` & `destination` of the two points
+				for (var i = 0; i < lineDistance; i++) {
+					var segment = turf.along(route.features[j], i / 1000 * lineDistance, 'kilometers');
+					arc.push(segment.geometry.coordinates);
+				}
 
-			// Update the route with calculated arc coordinates
-			route.features[j].geometry.coordinates = arc;
+				// Update the route with calculated arc coordinates
+				route.features[j].geometry.coordinates = arc;
+			}
 		}
 	}
 }
@@ -229,11 +230,11 @@ function reactToScroll() {
         if (isElementOnScreen(locationNames[i])) {
             if (i<2) {
             	setActivelocation(locationNames[i]);
-            	console.log(locationNames[i]);
+            	//console.log(locationNames[i]);
             } else
             {
             	setActivelocation(locationNames[i+1]);
-            	console.log(locationNames[i+1]);
+            	//console.log(locationNames[i+1]);
             }
             break;
         }
