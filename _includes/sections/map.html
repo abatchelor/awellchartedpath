@@ -61,12 +61,12 @@
 <div class="row">
 <div id='map'></div>
 <div id='legend' class='legend'>
-    <div><span style='background-color: #F7455D'></span>RTW ✈️</div>
-    <div><span style='background-color: #2495c4'></span>Other ✈️</div>
-    <div><span style='background-color: #50795F'></span>Trains 🚂</div>
-    <div><span style='background-color: #738856'></span>Buses 🚌</div>
-    <div><span style='background-color: #A29354'></span>Boats 🛥</div>
-    <div><span style='background-color: #D49A66'></span>Other</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "rtw" %}{{ picked_color[0].color }}'></span>RTW ✈️</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "flight" %}{{ picked_color[0].color }}'></span>Other ✈️</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "train" %}{{ picked_color[0].color }}'></span>Trains 🚂</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "bus" %}{{ picked_color[0].color }}'></span>Buses 🚌</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "boat" %}{{ picked_color[0].color }}'></span>Boats 🛥</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "other" %}{{ picked_color[0].color }}'></span>Other</div>
   </div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoibmF0ZXAiLCJhIjoiY2lwYmxsN25zMDA3cHRobTdrZWw2Nm13cyJ9.K9eHpYjS8Y8-deXBD4iwvQ';
@@ -175,16 +175,77 @@ function drawRoute() {
 }
 
 var segments = [];
-segments[0] = [[-118.4085, 33.9416],[18.6021, -33.9715], red, 1];
-segments[1] = [[-118.4085, 33.9416],[18.6021, 33.9715], blue, 0.25];
-segments[2] = [[108.4085, 43.9416],[18.6021, 33.9715], red, 0.25];
-segments[3] = [[108.4085, 43.9416],[18.6021, -33.9715], blue, 0.25];
+segments[0] = [[0,0],[1,0],red,0];
+{% for segment in site.data.segments %}
+segments[{{forloop.index}}] = [[{{ segment.from }}],[{{ segment.to }}], '{% assign picked_color = site.data.segment-colors | where: "type", segment.type %}{{ picked_color[0].color }}', {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% capture segmenttime %}{{segment.start_date | date: '%s'}}{% endcapture %}{% if segmenttime < nowunix %}1{% else %}0.3{% endif %}];
+{% endfor %}
 
 for (var k = 0; k < segments.length; k++) {
 	buildRoute(segments[k][0], segments[k][1], segments[k][2], segments[k][3]);
 }
+
 buildArcs();
 drawRoute();
+
+
+var locations = {
+	'ItineraryStart': {
+        center: [-5, 20],
+        zoom: 0.5
+    },
+    'ItineraryGap': {
+        center: [{{ site.data.index.itinerary[0].center }}],
+        zoom: {{ site.data.index.itinerary[0].zoom }}
+    },
+    {% for place in site.data.index.itinerary %}
+    {% if place.zoom %}
+    '{{ place.start_date }}': {
+        center: [{{ place.center }}],
+        zoom: {{ place.zoom }}
+    },
+    {% endif %}
+    {% endfor %}
+    'i18_blog': {
+        center: [-5, 20],
+        zoom: 0.5
+    }
+};
+
+// On every scroll event, check which element is on screen
+document.getElementById("itinerary").addEventListener("scroll", reactToScroll);
+window.onscroll = function() {reactToScroll()};
+
+function reactToScroll() {
+    var locationNames = Object.keys(locations);
+    for (var i = 0; i < locationNames.length; i++) {
+        if (isElementOnScreen(locationNames[i])) {
+            if (i<2) {
+            	setActivelocation(locationNames[i]);
+            	console.log(locationNames[i]);
+            } else
+            {
+            	setActivelocation(locationNames[i+1]);
+            	console.log(locationNames[i+1]);
+            }
+            break;
+        }
+    }
+}
+
+var activelocationName = 'ItineraryStart';
+function setActivelocation(locationName) {
+    if (locationName === activelocationName) return;
+    map.flyTo(locations[locationName]);
+    activelocationName = locationName;
+}
+
+function isElementOnScreen(id) {
+    var element = document.getElementById(id);
+    var bounds = element.getBoundingClientRect();
+    return bounds.top < window.innerHeight+30 && bounds.bottom > 0;
+}
+
+
 
 </script>
 </div>

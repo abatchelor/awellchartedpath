@@ -6,6 +6,8 @@
     - Johannesburg
   start_date: September 15, 2017
   end_date: September 30, 2017
+  center: 24.690, -28.530
+  zoom: 4.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -15,14 +17,18 @@
     - Rio de Janiero
   start_date: October 1, 2017
   end_date: October 15, 2017
+  center: -43.694,-22.911
+  zoom: 5.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Argentina
   city: 
     - Buenos Aires
-  start_date: October 16 2017
+  start_date: October 16, 2017
   end_date: October 30, 2017
+  center: -58.466,-34.614
+  zoom: 7.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -32,6 +38,8 @@
     - Santiago
   start_date: October 30, 2017
   end_date: November 16, 2017
+  center: -85.566,-27.875
+  zoom: 3.5
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -40,6 +48,8 @@
     - La Paz
   start_date: November 17, 2017
   end_date: November 20, 2017
+  center: -68.257,-16.489
+  zoom: 7.2
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -48,6 +58,8 @@
     - Cusco
   start_date: November 20, 2017
   end_date: December 7, 2017
+  center: -71.981,-14.414
+  zoom: 5.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -57,6 +69,8 @@
     - Cairns
   start_date: December 8, 2017
   end_date: December 16, 2017
+  center: 149.784,-28.021
+  zoom: 3.2
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -65,6 +79,8 @@
     - Singapore
   start_date: December 17, 2017
   end_date: December 19, 2017
+  center: 103.843,1.229
+  zoom: 6.4
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -77,6 +93,8 @@
     - Bagan
   start_date: December 20, 2017
   end_date: January 2, 2018
+  center: 96.665,21.109
+  zoom: 4.7
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -86,6 +104,8 @@
     - Saigon
   start_date: January 3, 2018
   end_date: January 16, 2018
+  center: 104.546,16.436
+  zoom: 4.3
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -95,6 +115,8 @@
     - Diem Reap
   start_date: January 17, 2018
   end_date: January 25, 2018
+  center: 104.902,12.248
+  zoom: 5.7
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -105,6 +127,8 @@
     - Surat Thani
   start_date: January 26, 2018
   end_date: February 21, 2018
+  center: 101.490,13.039
+  zoom: 4.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -114,6 +138,8 @@
     - Luang Prabang
   start_date: February 22, 2018
   end_date: March 1, 2018
+  center: 103.889,18.206
+  zoom: 4.9
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -122,6 +148,8 @@
     - Kuala Lumpur
   start_date: March 2, 2018
   end_date: March 4, 2018
+  center: 101.911,2.933
+  zoom: 6.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -141,6 +169,8 @@
     - Jaipus
   start_date: March 5, 2018
   end_date: March 28, 2018
+  center: 80.357,20.874
+  zoom: 3.6
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -151,6 +181,8 @@
     - Kyoto
   start_date: March 29, 2018
   end_date: April 10, 2018
+  center: 137.329,37.911
+  zoom: 4.2
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -160,6 +192,8 @@
     - Hong Kong SAR
   start_date: April 11, 2018
   end_date: April 21, 2018
+  center: 116.353,31.191
+  zoom: 4.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -168,6 +202,8 @@
     - Amman
   start_date: April 22, 2018
   end_date: April 29, 2018
+  center: 37.094,31.280
+  zoom: 6.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -176,6 +212,8 @@
     - Barcelona
   start_date: April 30, 2018
   end_date: May 5, 2018
+  center: 10.230,41.461
+  zoom: 4.5
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -184,6 +222,8 @@
     - Marseille
   start_date: May 5, 2018
   end_date: May 8, 2018
+  center: 10.230,41.461
+  zoom: 4.5
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -200,6 +240,8 @@
     - Milan
   start_date: May 9, 2018
   end_date: June 4, 2018
+  center: 13.244,41.496
+  zoom: 4.9
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -209,6 +251,8 @@
     - Basel
   start_date: June 5, 2018
   end_date: June 7, 2018
+  center: 7.647,48.597
+  zoom: 4.4
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -217,6 +261,8 @@
     - Munich
   start_date: June 8, 2018
   end_date: June 10, 2018
+  center: 7.647,48.597
+  zoom: 4.4
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -226,6 +272,8 @@
     - Vienna
   start_date: June 11, 2018
   end_date: June 17, 2018
+  center: 7.647,48.597
+  zoom: 4.4
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -234,6 +282,8 @@
     - Budapest
   start_date: June 18, 2018
   end_date: June 22, 2018
+  center: 18.421,47.862
+  zoom: 4.4
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
@@ -242,6 +292,8 @@
     - Prague
   start_date: June 23, 2018
   end_date: June 28, 2018
+  center: 13.421,47.862
+  zoom: 4.4
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
@@ -250,6 +302,8 @@
     - Berlin
   start_date: June 29, 2018
   end_date: July 1, 2018
+  center: 7.647,48.597
+  zoom: 4.4
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
@@ -258,6 +312,8 @@
     - Copenhagen
   start_date: July 2, 2018
   end_date: July 7, 2018
+  center: 11.234,55.559
+  zoom: 4.7
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
@@ -266,6 +322,8 @@
     - Amsterdam
   start_date: July 8, 2018
   end_date: July 12, 2018
+  center: 7.208,52.540
+  zoom: 4.7
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
@@ -274,6 +332,8 @@
     - Brussels
   start_date: July 13, 2018
   end_date: July 16, 2018
+  center: 7.208,52.540
+  zoom: 4.4
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
@@ -283,6 +343,8 @@
     - Cherbourg
   start_date: July 17 2018
   end_date: July 24, 2018
+  center: 0.952,49.063
+  zoom: 5.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
@@ -292,6 +354,8 @@
     - Dublin
   start_date: July 25, 2018
   end_date: July 30, 2018
+  center: -3.029,51.890
+  zoom: 4.5
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
@@ -300,6 +364,8 @@
     - London
   start_date: July 31, 2018
   end_date: August 5, 2018
+  center: -3.029,51.890
+  zoom: 5.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
@@ -308,6 +374,8 @@
     - Port Louis
   start_date: August 8, 2018
   end_date: August 14, 2018
+  center: 57.738,-20.303
+  zoom: 7.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
@@ -316,5 +384,7 @@
     - Cromberg
   start_date: August 15, 2018
   end_date: 
+  center: -120.707,39.801
+  zoom: 7.0
   blog_post_link: BLOG POSTS
   icon: fa-suitcase
