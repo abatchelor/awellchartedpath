@@ -11,12 +11,13 @@
   name: Intinerary
   tpl: itinerary.html
   css: timeline
+  background: gray-section
 
 - id: map
   i18n: nav.map
   name: Map
   tpl: map.html
-  css: team
+  css: 
 
 - id: projects
   i18n: nav.projects

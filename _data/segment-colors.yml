@@ -1,0 +1,17 @@
+- type: rtw
+  color: '#F7455D'
+  
+- type: flight
+  color: '#2495c4'
+  
+- type: train
+  color: '#24c4a3'
+  
+- type: bus
+  color: '#c45324'
+  
+- type: boat
+  color: '#2445c4'
+  
+- type: other
+  color: '#000000'

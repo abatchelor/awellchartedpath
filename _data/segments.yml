@@ -1,0 +1,608 @@
+- route: Cape Town - Johannesburg
+  start_date: September 26, 2017
+  end_date: September 27, 2017
+  from: 18.426,-33.923
+  to: 28.042,-26.197
+  type: train
+
+- route: Maui - Cape Town
+  start_date: September 13, 2017
+  end_date: September 15, 2017
+  from: -156.430,20.899
+  to: 18.597,-33.969
+  type: flight
+
+- route: DC - Maui
+  start_date: July 1, 2017
+  end_date: September 1, 2017
+  from: -77.456,38.944
+  to: -156.430,20.899
+  type: flight
+
+- route: Johannesburg - Sao Paolo
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: 28.241,-26.137
+  to: -46.482,-23.427
+  type: rtw
+
+- route: Sao Paolo - Rio
+  start_date: October 7, 2017
+  end_date: October 7, 2017
+  from: -46.482,-23.427
+  to: -43.249,-22.817
+  type: flight
+
+- route: Rio - Sao Paolo
+  start_date: October 14, 2017
+  end_date: October 15, 2017
+  from: -43.193,-22.902
+  to: -46.482,-23.427
+  type: bus
+
+- route: Sao Paolo - Buenos Aires
+  start_date: October 16, 2017
+  end_date: October 16, 2017
+  from: -46.482,-23.427
+  to: -58.530,-34.822
+  type: rtw
+
+- route: Buenos Aires - Easter Island
+  start_date: October 30, 2017
+  end_date: October 30, 2017
+  from: -58.530,-34.822
+  to: -109.430,-27.159
+  type: rtw
+
+- route: Easter Island - Santiago
+  start_date: November 5, 2017
+  end_date: November 5, 2017
+  from: -109.430,-27.159
+  to: -70.794,-33.397
+  type: rtw
+
+- route: Santiago - La Paz
+  start_date: November 7, 2017
+  end_date: November 7, 2017
+  from: -70.794,-33.397
+  to: -68.187,-16.510
+  type: flight
+
+- route: La Paz - Cuzco
+  start_date: November 10, 2017
+  end_date: November 10, 2017
+  from: -68.135,-16.498
+  to: -71.979,-13.517
+  type: bus
+
+- route: Cuzco - Lima
+  start_date: November 13, 2017
+  end_date: November 15, 2017
+  from: -71.979,-13.517
+  to: -77.034,-12.062
+  type: bus
+
+- route: Lima - Tacna
+  start_date: November 17, 2017
+  end_date: November 17, 2017
+  from: -77.105,-12.033
+  to: -70.276,-18.051
+  type: flight
+
+- route: Tacna - Santiago
+  start_date: November 20, 2017
+  end_date: November 27, 2017
+  from: -70.247,-18.014
+  to: -70.650,-33.437
+  type: bus
+
+- route: Santiago - Melbourne
+  start_date: December 7, 2017
+  end_date: December 8, 2017
+  from: -70.794,-33.397
+  to: -179.999,-63
+  type: rtw
+
+- route: Santiago - Melbourne
+  start_date: December 8, 2017
+  end_date: December 8, 2017
+  from: 179.999,-63
+  to: 144.844,-37.669
+  type: rtw
+
+- route: Melbourne - Cairns
+  start_date: December 10, 2017
+  end_date: December 10, 2017
+  from: 144.844,-37.669
+  to: 145.753,-16.877
+  type: flight
+
+- route: Cairns - Reef
+  start_date: December 12, 2017
+  end_date: December 13, 2017
+  from: 145.781,-16.918
+  to: 149.415,-13.983
+  type: boat
+
+- route: Cairns - Melbourne
+  start_date: December 15, 2017
+  end_date: December 15, 2017
+  from: 145.753,-16.877
+  to: 144.844,-37.669
+  type: flight
+
+- route: Melbourne - Singapore
+  start_date: December 17, 2017
+  end_date: December 17, 2017
+  from: 144.844,-37.669
+  to: 103.988,1.354
+  type: rtw
+
+- route: Singapore - Yangon
+  start_date: December 20, 2017
+  end_date: December 20, 2017
+  from: 103.988,1.354
+  to: 96.133,16.904
+  type: flight
+
+- route: Yangon - Thazi
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 96.161,16.781
+  to: 96.057808,20.853148
+  type: train
+
+- route: Thazi - Inle Lake
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 96.057808,20.853148
+  to: 96.916047, 20.565386
+  type: train
+
+- route: Thazi - Mandalay
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 96.057808,20.853148
+  to: 96.086137, 21.976921
+  type: train
+
+- route: Mandalay - Bagan
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 96.057,21.979
+  to: 94.853,21.130
+  type: boat
+
+- route: Bagan - Yangon
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 94.934955, 21.154314
+  to: 96.161,16.781
+  type: train
+
+- route: Yangon - Hanoi
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 96.133,16.904
+  to: 105.803,21.219
+  type: flight
+
+- route: Hanoi - Saigon
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 105.841116,  21.025068
+  to: 106.677318, 10.782507
+  type: train
+
+- route: Saigon - Phnom Penh
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 106.683,10.777
+  to: 104.919,11.562
+  type: bus
+
+- route: Phnom Penh - Siem Reap
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 104.939,11.559
+  to: 103.822,13.270
+  type: boat
+
+- route: Siem Reap - Bangkok
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 103.860,13.355
+  to: 100.516254, 13.739848
+  type: train
+
+- route: Bangkok - Nam Tok
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 100.516254, 13.739848
+  to: 99.067695, 14.232423
+  type: train
+
+- route: Bangkok - Surat Thani
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 100.516254, 13.739848
+  to: 99.297940, 9.111529
+  type: train
+
+- route: Surat Thani - ??
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 99.297940, 9.111529
+  to: 99.824469, 10.072483
+  type: boat
+
+- route: Surat Thani - Phuket
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 99.297940, 9.111529
+  to: 98.390327, 7.870959
+  type: bus
+
+- route: Phuket - Bangkok
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 98.390327, 7.870959
+  to: 100.516254, 13.739848
+  type: train
+
+- route: Bangkok - Vientiane
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 100.516254, 13.739848
+  to: 102.611,17.963
+  type: train
+
+- route: Vientiane - Luang Prabang
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 102.611,17.963
+  to: 102.136,19.887
+  type: bus
+
+- route: Luang Prabang - Kuala Lumpur
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 102.166,19.903
+  to: 101.698,2.746
+  type: flight
+
+- route: Kuala Lumpur - Delhi
+  start_date: March 5, 2018
+  end_date: March 5, 2018
+  from: 101.698,2.746
+  to: 77.094,28.557
+  type: rtw
+
+- route: New Delhi - Agra Cantt
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 77.219,28.643
+  to: 77.991,27.159
+  type: train
+
+- route: Agra Fort - Varanasi
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 78.018,27.183
+  to: 82.986,25.327
+  type: train
+
+- route: Varanasi - Gaya
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 82.986,25.327
+  to: 85.000,24.804
+  type: train
+
+- route: Gaya - Kolkata
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 85.000,24.804
+  to: 88.342,22.583
+  type: train
+
+- route: Kolkata - Mumbai
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 88.444,22.648
+  to: 72.868,19.089
+  type: flight
+
+- route: Mumbai - Ranakpur
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 72.836,18.941
+  to: 73.473,25.116
+  type: train
+
+- route: Ranakpur - Jodhpur
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 73.473,25.116
+  to: 73.022922, 26.283463
+  type: train
+
+- route: Jodhpur - Jaipur
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 73.022922, 26.283463
+  to: 75.787,26.920
+  type: train
+
+- route: Jaipur - Sawai Madhopur
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 75.787,26.920
+  to: 76.360,26.022
+  type: train
+
+- route: Sawai Madhopur - Amritsar
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 76.360,26.022
+  to: 74.867,31.633
+  type: train
+
+- route: Amritsar - Shimla
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 74.867,31.633
+  to: 77.159,31.103
+  type: train
+
+- route: Shimla - New Delhi
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 77.159,31.103
+  to: 77.219,28.643
+  type: train
+
+- route: Delhi - Tokyo
+  start_date: March 28, 2018
+  end_date: March 29, 2018
+  from: 77.094,28.557
+  to: 140.388,35.768
+  type: rtw
+
+- route: Tokyo - Beijing
+  start_date: April 11, 2018
+  end_date: April 11, 2018
+  from: 140.388,35.768
+  to: 116.602,40.068
+  type: rtw
+
+- route: Beijing - Hong Kong
+  start_date: April 17, 2018
+  end_date: April 17, 2018
+  from: 116.602,40.068
+  to: 113.915,22.308
+  type: rtw
+
+- route: Hong Kong - Amman
+  start_date: April 21, 2018
+  end_date: April 22, 2018
+  from: 113.915,22.308
+  to: 35.995,31.723
+  type: rtw
+
+- route: Amman - Barcelona
+  start_date: April 30, 2018
+  end_date: April 30, 2018
+  from: 35.995,31.723
+  to: 2.079,41.295
+  type: rtw
+
+- route: Barcelona - Marseille
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 2.186,41.384
+  to: 5.380,43.303
+  type: train
+
+- route: Marseille - Porto Torres
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 5.362727, 43.305344
+  to: 8.377,40.841
+  type: boat
+
+- route: Porto Torres - Cagliari
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 8.398,40.838
+  to: 9.102,39.218
+  type: train
+
+- route: Cagliari - Palermo
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 9.112,39.211
+  to: 13.372,38.132
+  type: boat
+
+- route: Palermo - Naples
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 13.357,38.136
+  to: 14.274,40.853
+  type: train
+
+- route: Naples - Pompeii
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 14.274,40.853
+  to: 14.502,40.751
+  type: train
+
+- route: Naples - Rome
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 14.274,40.853
+  to: 12.502,41.901
+  type: train
+
+- route: Rome - Florence
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 12.502,41.901
+  to: 11.247,43.777
+  type: train
+
+- route: Florence - Pisa
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 11.247,43.777
+  to: 10.399,43.708
+  type: train
+
+- route: Pisa - Venice
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 10.399,43.708
+  to: 12.321,45.441
+  type: train
+
+- route: Venice - Milan
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 12.321,45.441
+  to: 9.175,45.469
+  type: train
+
+- route: Milan - Geneva
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 9.175,45.469
+  to: 6.142,46.210
+  type: train
+
+- route: Geneva - Munich
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 6.142,46.210
+  to: 11.555,48.141
+  type: train
+
+- route: Munich - Salzburg
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 11.555,48.141
+  to: 13.046,47.813
+  type: train
+
+- route: Salzburg - Vienna
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 13.046,47.813
+  to: 16.386,48.207
+  type: train
+
+- route: Vienna - Budapest
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 16.386,48.207
+  to: 19.025,47.499
+  type: train
+
+- route: Budapest - Prague
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 19.025,47.499
+  to: 14.436,50.083
+  type: train
+
+- route: Prague - Berlin
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 14.436,50.083
+  to: 13.374,52.499
+  type: train
+
+- route: Berlin - Copenhagen
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 13.374,52.499
+  to: 12.564,55.673
+  type: train
+
+- route: Copenhagen - Amsterdam
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 12.653,55.619
+  to: 4.758,52.306
+  type: flight
+
+- route: Amsterdam - Brussels
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 4.900,52.379
+  to: 4.335,50.835
+  type: train
+
+- route: Brussels - Paris
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 4.335,50.835
+  to: 2.375,48.844
+  type: train
+
+- route: Paris - Caen
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 2.375,48.844
+  to: -0.343,49.179
+  type: train
+
+- route: Caen - Cherbourg
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: -0.343,49.179
+  to: -1.613,49.649
+  type: other
+
+- route: Cherbourg - Rosslare
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: -1.613,49.649
+  to: -6.336,52.255
+  type: boat
+
+- route: Rosslare - Dublin
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: -6.336,52.251
+  to: -6.254351, 53.347144
+  type: train
+
+- route: Dublin - London
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: -6.196255, 53.345029
+  to: -0.133737, 51.528245
+  type: boat
+
+- route: London - Mauritius
+  start_date: August 5, 2018
+  end_date: August 6, 2018
+  from: -0.185,51.153
+  to: 57.678,-20.433
+  type: rtw
+
+- route: Mauritius - Reno
+  start_date: August 12, 2018
+  end_date: August 14, 2018
+  from: 57.678,-20.433
+  to: -119.771,39.502
+  type: flight
+
+- route: Reno - Inlet
+  start_date: August 17, 2018
+  end_date: August 17, 2018
+  from: -119.771,39.502
+  to: -74.853011, 43.753179
+  type: flight

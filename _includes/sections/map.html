@@ -6,25 +6,258 @@
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.38.0/mapbox-gl.css' rel='stylesheet' />
     <style>
         body { margin:0; padding:0; }
-        #map { position:static; top:0; bottom:0; width:100%; height:80% }
+        @media screen and (min-width: 768px) {  #map { position:relative; top:0; bottom:0; width:50%; height:80%; float: left;} }       
+        @media screen and (max-width: 767px) {  #map { position:relative; top:0; bottom:0; width:100%; height:80%;} }       
+
     </style>
 </head>
+
+<style>
+.overlay {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.overlay button {
+    font:600 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background-color: #3386c0;
+    color: #fff;
+    display: inline-block;
+    margin: 0;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.overlay button:hover {
+    background-color:#4ea0da;
+}
+
+.legend {
+  background-color: #fff;
+  border-radius: 3px;
+  bottom: 30px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font: 16px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  padding: 8px;
+  position: absolute;
+  left: 10px;
+  z-index: 1;
+}
+
+.legend div span {
+  border-radius: 50%;
+  display: inline-block;
+  height: 10px;
+  margin-right: 5px;
+  width: 10px;
+}
+</style>
+<script src='//api.tiles.mapbox.com/mapbox.js/plugins/turf/v2.0.0/turf.min.js' charset='utf-8'></script>
 
 <div class="container">
 <div class="row">
 <div id='map'></div>
+<div id='legend' class='legend'>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "rtw" %}{{ picked_color[0].color }}'></span>✈️</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "flight" %}{{ picked_color[0].color }}'></span>🛩</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "train" %}{{ picked_color[0].color }}'></span>🚂</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "bus" %}{{ picked_color[0].color }}'></span>🚌</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "boat" %}{{ picked_color[0].color }}'></span>🛥</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "other" %}{{ picked_color[0].color }}'></span>🤷‍</div>
+  </div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoibmF0ZXAiLCJhIjoiY2lwYmxsN25zMDA3cHRobTdrZWw2Nm13cyJ9.K9eHpYjS8Y8-deXBD4iwvQ';
 var map = new mapboxgl.Map({
     container: 'map', // container id
-    style: 'mapbox://styles/natep/cj09raqru002f2rs6bdpfr3ey', //hosted style id
-    center: [-77.38, 39], // starting position
-    zoom: 2 // starting zoom
+    style: 'mapbox://styles/natep/cj4rlyqn484xz2rpg33bdlrvb', //hosted style id
+    center: [-5, 20], // starting position
+    zoom: 0.5, // starting zoom
+    attributionControl: true
 });
+
+map.touchZoomRotate.disableRotation();
+
+var count = 0;
+var route = [];
+var red = '#F7455D';
+var blue = '#2495c4';
+
+// map.addControl(new mapboxgl.AttributionControl(), 'top-left');
+
+function buildRoute(origin, destination, color, opacity, transport) {
+  if(origin != '') {
+	 // A simple line from origin to destination.
+	 if(count<1) {
+		route = {
+			"type": "FeatureCollection",
+			"features": [{
+				"transport": transport,
+				"type": "Feature",
+                    'properties': {
+                        'color': color,
+                        'opacity' : opacity,
+                    },
+				"geometry": {
+					"type": "LineString",
+					"coordinates": [
+						origin,
+						destination
+					]
+				}
+			}]
+		};
+	 } else {
+	 	route["features"][count] = {
+//			"features": [{
+				"transport": transport,
+				"type": "Feature",
+                    'properties': {
+                        'color': color,
+                        'opacity' : opacity,
+                    },
+				"geometry": {
+					"type": "LineString",
+					"coordinates": [
+						origin,
+						destination
+					]
+				}
+//			}]
+		};
+	 }
+	count = count + 1;
+//	console.log(route);
+  }
+}
+
+function buildArcs() {
+
+	for (var j = 0; j < route.features.length; j++) {
+	
+		if (route.features[j].transport == 'rtw' || route.features[j].transport == 'flight')
+		{
+			// Calculate the distance in kilometers between route start/end point.
+			var lineDistance = turf.lineDistance(route.features[j], 'kilometers');
+			if (lineDistance > 650) {
+				var arc = [];
+		
+				// Draw an arc between the `origin` & `destination` of the two points
+				for (var i = 0; i < lineDistance; i++) {
+					var segment = turf.along(route.features[j], i / 1000 * lineDistance, 'kilometers');
+					arc.push(segment.geometry.coordinates);
+				}
+
+				// Update the route with calculated arc coordinates
+				route.features[j].geometry.coordinates = arc;
+			}
+		}
+	}
+}
+function drawRoute() {
+
+	 map.on('load', function () {
+		 // Add a source and layer displaying a point which will be animated in a circle.
+		 map.addSource('route', {
+			 "type": "geojson",
+			 "data": route
+		 });
+		 map.addLayer({
+			 "id": "route",
+			 "source": "route",
+			 "type": "line",
+			 "paint": {
+				 "line-width": 2,
+				 'line-color': {
+					 'type': 'identity',
+					 'property': 'color'
+				 },
+				 'line-opacity': {
+					 'type': 'identity',
+					 'property': 'opacity'
+				 }
+			 }
+		 });
+
+	 });
+}
+
+var segments = [];
+segments[0] = [[0,0],[1,0],red,0];
+{% for segment in site.data.segments %}
+segments[{{forloop.index}}] = [[{{ segment.from }}],[{{ segment.to }}], '{% assign picked_color = site.data.segment-colors | where: "type", segment.type %}{{ picked_color[0].color }}', {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% capture segmenttime %}{{segment.start_date | date: '%s'}}{% endcapture %}{% if segmenttime < nowunix %}0.85{% else %}0.35{% endif %}, '{{segment.type}}'];
+{% endfor %}
+
+for (var k = 0; k < segments.length; k++) {
+		buildRoute(segments[k][0], segments[k][1], segments[k][2], segments[k][3], segments[k][4]);
+}
+
+buildArcs();
+drawRoute();
+
+
+var locations = {
+	'ItineraryStart': {
+        center: [-5, 20],
+        zoom: 0.5
+    },
+    'ItineraryGap': {
+        center: [{{ site.data.index.itinerary[0].center }}],
+        zoom: {{ site.data.index.itinerary[0].zoom }}
+    },
+    {% for place in site.data.index.itinerary %}
+    {% if place.zoom %}
+    '{{ place.start_date }}': {
+        center: [{{ place.center }}],
+        zoom: {{ place.zoom }}
+    },
+    {% endif %}
+    {% endfor %}
+    'i18_blog': {
+        center: [-5, 20],
+        zoom: 0.5
+    }
+};
+
+// On every scroll event, check which element is on screen
+document.getElementById("itinerary").addEventListener("scroll", reactToScroll);
+window.onscroll = function() {reactToScroll()};
+
+function reactToScroll() {
+    var locationNames = Object.keys(locations);
+    for (var i = 0; i < locationNames.length; i++) {
+        if (isElementOnScreen(locationNames[i])) {
+            if (i<2) {
+            	setActivelocation(locationNames[i]);
+            	//console.log(locationNames[i]);
+            } else
+            {
+            	setActivelocation(locationNames[i+1]);
+            	//console.log(locationNames[i+1]);
+            }
+            break;
+        }
+    }
+}
+
+var activelocationName = 'ItineraryStart';
+function setActivelocation(locationName) {
+    if (locationName === activelocationName) return;
+    map.flyTo(locations[locationName]);
+    activelocationName = locationName;
+}
+
+function isElementOnScreen(id) {
+    var element = document.getElementById(id);
+    var bounds = element.getBoundingClientRect();
+    return bounds.top < window.innerHeight+30 && bounds.bottom > 0;
+}
+
+
+
 </script>
 </div>
-</div>
-<div class="row">
-Text
 </div>
 </div>
