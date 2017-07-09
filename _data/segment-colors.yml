@@ -5,13 +5,13 @@
   color: '#2495c4'
   
 - type: train
-  color: '#50795F'
+  color: '#24c4a3'
   
 - type: bus
-  color: '#738856'
+  color: '#c45324'
   
 - type: boat
-  color: '#A29354'
+  color: '#2445c4'
   
 - type: other
-  color: '#D49A66'
+  color: '#000000'
