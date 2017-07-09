@@ -1,5 +1,26 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- country: Planning
+  city: 
+    - Washington, DC
+  start_date: January 1, 2013
+  end_date: September 1, 2017
+  center: -5, 20
+  zoom: 0.5
+  blog_post_link: BLOG POSTS
+  icon: fa-calendar
+
+- country: Hawaii
+  city: 
+    - Maui
+  start_date: September 1, 2017
+  end_date: September 13, 2017
+  center: -156.341,20.744
+  zoom: 6.0
+  blog_post_link: BLOG POSTS
+  icon: fa-suitcase
+
 - country: South Africa
   city: 
     - Cape Town 
