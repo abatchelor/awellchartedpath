@@ -78,6 +78,8 @@ var map = new mapboxgl.Map({
     attributionControl: true
 });
 
+map.touchZoomRotate.disableRotation();
+
 var count = 0;
 var route = [];
 var red = '#F7455D';
@@ -85,13 +87,14 @@ var blue = '#2495c4';
 
 // map.addControl(new mapboxgl.AttributionControl(), 'top-left');
 
-function buildRoute(origin, destination, color, opacity) {
+function buildRoute(origin, destination, color, opacity, transport) {
 
 	 // A simple line from origin to destination.
 	 if(count<1) {
 		route = {
 			"type": "FeatureCollection",
 			"features": [{
+				"transport": transport,
 				"type": "Feature",
                     'properties': {
                         'color': color,
@@ -109,6 +112,7 @@ function buildRoute(origin, destination, color, opacity) {
 	 } else {
 	 	route["features"][count] = {
 //			"features": [{
+				"transport": transport,
 				"type": "Feature",
                     'properties': {
                         'color': color,
@@ -125,25 +129,30 @@ function buildRoute(origin, destination, color, opacity) {
 		};
 	 }
 	count = count + 1;
-	console.log(route);
+//	console.log(route);
 }
 
 function buildArcs() {
 
 	for (var j = 0; j < route.features.length; j++) {
-		// Calculate the distance in kilometers between route start/end point.
-		var lineDistance = turf.lineDistance(route.features[j], 'kilometers');
-
-		var arc = [];
+	
+		if (route.features[j].transport == 'rtw' || route.features[j].transport == 'flight')
+		{
+			// Calculate the distance in kilometers between route start/end point.
+			var lineDistance = turf.lineDistance(route.features[j], 'kilometers');
+			if (lineDistance > 399) {
+				var arc = [];
 		
-		// Draw an arc between the `origin` & `destination` of the two points
-		for (var i = 0; i < lineDistance; i++) {
-			var segment = turf.along(route.features[j], i / 1000 * lineDistance, 'kilometers');
-			arc.push(segment.geometry.coordinates);
-		}
+				// Draw an arc between the `origin` & `destination` of the two points
+				for (var i = 0; i < lineDistance; i++) {
+					var segment = turf.along(route.features[j], i / 1000 * lineDistance, 'kilometers');
+					arc.push(segment.geometry.coordinates);
+				}
 
-		// Update the route with calculated arc coordinates
-		route.features[j].geometry.coordinates = arc;
+				// Update the route with calculated arc coordinates
+				route.features[j].geometry.coordinates = arc;
+			}
+		}
 	}
 }
 function drawRoute() {
@@ -177,11 +186,11 @@ function drawRoute() {
 var segments = [];
 segments[0] = [[0,0],[1,0],red,0];
 {% for segment in site.data.segments %}
-segments[{{forloop.index}}] = [[{{ segment.from }}],[{{ segment.to }}], '{% assign picked_color = site.data.segment-colors | where: "type", segment.type %}{{ picked_color[0].color }}', {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% capture segmenttime %}{{segment.start_date | date: '%s'}}{% endcapture %}{% if segmenttime < nowunix %}1{% else %}0.3{% endif %}];
+segments[{{forloop.index}}] = [[{{ segment.from }}],[{{ segment.to }}], '{% assign picked_color = site.data.segment-colors | where: "type", segment.type %}{{ picked_color[0].color }}', {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% capture segmenttime %}{{segment.start_date | date: '%s'}}{% endcapture %}{% if segmenttime < nowunix %}1{% else %}0.3{% endif %}, '{{segment.type}}'];
 {% endfor %}
 
 for (var k = 0; k < segments.length; k++) {
-	buildRoute(segments[k][0], segments[k][1], segments[k][2], segments[k][3]);
+	buildRoute(segments[k][0], segments[k][1], segments[k][2], segments[k][3], segments[k][4]);
 }
 
 buildArcs();
@@ -221,11 +230,11 @@ function reactToScroll() {
         if (isElementOnScreen(locationNames[i])) {
             if (i<2) {
             	setActivelocation(locationNames[i]);
-            	console.log(locationNames[i]);
+            	//console.log(locationNames[i]);
             } else
             {
             	setActivelocation(locationNames[i+1]);
-            	console.log(locationNames[i+1]);
+            	//console.log(locationNames[i+1]);
             }
             break;
         }
