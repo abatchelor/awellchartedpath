@@ -88,7 +88,7 @@ var blue = '#2495c4';
 // map.addControl(new mapboxgl.AttributionControl(), 'top-left');
 
 function buildRoute(origin, destination, color, opacity, transport) {
-
+  if(origin != '') {
 	 // A simple line from origin to destination.
 	 if(count<1) {
 		route = {
@@ -130,6 +130,7 @@ function buildRoute(origin, destination, color, opacity, transport) {
 	 }
 	count = count + 1;
 //	console.log(route);
+  }
 }
 
 function buildArcs() {
@@ -140,7 +141,7 @@ function buildArcs() {
 		{
 			// Calculate the distance in kilometers between route start/end point.
 			var lineDistance = turf.lineDistance(route.features[j], 'kilometers');
-			if (lineDistance > 399) {
+			if (lineDistance > 650) {
 				var arc = [];
 		
 				// Draw an arc between the `origin` & `destination` of the two points
@@ -190,7 +191,7 @@ segments[{{forloop.index}}] = [[{{ segment.from }}],[{{ segment.to }}], '{% assi
 {% endfor %}
 
 for (var k = 0; k < segments.length; k++) {
-	buildRoute(segments[k][0], segments[k][1], segments[k][2], segments[k][3], segments[k][4]);
+		buildRoute(segments[k][0], segments[k][1], segments[k][2], segments[k][3], segments[k][4]);
 }
 
 buildArcs();
