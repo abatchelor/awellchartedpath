@@ -1,56 +1,126 @@
-- country: South Africa
-  route: Cape Town - Johannesburg
+- route: Cape Town - Johannesburg
   start_date: September 26, 2017
   end_date: September 27, 2017
   from: 18.426,-33.923
   to: 28.042,-26.197
   type: train
 
-- country: USA
-  route: Maui - Cape Town
+- route: Maui - Cape Town
   start_date: July 1, 2017
   end_date: September 15, 2017
   from: -156.430,20.899
   to: 18.597,-33.969
   type: flight
 
-- country: South Africa
-  route: Johannesburg - Sao Paolo
+- route: DC - Maui
+  start_date: July 1, 2017
+  end_date: September 15, 2017
+  from: -77.456,38.944
+  to: -156.430,20.899
+  type: flight
+
+- route: Johannesburg - Sao Paolo
   start_date: October 1, 2017
   end_date: October 1, 2017
   from: 28.241,-26.137
   to: -46.482,-23.427
   type: rtw
 
-- country: Chile
-  route: Santiago - Melbourne
-  start_date: October 1, 2017
-  end_date: October 1, 2017
-  from: -70.794,-33.397
-  to: -179.999,-63
-  type: rtw
-
-- country: Chile
-  route: Santiago - Melbourne
-  start_date: October 1, 2017
-  end_date: October 1, 2017
-  from: 179.999,-63
-  to: 144.844,-37.669
-  type: rtw
-
-- country: UK
-  route: London - Mauritius
-  start_date: October 1, 2017
-  end_date: October 1, 2017
-  from: -0.185,51.153
-  to: 57.678,-20.433
-  type: rtw
-
-- country: Mauritius
-  route: Mauritius - Reno
+- route: Mauritius - Reno
   start_date: October 1, 2017
   end_date: October 1, 2017
   from: 57.678,-20.433
   to: -119.771,39.502
   type: flight
 
+- route: Sao Paolo - Buenos Aires
+  start_date: October 16, 2017
+  end_date: October 16, 2017
+  from: -46.482,-23.427
+  to: -58.530,-34.822
+  type: rtw
+
+- route: Buenos Aires - Easter Island
+  start_date: October 30, 2017
+  end_date: October 30, 2017
+  from: -58.530,-34.822
+  to: -109.430,-27.159
+  type: rtw
+
+- route: Easter Island - Santiago
+  start_date: October 30, 2017
+  end_date: October 30, 2017
+  from: -109.430,-27.159
+  to: -70.794,-33.397
+  type: rtw
+
+
+- route: Santiago - Melbourne
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: -70.794,-33.397
+  to: -179.999,-63
+  type: rtw
+
+- route: Santiago - Melbourne
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: 179.999,-63
+  to: 144.844,-37.669
+  type: rtw
+
+- route: Melbourne - Singapore
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: 144.844,-37.669
+  to: 103.988,1.354
+  type: rtw
+
+- route: Kuala Lumpur - Delhi
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: 101.698,2.746
+  to: 77.094,28.557
+  type: rtw
+
+- route: Delhi - Tokyo
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: 77.094,28.557
+  to: 140.388,35.768
+  type: rtw
+
+- route: Tokyo - Beijing
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: 140.388,35.768
+  to: 116.602,40.068
+  type: rtw
+
+- route: Beijing - Hong Kong
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: 116.602,40.068
+  to: 113.915,22.308
+  type: rtw
+
+- route: Hong Kong - Amman
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: 113.915,22.308
+  to: 35.995,31.723
+  type: rtw
+
+- route: Amman - Barcelona
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: 35.995,31.723
+  to: 2.079,41.295
+  type: rtw
+
+- route: London - Mauritius
+  start_date: October 1, 2017
+  end_date: October 1, 2017
+  from: -0.185,51.153
+  to: 57.678,-20.433
+  type: rtw
