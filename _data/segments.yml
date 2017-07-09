@@ -40,13 +40,6 @@
   to: -46.482,-23.427
   type: bus
 
-- route: Mauritius - Reno
-  start_date: August 12, 2018
-  end_date: August 14, 2018
-  from: 57.678,-20.433
-  to: -119.771,39.502
-  type: flight
-
 - route: Sao Paolo - Buenos Aires
   start_date: October 16, 2017
   end_date: October 16, 2017
@@ -599,3 +592,17 @@
   from: -0.185,51.153
   to: 57.678,-20.433
   type: rtw
+
+- route: Mauritius - Reno
+  start_date: August 12, 2018
+  end_date: August 14, 2018
+  from: 57.678,-20.433
+  to: -119.771,39.502
+  type: flight
+
+- route: Reno - Inlet
+  start_date: August 17, 2018
+  end_date: August 17, 2018
+  from: -119.771,39.502
+  to: -74.853011, 43.753179
+  type: flight
