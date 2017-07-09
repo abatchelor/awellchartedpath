@@ -78,6 +78,8 @@ var map = new mapboxgl.Map({
     attributionControl: true
 });
 
+map.touchZoomRotate.disableRotation();
+
 var count = 0;
 var route = [];
 var red = '#F7455D';
