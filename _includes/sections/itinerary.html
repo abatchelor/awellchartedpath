@@ -8,14 +8,17 @@
 		#itinerary  {
 			height: 80%;
 			width: 50%;
-			overflow: scroll;
+			overflow-y: scroll;
 			float: right;
+		}
+		.vertical-timeline-block:last-child {
+    		margin-bottom: 400px !important; 
 		}
 		timeline {
 			width: 50%;
 		}
-    }       
-	
+    }  
+    
 	@media screen and (max-width: 767px) {  
     	#i18_career {
 			height: 200px;
@@ -24,7 +27,7 @@
 		#itinerary  {
 			height: 80%;
 			width: 100%;
-			overflow: scroll;
+			overflow-y: scroll;
 		}
 		timeline {
 			width: 50%;
@@ -36,8 +39,8 @@
 <div class="container scroll" id="i18_career">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <div class="navy-line"></div>
-            <h1><span data-i18n="career.my_career">Itinerary</span></h1>
+            <div class="navy-line" id="ItineraryStart" ></div>
+            <h1><span data-i18n="career.my_career" id="ItineraryGap" >Itinerary</span></h1>
         </div>
     </div>
     <div class="row features-block">
@@ -49,7 +52,7 @@
                     <div class="vertical-timeline-icon navy-bg ">
                         <i class="fa {{ place.icon }}"></i>
                     </div>
-                    <div class="vertical-timeline-content ">
+                    <div class="vertical-timeline-content" id="{{ place.start_date }}">
                         <h2><span data-i18n="place.{{ place.country }}">{{ place.country }}</span></h2>
                         {% for city in place.city %}
                         <p><span data-i18n="place.{{ place.city }}">{{ city }} </span></p>
