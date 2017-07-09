@@ -243,6 +243,20 @@
   to: 99.824469, 10.072483
   type: boat
 
+- route: Surat Thani - Phuket
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 99.297940, 9.111529
+  to: 98.390327, 7.870959
+  type: bus
+
+- route: Phuket - Bangkok
+  start_date: January 1, 2018
+  end_date: January 1, 2018
+  from: 98.390327, 7.870959
+  to: 100.516254, 13.739848
+  type: train
+
 - route: Bangkok - Vientiane
   start_date: January 1, 2018
   end_date: January 1, 2018
@@ -270,6 +284,90 @@
   from: 101.698,2.746
   to: 77.094,28.557
   type: rtw
+
+- route: New Delhi - Agra Cantt
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 77.219,28.643
+  to: 77.991,27.159
+  type: train
+
+- route: Agra Fort - Varanasi
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 78.018,27.183
+  to: 82.986,25.327
+  type: train
+
+- route: Varanasi - Gaya
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 82.986,25.327
+  to: 85.000,24.804
+  type: train
+
+- route: Gaya - Kolkata
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 85.000,24.804
+  to: 88.342,22.583
+  type: train
+
+- route: Kolkata - Mumbai
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 88.444,22.648
+  to: 72.868,19.089
+  type: flight
+
+- route: Mumbai - Ranakpur
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 72.836,18.941
+  to: 73.473,25.116
+  type: train
+
+- route: Ranakpur - Jodhpur
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 73.473,25.116
+  to: 73.022922, 26.283463
+  type: train
+
+- route: Jodhpur - Jaipur
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 73.022922, 26.283463
+  to: 75.787,26.920
+  type: train
+
+- route: Jaipur - Sawai Madhopur
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 75.787,26.920
+  to: 76.360,26.022
+  type: train
+
+- route: Sawai Madhopur - Amritsar
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 76.360,26.022
+  to: 74.867,31.633
+  type: train
+
+- route: Amritsar - Shimla
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 74.867,31.633
+  to: 77.159,31.103
+  type: train
+
+- route: Shimla - New Delhi
+  start_date: March 6, 2018
+  end_date: March 6, 2018
+  from: 77.159,31.103
+  to: 77.219,28.643
+  type: train
 
 - route: Delhi - Tokyo
   start_date: March 28, 2018
@@ -305,6 +403,195 @@
   from: 35.995,31.723
   to: 2.079,41.295
   type: rtw
+
+- route: Barcelona - Marseille
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 2.186,41.384
+  to: 5.380,43.303
+  type: train
+
+- route: Marseille - Porto Torres
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 5.362727, 43.305344
+  to: 8.377,40.841
+  type: boat
+
+- route: Porto Torres - Cagliari
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 8.398,40.838
+  to: 9.102,39.218
+  type: train
+
+- route: Cagliari - Palermo
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 9.112,39.211
+  to: 13.372,38.132
+  type: boat
+
+- route: Palermo - Naples
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 13.357,38.136
+  to: 14.274,40.853
+  type: train
+
+- route: Naples - Pompeii
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 14.274,40.853
+  to: 14.502,40.751
+  type: train
+
+- route: Naples - Rome
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 14.274,40.853
+  to: 12.502,41.901
+  type: train
+
+- route: Rome - Florence
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 12.502,41.901
+  to: 11.247,43.777
+  type: train
+
+- route: Florence - Pisa
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 11.247,43.777
+  to: 10.399,43.708
+  type: train
+
+- route: Pisa - Venice
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 10.399,43.708
+  to: 12.321,45.441
+  type: train
+
+- route: Venice - Milan
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 12.321,45.441
+  to: 9.175,45.469
+  type: train
+
+- route: Milan - Geneva
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 9.175,45.469
+  to: 6.142,46.210
+  type: train
+
+- route: Geneva - Munich
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 6.142,46.210
+  to: 11.555,48.141
+  type: train
+
+- route: Munich - Salzburg
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 11.555,48.141
+  to: 13.046,47.813
+  type: train
+
+- route: Salzburg - Vienna
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 13.046,47.813
+  to: 16.386,48.207
+  type: train
+
+- route: Vienna - Budapest
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 16.386,48.207
+  to: 19.025,47.499
+  type: train
+
+- route: Budapest - Prague
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 19.025,47.499
+  to: 14.436,50.083
+  type: train
+
+- route: Prague - Berlin
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 14.436,50.083
+  to: 13.374,52.499
+  type: train
+
+- route: Berlin - Copenhagen
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 13.374,52.499
+  to: 12.564,55.673
+  type: train
+
+- route: Copenhagen - Amsterdam
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 12.653,55.619
+  to: 4.758,52.306
+  type: flight
+
+- route: Amsterdam - Brussels
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 4.900,52.379
+  to: 4.335,50.835
+  type: train
+
+- route: Brussels - Paris
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 4.335,50.835
+  to: 2.375,48.844
+  type: train
+
+- route: Paris - Caen
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: 2.375,48.844
+  to: -0.343,49.179
+  type: train
+
+- route: Caen - Cherbourg
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: -0.343,49.179
+  to: -1.613,49.649
+  type: other
+
+- route: Cherbourg - Rosslare
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: -1.613,49.649
+  to: -6.336,52.255
+  type: boat
+
+- route: Rosslare - Dublin
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: -6.336,52.251
+  to: -6.254351, 53.347144
+  type: train
+
+- route: Dublin - London
+  start_date: May 5, 2018
+  end_date: May 5, 2018
+  from: -6.196255, 53.345029
+  to: -0.133737, 51.528245
+  type: boat
 
 - route: London - Mauritius
   start_date: August 5, 2018
