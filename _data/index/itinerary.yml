@@ -8,7 +8,6 @@
   end_date: September 1, 2017
   center: -5, 20
   zoom: 0.5
-  blog_post_link: BLOG POSTS
   icon: fa-calendar
 
 - country: Hawaii
@@ -18,7 +17,6 @@
   end_date: September 13, 2017
   center: -156.341,20.744
   zoom: 6.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: South Africa
@@ -29,7 +27,6 @@
   end_date: September 30, 2017
   center: 24.690, -28.530
   zoom: 4.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Brazil
@@ -40,7 +37,6 @@
   end_date: October 15, 2017
   center: -43.694,-22.911
   zoom: 5.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Argentina
@@ -50,7 +46,6 @@
   end_date: October 30, 2017
   center: -58.466,-34.614
   zoom: 7.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Chile
@@ -61,7 +56,6 @@
   end_date: November 16, 2017
   center: -85.566,-27.875
   zoom: 3.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Bolivia
@@ -71,7 +65,6 @@
   end_date: November 20, 2017
   center: -68.257,-16.489
   zoom: 7.2
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Peru
@@ -81,7 +74,6 @@
   end_date: December 7, 2017
   center: -71.981,-14.414
   zoom: 5.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Australia
@@ -92,7 +84,6 @@
   end_date: December 16, 2017
   center: 149.784,-28.021
   zoom: 3.2
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Singapore
@@ -102,7 +93,6 @@
   end_date: December 19, 2017
   center: 103.843,1.229
   zoom: 6.4
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Myanmar
@@ -116,7 +106,6 @@
   end_date: January 2, 2018
   center: 96.665,21.109
   zoom: 4.7
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Vietnam
@@ -127,7 +116,6 @@
   end_date: January 16, 2018
   center: 104.546,16.436
   zoom: 4.3
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Cambodia
@@ -138,7 +126,6 @@
   end_date: January 25, 2018
   center: 104.902,12.248
   zoom: 5.7
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Thailand
@@ -150,7 +137,6 @@
   end_date: February 21, 2018
   center: 101.490,13.039
   zoom: 4.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Laos
@@ -161,7 +147,6 @@
   end_date: March 1, 2018
   center: 103.889,18.206
   zoom: 4.9
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Malaysia
@@ -171,7 +156,6 @@
   end_date: March 4, 2018
   center: 101.911,2.933
   zoom: 6.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: India
@@ -192,7 +176,6 @@
   end_date: March 28, 2018
   center: 80.357,20.874
   zoom: 3.6
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Japan
@@ -204,7 +187,6 @@
   end_date: April 10, 2018
   center: 137.329,37.911
   zoom: 4.2
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: China
@@ -215,7 +197,6 @@
   end_date: April 21, 2018
   center: 116.353,31.191
   zoom: 4.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Jordan
@@ -225,7 +206,6 @@
   end_date: April 29, 2018
   center: 37.094,31.280
   zoom: 6.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Spain
@@ -235,7 +215,6 @@
   end_date: May 5, 2018
   center: 10.230,41.461
   zoom: 4.5
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: France
@@ -245,7 +224,6 @@
   end_date: May 8, 2018
   center: 10.230,41.461
   zoom: 4.5
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Italy
@@ -263,7 +241,6 @@
   end_date: June 4, 2018
   center: 13.244,41.496
   zoom: 4.9
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Switzerland
@@ -274,7 +251,6 @@
   end_date: June 7, 2018
   center: 7.647,48.597
   zoom: 4.4
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Germany
@@ -284,7 +260,6 @@
   end_date: June 10, 2018
   center: 7.647,48.597
   zoom: 4.4
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Austria
@@ -295,7 +270,6 @@
   end_date: June 17, 2018
   center: 7.647,48.597
   zoom: 4.4
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Hungary
@@ -305,7 +279,6 @@
   end_date: June 22, 2018
   center: 18.421,47.862
   zoom: 4.4
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
 - country: Czech Republic
@@ -315,7 +288,6 @@
   end_date: June 28, 2018
   center: 13.421,47.862
   zoom: 4.4
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
 - country: Germany
@@ -325,7 +297,6 @@
   end_date: July 1, 2018
   center: 7.647,48.597
   zoom: 4.4
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
 - country: Denmark
@@ -335,7 +306,6 @@
   end_date: July 7, 2018
   center: 11.234,55.559
   zoom: 4.7
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
 
 - country: Netherlands
@@ -345,7 +315,6 @@
   end_date: July 12, 2018
   center: 7.208,52.540
   zoom: 4.7
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
 - country: Belgium
@@ -355,7 +324,6 @@
   end_date: July 16, 2018
   center: 7.208,52.540
   zoom: 4.4
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
 - country: France
@@ -366,7 +334,6 @@
   end_date: July 24, 2018
   center: 0.952,49.063
   zoom: 5.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
 - country: Ireland
@@ -377,7 +344,6 @@
   end_date: July 30, 2018
   center: -3.029,51.890
   zoom: 4.5
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
 - country: United Kingdom
@@ -387,7 +353,6 @@
   end_date: August 5, 2018
   center: -3.029,51.890
   zoom: 5.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
 - country: Mauritius
@@ -397,7 +362,6 @@
   end_date: August 14, 2018
   center: 57.738,-20.303
   zoom: 7.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
   
 - country: United States
@@ -407,5 +371,4 @@
   end_date: 
   center: -120.707,39.801
   zoom: 7.0
-  blog_post_link: BLOG POSTS
   icon: fa-suitcase
