@@ -6,7 +6,7 @@
   type: train
 
 - route: Maui - Cape Town
-  start_date: July 1, 2017
+  start_date: July 15, 2017
   end_date: September 15, 2017
   from: -156.430,20.899
   to: 18.597,-33.969
@@ -14,7 +14,7 @@
 
 - route: DC - Maui
   start_date: July 1, 2017
-  end_date: September 15, 2017
+  end_date: September 1, 2017
   from: -77.456,38.944
   to: -156.430,20.899
   type: flight
@@ -26,9 +26,23 @@
   to: -46.482,-23.427
   type: rtw
 
+- route: Sao Paolo - Rio
+  start_date: October 7, 2017
+  end_date: October 7, 2017
+  from: -46.482,-23.427
+  to: -43.248,-22.817
+  type: flight
+
+- route: Rio - Sao Paolo
+  start_date: October 14, 2017
+  end_date: October 15, 2017
+  from: -43.193,-22.902
+  to: -46.482,-23.427
+  type: bus
+
 - route: Mauritius - Reno
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: August 12, 2018
+  end_date: August 14, 2018
   from: 57.678,-20.433
   to: -119.771,39.502
   type: flight
@@ -48,79 +62,141 @@
   type: rtw
 
 - route: Easter Island - Santiago
-  start_date: October 30, 2017
-  end_date: October 30, 2017
+  start_date: November 5, 2017
+  end_date: November 5, 2017
   from: -109.430,-27.159
   to: -70.794,-33.397
   type: rtw
 
+- route: Santiago - La Paz
+  start_date: November 7, 2017
+  end_date: November 7, 2017
+  from: -70.794,-33.397
+  to: -68.187,-16.510
+  type: flight
+
+- route: La Paz - Cuzco
+  start_date: November 10, 2017
+  end_date: November 10, 2017
+  from: -68.135,-16.498
+  to: -71.979,-13.517
+  type: bus
+
+- route: Cuzco - Lima
+  start_date: November 13, 2017
+  end_date: November 15, 2017
+  from: -71.979,-13.517
+  to: -77.034,-12.062
+  type: bus
+
+- route: Lima - Tacna
+  start_date: November 17, 2017
+  end_date: November 17, 2017
+  from: -77.105,-12.033
+  to: -70.276,-18.051
+  type: flight
+
+- route: Tacna - Santiago
+  start_date: November 20, 2017
+  end_date: November 27, 2017
+  from: -70.247,-18.014
+  to: -70.650,-33.437
+  type: bus
 
 - route: Santiago - Melbourne
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: December 7, 2017
+  end_date: December 8, 2017
   from: -70.794,-33.397
   to: -179.999,-63
   type: rtw
 
 - route: Santiago - Melbourne
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: December 8, 2017
+  end_date: December 8, 2017
   from: 179.999,-63
   to: 144.844,-37.669
   type: rtw
 
+- route: Melbourne - Cairns
+  start_date: December 10, 2017
+  end_date: December 10, 2017
+  from: 144.844,-37.669
+  to: 145.753,-16.877
+  type: flight
+
+- route: Cairns - Reef
+  start_date: December 12, 2017
+  end_date: December 13, 2017
+  from: 145.781,-16.918
+  to: 149.415,-13.983
+  type: boat
+
+- route: Cairns - Melbourne
+  start_date: December 15, 2017
+  end_date: December 15, 2017
+  from: 145.753,-16.877
+  to: 144.844,-37.669
+  type: flight
+
 - route: Melbourne - Singapore
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: December 17, 2017
+  end_date: December 17, 2017
   from: 144.844,-37.669
   to: 103.988,1.354
   type: rtw
 
+- route: Singapore - Yangon
+  start_date: December 20, 2017
+  end_date: December 20, 2017
+  from: 103.988,1.354
+  to: 96.133,16.904
+  type: flight
+
 - route: Kuala Lumpur - Delhi
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: March 5, 2018
+  end_date: March 5, 2018
   from: 101.698,2.746
   to: 77.094,28.557
   type: rtw
 
 - route: Delhi - Tokyo
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: March 28, 2018
+  end_date: March 29, 2018
   from: 77.094,28.557
   to: 140.388,35.768
   type: rtw
 
 - route: Tokyo - Beijing
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: April 11, 2018
+  end_date: April 11, 2018
   from: 140.388,35.768
   to: 116.602,40.068
   type: rtw
 
 - route: Beijing - Hong Kong
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: April 17, 2018
+  end_date: April 17, 2018
   from: 116.602,40.068
   to: 113.915,22.308
   type: rtw
 
 - route: Hong Kong - Amman
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: April 21, 2018
+  end_date: April 22, 2018
   from: 113.915,22.308
   to: 35.995,31.723
   type: rtw
 
 - route: Amman - Barcelona
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: April 30, 2018
+  end_date: April 30, 2018
   from: 35.995,31.723
   to: 2.079,41.295
   type: rtw
 
 - route: London - Mauritius
-  start_date: October 1, 2017
-  end_date: October 1, 2017
+  start_date: August 5, 2018
+  end_date: August 6, 2018
   from: -0.185,51.153
   to: 57.678,-20.433
   type: rtw
