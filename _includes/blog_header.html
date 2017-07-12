@@ -24,6 +24,7 @@
                 <a class="navbar-brand" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
+            <a class="nav navbar-nav navbar-right page-scroll" href="#page-top"><img src="/static/assets/img/android-chrome-144x144.png" height="67px" class="navbar-right"></a>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a class="page-scroll" href="{{ "blog/" | prepend: site.baseurl }}">{{ site.index.home }}</a></li>
                     {% for tag in site.data.blog %}
