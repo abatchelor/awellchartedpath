@@ -48,7 +48,9 @@ permalink: /blog/
 		   <i class="fa fa-user"></i> <a class="bloghead">{{ author.name }}</a>
 			 {% endif %} 
 		   {% endfor %}<a class="bloghead" style="float: right">{{ post.date | date: "%-d %b %Y" }}</a>
+		   {% if post.image %}
 			<br><img src="/static/assets/img/blog/{{post.image}}" class="img-center" alt="">
+		   {% endif %}
 	   </div></div>
 	   {% endfor %}
 	</div>
