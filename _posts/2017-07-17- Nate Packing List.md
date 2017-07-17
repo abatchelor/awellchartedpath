@@ -38,7 +38,7 @@ I chose the <a href="https://www.tortugabackpacks.com/products/outbreaker-travel
 - Eyeglasses
 - Sunglasses
 
-<a class="nav navbar-nav navbar-right page-scroll" href="https://www.rei.com/product/114593/merrell-moab-2-vent-low-hiking-shoes-womens" target="_blank"><img src="/static/assets/img/blog/shoe.png" width="350px" ></a>
+<a class="nav navbar-nav navbar-right page-scroll" href="https://www.rei.com/product/114593/merrell-moab-2-vent-low-hiking-shoes-womens" target="_blank"><img src="INSERT PHOTO" width="350px" ></a>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Shoes
 
@@ -64,7 +64,7 @@ I chose the <a href="https://www.tortugabackpacks.com/products/outbreaker-travel
 - Bandaid (lots of them)
 - Rehydration Salts-  <a href="https://www.amazon.com/gp/product/B00OG8G9U2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OG8G9U2&linkCode=as2&tag=awellchartedp-20&linkId=2feb6169b421e824d9bbc835d33c7e86" target="_blank"> These</a> will hopefully make the inevitable stomach related suffering less painful and reduce the amount of time we are out of commission. 
 
-<a class="nav navbar-nav navbar-right page-scroll"><img src="/static/assets/img/blog/packingopenbag.JPG" height="400px" ></a>
+<a class="nav navbar-nav navbar-right page-scroll"><img src="INSERT PHOTO" height="400px" ></a>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Odds and Ends
 

@@ -38,7 +38,15 @@ $(function(){
                                 <h2>{{ post.title }}</h2>
                             </a>
                             <div class="small m-b-xs">
-                                <strong>{{ site.author.name }}</strong> <span class="text-muted"><i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }}</span>
+                            
+                            {% for author in site.data.authors %}
+			 {% if author.name != post.author %}
+			 {% else %}
+		   <strong>{{ author.name }}</strong>
+			 {% endif %} 
+		   {% endfor %}
+                            
+                                 <span class="text-muted"><i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }}</span>
                             </div>
                             <p>
                                 {{ post.content | strip_html | truncate:100 }}
