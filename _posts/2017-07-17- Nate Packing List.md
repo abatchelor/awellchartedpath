@@ -20,7 +20,7 @@ country: Planning
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> The Backpack
  
-I chose the <a href="https://www.tortugabackpacks.com/products/outbreaker-travel-backpack" target="_blank"> Tortuga</a>.
+I chose the <a href="https://www.tortugabackpacks.com/products/outbreaker-travel-backpack" target="_blank"> Tortuga</a>. It is a compact bag with plenty of pockets to keep everything organized. It also has adjustable straps to make it customizzable to what is most comfortable for you.
  
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Clothing
 
@@ -43,7 +43,7 @@ I chose the <a href="https://www.tortugabackpacks.com/products/outbreaker-travel
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Shoes
 
 - 1 tennis shoes/<a href="https://www.amazon.com/gp/product/B000PAD2SM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000PAD2SM&linkCode=as2&tag=awellchartedp-20&linkId=fe92869da8e13d3901e2ead1418b32fc" target="_blank"> hiking shoe</a>– I went with a more hiking focused shoe because we had several fairly long hikes planned.
-- 1 sandals– <a href="http://www.zappos.com/p/merrell-all-out-blaze-flip-dusty-olive/product/8807499/color/3543" target="_blank"> These</a> are comfortable and durable.
+- 1 sandals– <a href="http://www.zappos.com/p/teva-pajaro-turkish-coffee/product/8256109/color/78854" target="_blank"> These</a> are comfortable and durable. After a few test runs before we left for the trip, I had no complaints.
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Toiletries
 
