@@ -40,11 +40,11 @@ $(function(){
                             <div class="small m-b-xs">
                             
                             {% for author in site.data.authors %}
-			 {% if author.name != post.author %}
-			 {% else %}
-		   <strong>{{ author.name }}</strong>
-			 {% endif %} 
-		   {% endfor %}
+							 {% if author.name != post.author %}
+							 {% else %}
+						   <strong>{{ author.name }}</strong>
+							 {% endif %} 
+						   {% endfor %}
                             
                                  <span class="text-muted"><i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }}</span>
                             </div>
