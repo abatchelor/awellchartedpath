@@ -41,6 +41,23 @@ permalink: /blog/
         <h1>Latest Blog Posts</h1>
     </div>
 </div>
+
+<!-- jPages -->
+<script src="{{"/static/assets/jPage-20170606.min.js" | prepend: site.baseurl}}"></script>
+<script type="text/javascript">
+$(function(){
+  /* initiate the plugin */
+  $("div.pag-holder").jPages({
+      containerID  : "pag-itemContainer",
+      perPage      : 10,  /* num of items per page */
+      startPage    : 1,
+      startRange   : 1,
+      midRange     : 3,
+      endRange     : 1
+  });
+});
+</script>
+
 <div style="min-height: 15px;"></div>
 <div class="row">
 	<div class="col-lg-10 col-lg-offset-1 col-sm-10 col-sm-offset-1 col-xs-10 col-xs-offset-1">
@@ -50,4 +67,5 @@ permalink: /blog/
 	   {% endfor %}
 	</div>
 	</div>
+	{% include pagination.html %}
 </div>
