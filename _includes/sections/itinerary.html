@@ -37,6 +37,11 @@
 	#itinToBlog {
 		padding: 3px;
 	}
+	
+	span.rotate {
+  		transform: rotate(180deg);
+  		display: inline-block;
+  	}
     </style>
 </head>
 <div class="container scroll" id="i18_career">
@@ -63,7 +68,11 @@
                         <span class="vertical-date"><span data-i18n="place.{{ place.start_date }}"> {% unless place.country == 'Planning' %}{{ place.start_date | date: "%B %d" }} - {{ place.end_date | date: "%B %d, %Y" }} {% endunless %}</span>
                         {% for post in site.posts | where: "country", place.country  %}
                         {% if post.country == place.country %}
-                        	<br/><div id="itinToBlog">➣ <small><span data-i18n="place.{{ place.blog_post_link }}"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span></small></div>
+                        	{% if loopindex == 1 %}
+                        		<div id="itinToBlog">➣ <small><span data-i18n="place.{{ place.blog_post_link }}"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span></small></div>
+                        	{% else %}
+                        	    <div id="itinToBlog"><small><span data-i18n="place.{{ place.blog_post_link }}"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span></small> <span class="rotate">➣</span></div>
+                        	{% endif %}
                         {% endif %}
                         {% endfor %}
                     </div>
