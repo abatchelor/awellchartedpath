@@ -45,7 +45,11 @@ $(function(){
 	text-align: center;
 	color: {% assign picked_color = site.data.segment-colors | where: "type", "flight" %}{{ picked_color[0].color }};
 }
-@media screen and (max-width: 767px) { .mobilespacer { min-height: 20px; } }       
+@media screen and (max-width: 767px) { 
+	.mobilespacer { 
+		min-height: 20px; 
+	} 
+}       
 </style>
 </head>
 
