@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "His Packing List"
-date:   2017-07-17
+date:   2017-08-03
 desc: "RTW Packing List for Him"
 keywords: "travel, packing list, RTW, backpacking, what to pack"
 categories: [Planning]
