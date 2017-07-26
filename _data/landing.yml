@@ -6,6 +6,12 @@
   tpl: about.html
   css:
 
+- id: counters
+  i18n: nav.counters
+  name: Counters
+  tpl: counters.html
+  css: 
+
 - id: itinerary
   i18n: nav.itinerary
   name: Intinerary

@@ -1,0 +1,39 @@
+<div class="container" id="i18_about_me">
+    <div class="row m-b-lg">
+        <div class="col-lg-12 text-center">
+			<ul>
+			  <li>Miles Flown: 
+			  	{% assign counter = 0 %}
+			  	{% for miles in site.data.days %}
+			  		{% assign counter = counter | plus: miles.fly %}
+			  	{% endfor %}
+			  	{{ counter }}</li>
+			  <li>Miles Trained: 
+			  	{% assign counter = 0 %}
+			  	{% for miles in site.data.days %}
+			  		{% assign counter = counter | plus: miles.train %}
+			  	{% endfor %}
+			  	{{ counter }}</li>
+			  <li>Miles Driven: 
+			  	{% assign counter = 0 %}
+			  	{% for miles in site.data.days %}
+			  		{% assign counter = counter | plus: miles.drive %}
+			  	{% endfor %}
+			  	{{ counter }}</li>
+			  <li>Miles Boated: 
+			  	{% assign counter = 0 %}
+			  	{% for miles in site.data.days %}
+			  		{% assign counter = counter | plus: miles.boat %}
+			  	{% endfor %}
+			  	{{ counter }}</li>
+			  <li>Miles Walked: 
+			  	{% assign counter = 0 %}
+			  	{% for miles in site.data.days %}
+			  		{% assign counter = counter | plus: miles.walk %}
+			  	{% endfor %}
+			  	{{ counter }}</li>
+			  <li>Countries Visited: </li>
+			</ul>
+        </div>
+    </div>
+</div>

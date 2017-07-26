@@ -1,0 +1,13 @@
+- day: September 1, 2017
+  fly: 5613
+  train: 0
+  drive: 15
+  boat: 0
+  walk: 2
+
+- day: September 2, 2017
+  fly: 0
+  train: 0
+  drive: 33
+  boat: 15
+  walk: 13
