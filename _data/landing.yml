@@ -11,6 +11,7 @@
   name: Counters
   tpl: counters.html
   css: 
+  background: white
 
 - id: itinerary
   i18n: nav.itinerary
@@ -37,6 +38,7 @@
   name: Blog
   tpl: blog.html
   css: 
+  background: white
 
 - id: links
   i18n: nav.link

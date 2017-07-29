@@ -20,7 +20,7 @@ permalink: /
       	<a class="nav navbar-nav navbar-right page-scroll" href="#page-top"><img src="/static/assets/img/android-chrome-144x144.png" height="67px" class="navbar-right"></a>
         <ul class="nav navbar-nav navbar-right" id="i18_navbar">
           {% for section in site.data.landing %}
-            {% unless section.hidden == true %}
+            {% unless section.hidden == true or section.name == "Counters" %}
           <li>
           {% if section.name == 'Blog' %}
             <a class="page-scroll" href="/blog/">
@@ -84,7 +84,7 @@ permalink: /
 {% for section in site.data.landing %}
 {% unless section.hidden == true %}
 {% assign loopindex = forloop.index | modulo: 2 %}
-<section id="{{ section.id }}" class="features {% if section.background %} {{ section.background }} {% endif %} {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0;">
+<section id="{{ section.id }}" class="features {% if section.background == 'gray-section' %} {{ section.background }} {% endif %} {% if loopindex != 1 %} {% unless section.background == 'white' %}gray-section{%endunless%} {% endif %} {{ section.css }}" style="margin-top: 0;">
   {% include sections/{{section.tpl}} %}
 </section>
 {% endunless %}
