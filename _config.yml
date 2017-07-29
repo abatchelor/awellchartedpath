@@ -9,11 +9,6 @@ url: http://site.awellchartedpath.com  # url should be 'http://<github_username>
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
-scope:
-  path: "/static/assets/img/windows"
-values:
-  window: true
-
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Amy   # Be used at blog posts' author.
