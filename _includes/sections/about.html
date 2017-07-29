@@ -1,6 +1,6 @@
 <div class="container" id="i18_about_me">
     <div class="row m-b-lg">
-        <div class="col-lg-6 text-center">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center">
             <div class="navy-line"></div>
             <h1><span data-i18n="about_me.about_me"style= color:#2495C4><strong>A Well Charted Path</strong></span></h1>
             <p>We are two people traveling a well charted path. </p>
@@ -10,16 +10,26 @@
             
             <p>Do you live in one of the countries we're visiting? Or have you visited somewhere we're headed?</p>
             <p> Give us <a href="/suggestions">suggestions</a>.</p>
+            <div style="position: relative; min-height: 15px"></div>
+            {% include social-media-icons.html %}  
+        
+        <div class="col-xs-4">
+            <div class="team-member wow zoomIn" >
+    	
+            </div>
+            
+        </div>
+        
         </div>
  
-        <div class="col-lg-6 text-center">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center">
         {% for image in site.static_files reversed %}
    			{% if image.path contains 'img/windows' %}
-        		<img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="height: 400px; margin-top: 25px; margin-left: 25px; margin-right: 25px; padding-top: 25px; padding-right: 25px; padding-left: 25px; padding-botton: 5px"/>
+        		<img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="height: 400px; margin-top: 25px; padding-top: 25px; padding-right: 25px; padding-left: 25px; padding-botton: 5px"/>
     			{% break %}
     		{% endif %}
 		{% endfor %}
-			  <h2><span data-i18n="about_me.about_me"> Today's View </span></h2>
+			  <h2 class="text-center"><span data-i18n="about_me.about_me"> Today's View </span></h2>
         </div>
     </div>
  </div>
