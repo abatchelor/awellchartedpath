@@ -6,13 +6,6 @@
   tpl: about.html
   css:
 
-- id: counters
-  i18n: nav.counters
-  name: Counters
-  tpl: counters.html
-  css: 
-  background: white
-
 - id: itinerary
   i18n: nav.itinerary
   name: Intinerary
@@ -26,6 +19,13 @@
   tpl: map.html
   css: 
 
+- id: counters
+  i18n: nav.counters
+  name: Counters
+  tpl: counters.html
+  css: 
+  background: white
+
 - id: projects
   i18n: nav.projects
   name: Projects
@@ -38,7 +38,7 @@
   name: Blog
   tpl: blog.html
   css: 
-  background: white
+  background: 
 
 - id: links
   i18n: nav.link
