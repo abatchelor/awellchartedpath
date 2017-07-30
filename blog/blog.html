@@ -68,8 +68,16 @@ $(function(){
 	<div class="row" id="pag-itemContainer">
 	   {% assign counter = 0 %}
 	   {% for post in site.posts %}
-       {% assign counter = counter | plus: 1 %}
-	   {% include blog_format.html %}
+		   {% capture nowunix %}
+				{{'now' | date: '%s'}}
+			{% endcapture %}
+			{% capture segmenttime %}
+				{{segment.start_date | date: '%s'}}
+			{% endcapture %}
+			{% if segmenttime < nowunix %}
+				{% assign counter = counter | plus: 1 %}
+	   			{% include blog_format.html %}
+			{% endif %}
 	   {% endfor %}
 	</div>
 	</div>
