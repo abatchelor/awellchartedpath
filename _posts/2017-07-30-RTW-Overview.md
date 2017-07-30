@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'Round the World Tickets"
-date:   2017-07-30
+date:   2017-08-01
 desc: "How to plan and book around the world (RTW) airplane tickets while saving thousands of dollars per person"
 keywords: "travel, RTW, airplane, oneworld"
 categories: [Planning]
