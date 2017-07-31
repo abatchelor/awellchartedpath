@@ -6,8 +6,8 @@ desc: "How to plan and book around the world (RTW) airplane tickets while saving
 keywords: "travel, RTW, airplane, oneworld"
 categories: [Planning]
 tags: Planning, RTW
-icon: blog/icon-html
-image: zoomedOutMap.png
+icon: icon-html
+image: blog/zoomedOutMap.png
 author: Nate
 country: Planning
 ---
