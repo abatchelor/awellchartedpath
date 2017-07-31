@@ -6,7 +6,7 @@ desc: "RTW Packing List for Him"
 keywords: "travel, packing list, RTW, backpacking, what to pack"
 categories: [Planning]
 tags: Planning
-icon: icon-html
+icon: blog/icon-html
 image: 
 author: Nate
 country: Planning
