@@ -29,6 +29,8 @@ Places we'd never otherwise go; Easter Island, Mauritius
 
 Spreadsheet, planning of overall direction and then order within continents
 
+Weather picking spreadsheet: https://docs.google.com/spreadsheets/d/1zVCiIVfc6axeJSigPRdt1n0pEsk6MYaUgzNNIBLU1ig/copy
+
 ## Pick flights with flexibility when possible
 
 Check to see if they're daily or more rare - easier to change a daily flight later than one that only goes once a week
