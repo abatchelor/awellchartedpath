@@ -41,13 +41,21 @@ With the big picture considerations about our travel style out of the way, we ca
 
 To get costs for each country, we made estimates about the cost of non-RTW transporation, visas, accomodations, entertainment, food, and special treats. We had an entry for each of these categories for each stop on our trip. We added to this the cost of our RTW flights, travelers' insurance, and phone bills. OUr $62,000 estimate also does not include the cost of any clothes or equipment we got for this trip. A lot of what we are taking we already had and we were able to get many of the other items as gifts over the last several years. For more on packing and the cost of equipment see our packing list posts for <a href="http://site.awellchartedpath.com/planning/2017/08/02/Packing.html" target="_blank"> a female</a> and for <a href="http://site.awellchartedpath.com/planning/2017/08/03/Nate-Packing-List.html" target="_blank"> a male</a>.
 
+- Transporation 
+
 Entries in the budget for non-RTW transportation includes trains, buses, and boats to take day trips and to visit other cities that we couldn't fit into our 16 RTW flights. This includes the train across South Africa, the flights in South East Asia, and all the trains and ferries we'll take in Europe. 
 
+- Accomodations
+ 
  To get the cost for accomodations, we researched the range of costs for Airbnbs in areas where that was a good option, and private hostel rooms or low cost hotels in places where it wasn't. 
+ 
+ - Food/Drink
  
 For food, I used a lot of advice for <a href="https://www.nomadicmatt.com/travel-guides/" target="_blank"> Nomadic Matt</a> and some research on average cost of groceries for different countries. Doing this let us budget $8 a day for food in Thailand per person and $20 in London. Spending just $20 a day in London may seem crazy but we'll buy most of our food at the grocery store because we're only stay places where there is at least a basic kitchen or a hotplate. 
 
+- Special Treats/Bucket List Items
 
+For us this category included an overnight sail boat trip out to snorket/dive the Great Barrier Reef, spend two days in Petra, visit Machu Picchu, and do some wine tasting trips in South Africa and Chile.  
 
 
 
