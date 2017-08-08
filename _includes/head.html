@@ -25,11 +25,11 @@
         <meta property="og:title" content="{{ site.title }}" />
 {% endif %}
 	<meta property="og:type" content="blog" />
-	<meta property="og:url" content="{{page.url}}" />
+	<meta property="og:url" content="{{page.url | prepend: site.baseurl}}" />
 {% if page.image %}
-    <meta property="og:image" content="/static/assets/img/{{page.image}}" />
+    <meta property="og:image" content="{{ site.baseurl }}/static/assets/img/{{page.image}}" />
     {% else %}
-	<meta property="og:image" content="{{ "/static/assets/img/map-icon.png" | prepend: site.baseurl }}">
+	<meta property="og:image" content="{{ "/static/assets/img/map-icon.png" | prepend: site.baseurl }}"/>
 {% endif %}
 {% if page.desc %}
 	<meta property="og:description" content="{{page.desc}}" />
