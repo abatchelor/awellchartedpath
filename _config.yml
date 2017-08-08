@@ -2,7 +2,7 @@
 
 # Website settings
 title: A Well Charted Path
-description: Travel blog.
+description: We are two people traveling a well charted path to 34 countries across 6 continents over 11 months.
 keywords: travel, RTW
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://site.awellchartedpath.com  # url should be 'http://<github_username>.github.io/homepage' as before
