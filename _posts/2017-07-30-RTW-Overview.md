@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'Round the World Tickets"
-date:   2017-08-01
+date:   2017-08-02
 desc: "How to plan and book around the world (RTW) airplane tickets while saving thousands of dollars per person"
 keywords: "travel, RTW, airplane, oneworld"
 categories: [Planning]
@@ -82,6 +82,6 @@ There are a number of ways to actually book a Oneworld RTW, though depending on 
 
 Check out our other posts about how we planned and booked our RTW: 
 
-- [Planning our route around the world]()
-- [Buying our RTW plane tickets]()
+- Planning our route around the world _[coming soon]_
+- Buying our RTW plane tickets _[coming soon]_
 - Making changes to our RTW mid-trip _[coming eventually, I'm sure]_

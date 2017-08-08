@@ -44,6 +44,7 @@
 	<div class="row">
 	   {% assign counter = 0 %}
 	   {% for post in site.posts %}
+	   	 {% unless post.hidden %}
 		   {% capture nowunix %}
 				{{'now' | date: '%s'}}
 			{% endcapture %}
@@ -57,6 +58,7 @@
 			{% if counter == 3 %}
 				{% break %}
 			{% endif %}
+		  {% endunless %}
 	   {% endfor %}
 	</div>
 	</div>

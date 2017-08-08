@@ -6,6 +6,22 @@
   <meta content="{{ site.description }}" name="description">
   <meta name="keywords" content="{{ site.keywords }}">
   <meta name="author" content="{{ site.author.name }}">
+    <!-- Open Graph data -->
+{% if page.title != "index" %}
+        <meta property="og:title" content="{{ site.title }} | {{ page.title }}" />
+    {% else %}
+        <meta property="og:title" content="{{ site.title }}" />
+{% endif %}
+	<meta property="og:type" content="blog" />
+	<meta property="og:url" content="{{page.url}}" />
+{% if page.image %}
+    <meta property="og:image" content="/static/assets/img/{{page.image}}" />
+    {% else %}
+	<meta property="og:image" content="{{ "/static/assets/img/map-icon.png" | prepend: site.baseurl }}">
+{% endif %}
+{% if page.desc %}
+	<meta property="og:description" content="{{page.desc}}" />
+{% endif %}
   <title>{{ site.title }}</title>
   <!-- favicon -->
   <link rel="shortcut icon" href="{{ "/static/assets/img/favicon.ico" | prepend: site.baseurl }}">

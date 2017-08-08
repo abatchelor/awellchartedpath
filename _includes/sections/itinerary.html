@@ -80,6 +80,7 @@
                          {% endfor %}
                         <span class="vertical-date"><span data-i18n="place.{{ place.start_date }}"> {% unless place.country == 'Planning' %}{{ place.start_date | date: "%B %d" }} - {{ place.end_date | date: "%B %d, %Y" }} {% endunless %}</span>
                         {% for post in site.posts reversed | where: "country", place.country  %}
+                        {% unless post.hidden %}
                         {% if post.country == place.country %}
                         	{% capture nowunix %}
 								{{'now' | date: '%s'}}
@@ -95,6 +96,7 @@
 								{% endif %}
                         	{% endif %}
                         {% endif %}
+                        {% endunless %}
                         {% endfor %}
                     </div>
                 </div>

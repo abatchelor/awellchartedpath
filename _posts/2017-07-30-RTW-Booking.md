@@ -10,6 +10,7 @@ icon: icon-html
 image: blog/zoomedOutMap.png
 author: Nate
 country: Planning
+hidden: true
 ---
 
 ## Trying to use the online tool 😞
