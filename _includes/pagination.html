@@ -10,6 +10,12 @@
 {% endif %}
 {% if counter == 0 %}
     <div class="col-lg-8 col-lg-offset-2">
-		<p>Sorry,no blog yet！</p>
+    	    {% assign words = page.url | remove:'/' | split: '-' %} {% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+		<p>We haven't written any posts about {{ titlecase }} yet.</p>
+    </div>
+        <div class="row">
+        <div class="col-lg-12 text-center wow zoomIn" id="i18_blog">
+            <a class="btn btn-lg btn-default btn-rounded btn-outline" href="{{ "/blog/" | prepend: site.baseurl }}"><span data-i18n="blog.my_blog">All Blog Posts</span></a>
+        </div>
     </div>
 {% endif %}
