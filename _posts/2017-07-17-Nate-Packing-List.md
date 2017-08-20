@@ -7,7 +7,7 @@ keywords: "travel, packing list, RTW, backpacking, what to pack"
 categories: [Planning]
 tags: Planning
 icon: blog/icon-html
-image: 
+image: /blog/natebpfull-sm.JPG
 author: Nate
 country: Planning
 hidden: true
@@ -16,7 +16,7 @@ hidden: true
 ## RTW Packing List for Him
 
 
-<a class="nav navbar-nav navbar-right page-scroll" href="https://www.tortugabackpacks.com/products/outbreaker-travel-backpack" target="_blank"><img src="INSERT PHOTO OF BACKBACK" height="400px" ></a>
+<a class="nav navbar-nav navbar-right page-scroll" href="https://www.tortugabackpacks.com/products/outbreaker-travel-backpack" target="_blank"><img src="/static/assets/img/blog/natebpfull-sm.JPG" height="400px" ></a>
 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> The Backpack
@@ -39,12 +39,13 @@ I chose the <a href="https://www.tortugabackpacks.com/products/outbreaker-travel
 - Eyeglasses
 - Sunglasses
 
-<a class="nav navbar-nav navbar-right page-scroll" href="https://www.rei.com/product/114593/merrell-moab-2-vent-low-hiking-shoes-womens" target="_blank"><img src="INSERT PHOTO" width="350px" ></a>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Shoes
 
 - 1 tennis shoes/<a href="https://www.amazon.com/gp/product/B000PAD2SM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000PAD2SM&linkCode=as2&tag=awellchartedp-20&linkId=fe92869da8e13d3901e2ead1418b32fc" target="_blank"> hiking shoe</a>– I went with a more hiking focused shoe because we had several fairly long hikes planned.
 - 1 sandals– <a href="http://www.zappos.com/p/teva-pajaro-turkish-coffee/product/8256109/color/78854" target="_blank"> These</a> are comfortable and durable. After a few test runs before we left for the trip, I had no complaints.
+
+<a class="nav navbar-nav navbar-right page-scroll" href="https://www.tortugabackpacks.com/products/outbreaker-travel-backpack" target="_blank"><img src="/static/assets/img/blog/FrontBackpack-sm.png" width="350px" ></a>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Toiletries
 
@@ -65,7 +66,6 @@ I chose the <a href="https://www.tortugabackpacks.com/products/outbreaker-travel
 - Bandaid (lots of them)
 - Rehydration Salts-  <a href="https://www.amazon.com/gp/product/B00OG8G9U2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OG8G9U2&linkCode=as2&tag=awellchartedp-20&linkId=2feb6169b421e824d9bbc835d33c7e86" target="_blank"> These</a> will hopefully make the inevitable stomach related suffering less painful and reduce the amount of time we are out of commission. 
 
-<a class="nav navbar-nav navbar-right page-scroll"><img src="INSERT PHOTO" height="400px" ></a>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Odds and Ends
 
@@ -79,6 +79,9 @@ I chose the <a href="https://www.tortugabackpacks.com/products/outbreaker-travel
 - 1 collapsible cup– a nice <a href="https://www.amazon.com/gp/product/B00HWNNLCW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HWNNLCW&linkCode=as2&tag=awellchartedp-20&linkId=ed7917b4b18a75fa20529cfb5d15d025" target="_blank"> Sea to Summit</a> cup for when you need wine on a train, or in a park, or some other beverage you'd like to share.
 - Laundry cable
 - Laundry detergent sheets
+
+<a class="nav navbar-nav navbar-right page-scroll"><img src="/static/assets/img/blog/openbackbp-sm.JPEG" height="400px" ></a>
+
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Electronics
 
