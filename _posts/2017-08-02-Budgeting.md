@@ -7,7 +7,7 @@ keywords: "travel, budget, RTW, backpacking, saving"
 categories: [Planning]
 tags: Planning
 icon: icon-html
-image: budgetspreadsheet.PNG
+image: blog/budgetspreadsheet.PNG
 author: 
  - Amy
  - Nate
