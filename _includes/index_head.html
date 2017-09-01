@@ -6,6 +6,24 @@
   <meta content="{{ site.description }}" name="description">
   <meta name="keywords" content="{{ site.keywords }}">
   <meta name="author" content="{{ site.author.name }}">
+    <!-- Open Graph data -->
+{% if page.title != "index" %}
+        <meta property="og:title" content="{{ site.title }} | {{ page.title }}" />
+    {% else %}
+        <meta property="og:title" content="{{ site.title }}" />
+{% endif %}
+	<meta property="og:type" content="blog" />
+	<meta property="og:url" content="{{page.url | prepend: site.url}}" />
+{% if page.image %}
+    <meta property="og:image" content="{{ site.url }}/static/assets/img/{{page.image}}" />
+    {% else %}
+	<meta property="og:image" content="{{ "/static/assets/img/map-icon-fb.png" | prepend: site.url }}"/>
+{% endif %}
+{% if page.desc %}
+	<meta property="og:description" content="{{page.desc}}" />
+{% else %}
+	<meta property="og:description" content="We are two people traveling a well charted path to 34 countries across 6 continents over 11 months." />
+{% endif %}
   <title>{{ site.title }}</title>
   <!-- favicon -->
   <link rel="shortcut icon" href="{{ "/static/assets/img/favicon.ico" | prepend: site.baseurl }}">

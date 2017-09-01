@@ -1,3 +1,4 @@
+<head>
 <!-- jPages -->
 <script src="{{"/static/assets/jPage-20170606.min.js" | prepend: site.baseurl}}"></script>
 <script type="text/javascript">
@@ -5,7 +6,7 @@ $(function(){
   /* initiate the plugin */
   $("div.pag-holder").jPages({
       containerID  : "pag-itemContainer",
-      perPage      : 5,  /* num of items per page */
+      perPage      : 12,  /* num of items per page */
       startPage    : 1,
       startRange   : 1,
       midRange     : 3,
@@ -14,6 +15,40 @@ $(function(){
 });
 </script>
 
+<style>
+.blogborder {
+    border-style: solid;
+    border-width: 2px;
+    border-color: {% assign picked_color = site.data.segment-colors | where: "type", "flight" %}{{ picked_color[0].color }};
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    min-height: 363px;
+    background: white;
+}
+.bloghead {
+	color: black;
+}
+.img-center {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  margin: auto;
+  vertical-align: text-bottom !important;
+}
+.vote-title {
+	min-height: 60px;
+	text-align: center;
+	color: {% assign picked_color = site.data.segment-colors | where: "type", "flight" %}{{ picked_color[0].color }};
+}
+@media screen and (max-width: 767px) { 
+	.mobilespacer { 
+		min-height: 20px; 
+	} 
+}       
+</style>
+</head>
+
+
 <div class="row">
     <div class="col-lg-12 text-center">
         <div class="navy-line"></div>
@@ -21,63 +56,32 @@ $(function(){
         {% if category == 'Html' %}
         {% assign category = category | upcase %}
         {% endif %}
-        <h1>{{ category }}</h1>
+        {% assign words = category | split: '-' %}
+			{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+        <h1>Latest {{ titlecase }} Blog Posts</h1>
     </div>
 </div>
-<div class="wrapper wrapper-content  animated fadeInRight blog">
-    <div class="row">
-        <ul id="pag-itemContainer" style="list-style:none;">
-            {% assign counter = 0 %}
-            {% for post in site.categories[category] %}
-            {% assign counter = counter | plus: 1 %}
-            <li>
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="ibox">
-                        <div class="ibox-content">
-                            <a href="{{ post.url | prepend: site.baseurl }}" class="btn-link">
-                                <h2>{{ post.title }}</h2>
-                            </a>
-                            <div class="small m-b-xs">
-                            
-                            {% for author in site.data.authors %}
-			 {% if author.name != post.author %}
-			 {% else %}
-		   <strong>{{ author.name }}</strong>
-			 {% endif %} 
-		   {% endfor %}
-                            
-                                 <span class="text-muted"><i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }}</span>
-                            </div>
-                            <p>
-                                {{ post.content | strip_html | truncate:100 }}
-                            </p>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <h5 style="display: inline;">Tags:</h5>
-                                    {% for tag in post.tags %}
-                                    <button class="btn btn-white btn-xs">{{ tag }}</button>
-                                    {% endfor %}
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="small text-right">
-                                        <h5>Stats:</h5>
-                                        <div>
-                                            {% if site.changyan %}
-                                            <i class="fa fa-comments-o"> </i> <span id="url::{{post.url | prepend: site.url}}" class="cy_cmt_count"></span> comments
-                                            {% endif %}
-                                            {% if site.disqus %}
-                                            <i class="fa fa-comments-o"> </i> <span class='disqus-comment-count' data-disqus-url="{{ site.url }}{{ post.url }}">0</span> comments
-                                            {% endif %}
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            {% endfor %}
-        </ul>
-        {% include pagination.html %}
-    </div>
+
+<div style="min-height: 15px;"></div>
+<div class="row">
+	<div class="col-lg-10 col-lg-offset-1 col-sm-10 col-sm-offset-1 col-xs-10 col-xs-offset-1">
+	<div class="row" id="pag-itemContainer">
+	   {% assign counter = 0 %}
+	   {%  for post in site.categories[category] %}
+	     {% unless post.hidden %}
+		   {% capture nowunix %}
+				{{'now' | date: '%s'}}
+			{% endcapture %}
+			{% capture postdate %}
+				{{post.date | date: '%s'}}
+			{% endcapture %}
+			{% if postdate < nowunix %}
+				{% assign counter = counter | plus: 1 %}
+	   			{% include blog_format.html %}
+			{% endif %}
+		  {% endunless %}
+	   {% endfor %}
+	</div>
+	</div>
+	{% include pagination.html %}
 </div>

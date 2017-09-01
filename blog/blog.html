@@ -5,6 +5,22 @@ permalink: /blog/
 ---
 
 <head>
+<!-- jPages -->
+<script src="{{"/static/assets/jPage-20170606.min.js" | prepend: site.baseurl}}"></script>
+<script type="text/javascript">
+$(function(){
+  /* initiate the plugin */
+  $("div.pag-holder").jPages({
+      containerID  : "pag-itemContainer",
+      perPage      : 12,  /* num of items per page */
+      startPage    : 1,
+      startRange   : 1,
+      midRange     : 3,
+      endRange     : 1
+  });
+});
+</script>
+
 <style>
 .blogborder {
     border-style: solid;
@@ -13,6 +29,7 @@ permalink: /blog/
     padding-right: 0px !important;
     padding-left: 0px !important;
     min-height: 363px;
+    background: white;
 }
 .bloghead {
 	color: black;
@@ -29,11 +46,14 @@ permalink: /blog/
 	text-align: center;
 	color: {% assign picked_color = site.data.segment-colors | where: "type", "flight" %}{{ picked_color[0].color }};
 }
-@media screen and (max-width: 767px) { .mobilespacer { min-height: 20px; position:relative;} }       
-
-
+@media screen and (max-width: 767px) { 
+	.mobilespacer { 
+		min-height: 20px; 
+	} 
+}       
 </style>
 </head>
+
 
 <div class="row">
     <div class="col-lg-12 text-center">
@@ -42,28 +62,24 @@ permalink: /blog/
     </div>
 </div>
 
-<!-- jPages -->
-<script src="{{"/static/assets/jPage-20170606.min.js" | prepend: site.baseurl}}"></script>
-<script type="text/javascript">
-$(function(){
-  /* initiate the plugin */
-  $("div.pag-holder").jPages({
-      containerID  : "pag-itemContainer",
-      perPage      : 10,  /* num of items per page */
-      startPage    : 1,
-      startRange   : 1,
-      midRange     : 3,
-      endRange     : 1
-  });
-});
-</script>
-
 <div style="min-height: 15px;"></div>
 <div class="row">
 	<div class="col-lg-10 col-lg-offset-1 col-sm-10 col-sm-offset-1 col-xs-10 col-xs-offset-1">
-	<div class="row">
-	   {% for post in site.posts limit:10 %}
-	   {% include blog_format.html %}
+	<div class="row" id="pag-itemContainer">
+	   {% assign counter = 0 %}
+	   {% for post in site.posts %}
+	     {% unless post.hidden %}
+		   {% capture nowunix %}
+				{{'now' | date: '%s'}}
+			{% endcapture %}
+			{% capture postdate %}
+				{{post.date | date: '%s'}}
+			{% endcapture %}
+			{% if postdate < nowunix %}
+				{% assign counter = counter | plus: 1 %}
+	   			{% include blog_format.html %}
+			{% endif %}
+		  {% endunless %}
 	   {% endfor %}
 	</div>
 	</div>

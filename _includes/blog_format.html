@@ -1,4 +1,4 @@
-	   <div class="col-lg-4 col-sm-6"><div class="col-lg-12 blogborder col-sm-12">
+	   <div class="col-lg-4 col-sm-4"><div class="col-lg-12 blogborder col-sm-12">
 			<a href="{{ post.url | prepend: site.baseurl }}" class="vote-title" >{{ post.title }}</a>
 			{% for author in site.data.authors %}
 			 {% if author.name != post.author %}
@@ -7,7 +7,7 @@
 			 {% endif %} 
 		   {% endfor %}<a class="bloghead" style="float: right; margin-right: 15px">{{ post.date | date: "%-d %b %Y" }}</a>
 		   {% if post.image %}
-			<br><a href="{{ post.url | prepend: site.baseurl }}"><img src="/static/assets/img/blog/{{post.image}}" class="img-center" alt=""></a>
+			<br><a href="{{ post.url | prepend: site.baseurl }}"><img src="/static/assets/img/{{post.image}}" class="img-center" alt=""></a>
 		   {% else %}
 		   			<br><a href="{{ post.url | prepend: site.baseurl }}"><img src="/static/assets/img/android-chrome-144x144.png" class="img-center" alt=""></a>
 		   {% endif %}

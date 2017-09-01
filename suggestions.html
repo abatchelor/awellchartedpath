@@ -1,0 +1,65 @@
+---
+layout: blog
+title: Suggestions, Tips, and Inside Info
+permalink: /suggestions/
+---
+
+<head>
+<style>
+.img-center {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  margin: auto;
+  vertical-align: text-bottom !important;
+}
+.vote-title {
+	min-height: 60px;
+	text-align: center;
+	color: {% assign picked_color = site.data.segment-colors | where: "type", "flight" %}{{ picked_color[0].color }};
+}
+input[type="email"] {
+    width: 200px;
+}
+textarea {
+    width: 200px;
+    height: 200px;
+}
+select {
+    width: 200px;
+}
+</style>
+</head>
+
+<div id="new_suggestion">
+<div class="row">
+    <div class="col-lg-12 text-center">
+        <div class="navy-line"></div>
+        <h1>Give us suggestions!</h1>
+        Been to one of our destinations, or have some insider knowledge we should know about? Please let us know
+    </div>
+</div>
+
+<div style="min-height: 15px;"></div>
+<div class="row">
+	<div class="col-10 text-center">
+		<form method="POST" action="http://formspree.io/awellchartedpath@gmail.com">
+  				<p><input type="email" name="_replyto" placeholder="Your email" width="100px"></p>
+  				<p><select name="country">
+  				  <option selected disabled>Select a country:</option>
+				  {% assign destinations = site.data.index.itinerary | sort: 'country' %}
+				  {% for destination in destinations %}
+				  	<option value="{{ destination.country }}">{{ destination.country }}</option>
+				  {% endfor %}
+				  <option value="Other">Other...</option>
+				</select></p>
+  				<p><textarea name="message" placeholder="Your suggestion for our trip"></textarea></p>
+  				<input type="hidden" name="_next" value="{{ page.url }}/thank-you" />
+  				<input type="hidden" name="_subject" value="New online suggestion!" />
+  				<input type="text" name="_gotcha" style="display:none" />
+  				<p><button type="submit">Submit</button></p>
+		</form>
+	</div>
+</div>
+</div>
+<div class="row" style="min-height: 75px" />
