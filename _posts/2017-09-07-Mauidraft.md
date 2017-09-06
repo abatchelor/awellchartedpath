@@ -23,7 +23,7 @@ Starting our trip in Maui always seemed a bit indulgent. It was like a vacation 
 2. 
 3. Statistics final, snorkeling, long beach walk
 4. Glass bottomed kayaks, snorkeling at Turtle Bay, Pita Perfect for dinner, shave ice
-5.Sunrise at Haleakala, hiking and swimming at waterfalls on the road to Hana
+5.Sunrise at Haleakala, hiking and swimming at Na'ili'ili-haelewaterfalls on the road to Hana
 6.
 7.
 8.
