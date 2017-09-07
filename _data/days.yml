@@ -32,3 +32,10 @@
   drive: 128
   boat: 0
   walk: 4.7
+
+- day: September 6, 2017
+  fly: 0
+  train: 0
+  drive: 48.3 
+  boat: 0
+  walk: 7
