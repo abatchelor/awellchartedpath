@@ -16,7 +16,7 @@ hidden: true
 
 <div style="text-align: center;"><img src="/static/assets/img/blog/Natesnorkel.JPG" width="350px"> <img src="/static/assets/img/blog/amysnorkel.JPG" width="350px" ></div>
 
-One of our Bucket List items is to snorkel the Great Barrier Reef but we got a pretty wonderful warm-up in Maui. Beyond the beaches and the luaus, Maui has some beautiful reefs and many of them are easily accessible without the need to book a tour or have a boat. 
+One of our Bucket List items is to snorkel the Great Barrier Reef but we got a pretty wonderful warm-up in Maui. Beyond the beaches and the luaus, Maui has some beautiful reefs and many of them are easily accessible without the need to book a tour or have a boat. Through the whole process I kept hearing David Attenborough's voice in my head narrating each new fish I saw and each new type of coral. I could imagine him talking about how each tiny organism is connected to the rest and supports the reef in different ways. It was brilliant.  
 
 <div style="text-align: center;"><img src="/static/assets/img/blog/needlefish.JPG" width="350px"> <img src="/static/assets/img/blog/spotfish.JPG" width="350px" ></div>
 

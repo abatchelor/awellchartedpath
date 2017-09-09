@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maui: "
+title:"Maui: "
 date:   2017-09-07
 desc: "Spending 12 days in Maui hiking, snorkeling, and swimming"
 keywords: "Maui, Hawaii, island, hike, beach"
@@ -25,8 +25,8 @@ Starting our trip in Maui always seemed a bit indulgent. It was like a vacation 
 4. Glass bottomed kayaks, snorkeling at Turtle Bay, shave ice, Pita Perfect for dinner
 5. Sunrise at Haleakala, hiking and swimming at Na'ili'ili-haele waterfalls on the road to Hana
 6. Snorkeling at Ulua Beach in Wailea (turtules, rays, and an octopus!), Ioa valley walk, watched kite surfing
-7.
-8.
+7. Relaxed day at the beacg in Kiehe
+8. Snorkeling at Ulua Beach in Wailea, walk through Kealia Pond National Wildlife Refuge
 9.
 10.
 11.
