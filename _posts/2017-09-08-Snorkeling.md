@@ -45,7 +45,20 @@ In addition to a variety of tropical fish, we also got to see an octopus (my per
 All those were in addition to the beautiful fish and the coral. We easily could have explored for a lot longer but after two hours of snorkeling we were pretty tired and had to call it quits for the day. 
 
 
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Molikini
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Honoapiilani Hwy Mile Marker 14
+
+Our third snorkel location was off the coast of Honoapiilani Highway north west of Kihei. Driving along the coast, you get to mile marker 14 and there are plenty of places to pull off and park. When we were there, it was the weekend and several small groups were camping on the beach.
+
+Once you are on the beach, it is quite shallow (up to my knees) up until you start reaching the reef. The reef is quite shallow in many places but there are deeper channels scattered throughout where you can easily swim out into the reef. These will open up to deep canyons that are 20-30 feet deep with plenty of room for diving. We didn't experience much swell while we were there but I could easily see if becoming a problem if you're not paying attention. 
+
+<div style="text-align: center;"><img src="/static/assets/img/blog/mile14.JPG" width="350px">  <img src="/static/assets/img/blog/coral14.JPG" width="350px"></div> 
+
+This reef, was much bigger than the others we visited reaching about 3/4 of a mile off shore. We didn't cover nearly that distance though. At the Ulua and Kihei reefs, we got to see most if not all of the reef area. At mile marker 14 we just scratched the surface on a two hour snorkel trip. This would be a great reef to visit over and over again, following different channels out on each trip. 
+
+We were rewarded for our efforts with plenty of fish and a few sea turtles, who were clearly less comfortable with tourists than the regularly visited turtles at the first reefs we visited. Instead of ignoring us, these turtles used evasive maneuvers and tried to keep us at a distance. 
+
+<div style="text-align: center;"><img src="/static/assets/img/blog/stripefish.JPG" width="350px">  <img src="/static/assets/img/blog/yellowfish.JPG" width="350px"></div> 
+
 
 
  
