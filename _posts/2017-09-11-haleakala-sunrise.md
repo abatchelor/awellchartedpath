@@ -10,7 +10,7 @@ icon: icon-html
 image: blog/.JPG
 author: Nate
 country: Hawaii
-hidden: false
+hidden: true
 
 ---
 
