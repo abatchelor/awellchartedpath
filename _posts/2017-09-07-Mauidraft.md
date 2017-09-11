@@ -1,7 +1,7 @@
 ---
 layout: post
-title:"Maui: "
-date:   2017-09-07
+title: "Maui: "
+date: 2017-09-07
 desc: "Spending 12 days in Maui hiking, snorkeling, and swimming"
 keywords: "Maui, Hawaii, island, hike, beach"
 categories: [Hawaii]
