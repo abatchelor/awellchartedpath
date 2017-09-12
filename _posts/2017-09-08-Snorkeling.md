@@ -51,4 +51,18 @@ Once you are on the beach, it is gently sloped up until you start reaching the r
 This reef, was much bigger than the others we visited going all the way out to about 3/4ths of a mile off shore. We just scratched the surface on our two hour snorkel trip but were rewarded for our efforts with plenty of fish and a few sea turtles, who were clearly less comfortable with tourists than the regularly visited turtles at the first reefs we visited. Instead of ignoring us, these turtles used evasive maneuvers and tried to keep us at a distance. This would be a great reef to visit over and over again, following different channels out on each trip. 
 
 <div style="text-align: center;"><a href="/static/assets/img/blog/stripefish.JPG" target="_blank"><img src="/static/assets/img/blog/stripefish.JPG" width="350px"></a> <a href="/static/assets/img/blog/coral14.JPG" target="_blank"><img src="/static/assets/img/blog/coral14.JPG" width="350px"></a> </div> 
+
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Honolua Bay
+
+Honolua Bay is one of the more popular and better known snorkeling sites on Maui. When you arrive, parking will be limited. We got lucky and got one of the last spots in the parking lot at the trailhead that leads to the bay but others had parked on the sides of the road. Once you're able to park, it is a 5 minute walk through a forest on a well-marked path. For some extra fun, you'll get to see lots of chickens and roosters along the way, including some perched in trees. 
+
+At the end, the path opens up to a bay with a rocky coast (no sandy beaches here) with rocks, many football-sized, filling out a beach around the edge. We arrived relatively early, a little before 10am but when we arrived a couple of tour boats had already anchored and dropped off snorkel groups. This made it more crowded than the other places we visited but it didn't ruin our experience. 
+
+The bay is less choppy than more open reefs with the cliffs around the perimeter to block the wind, which left the water clear and made the visability great. The water was colder than the shallow reefs near Kihei but there as a variety of shallow reef where you could barely float across the top and deep ravines that dropped 20-30 feet. 
+
+This trip was the highest concentration and most variety to fish we saw and our first encounter with eels! This was also the only location where we saw multiple large schools of fish and for the briefest moment we even caught a glimpse of dolphin fins at the mouth of the bay. 
+
+
+<div style="text-align: center;"><a href="/static/assets/img/blog/snorkelpath.JPG" target="_blank"><img src="/static/assets/img/blog/snorkelpath.JPG" width="350px"></a> <a href="/static/assets/img/blog/Eel.JPG" target="_blank"><img src="/static/assets/img/blog/Eel.JPG" width="350px"></a></div>
+
  
