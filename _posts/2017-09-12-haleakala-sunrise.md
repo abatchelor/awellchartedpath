@@ -14,8 +14,8 @@ hidden: false
 
 ---
 
-<div style="text-align: center;"><a href="/static/assets/img/blog/haleakalaPanorama.jpeg" target="_blank"><img src="/static/assets/img/blog/haleakalaPanorama.jpeg" style="max-width: calc(100% - 20px);"></a></div>
-
+<div style="text-align: center;"><a href="/static/assets/img/blog/haleakalaPanorama.jpeg" target="_blank"><img src="/static/assets/img/blog/haleakalaPanorama.jpeg" style="max-width: calc(100% - 20px);"></a>
+<p><i>The sunrise beginning to become visible on the left, Venus barely visible in the middle, and the full moon preparing to set on the right.</i></p></div>
 <br> 
 
 We didn't do much planning before departing for Maui to start our trip since we're just staying with my parents here, but after reading some others' accounts of making it up to Haleakala's summit for sunrise we decided we should make an effort to fit it in. Unfortunately most reservations sell out weeks ahead of time and tour companies are both very expensive and pretty inflexible.
