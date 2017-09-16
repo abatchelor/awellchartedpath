@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maui: Two Weeks of Snorkeling and Sunsets"
-date: 2017-09-07
+date: 2017-09-16
 desc: "Spending 12 days in Maui hiking, snorkeling, and swimming"
 keywords: "Maui, Hawaii, island, hike, beach"
 categories: [Hawaii]
@@ -10,14 +10,12 @@ icon: icon-html
 image: blog/Mauisunset.JPG
 author: Amy
 country: Hawaii
-hidden: true
+hidden: false
 
 ---
 
-## Maui
-
-
 <div style="text-align: center;"><a href="/static/assets/img/blog/MauiCoast.JPG" target="_blank"><img src="/static/assets/img/blog/MauiCoast.JPG" width="350px"></a> <a href="/static/assets/img/blog/Waterfall.JPG" target="_blank"><img src="/static/assets/img/blog/Waterfall.JPG" width="350px"></a></div>
+
 
 Starting our trip in Maui always seemed a bit indulgent. It also meant the trip to South Africa to start the first leg of the RTW ticket was going to take a bit longer (around 36 hours). Still, getting to stay with Nate's parents for almost two weeks was too good of an opportunity to pass up.  
 
@@ -36,7 +34,6 @@ Starting our trip in Maui always seemed a bit indulgent. It also meant the trip 
 11. Snorkeling at Honolua Bay, walking through shops and seeing the Banyan tree in Lahaina, petroglyphs
 12. Long beach walk in Kihei, relaxing, packing
 
-
 <div style="text-align: center;"><a href="/static/assets/img/blog/Banyan.JPG" target="_blank"><img src="/static/assets/img/blog/Banyan.JPG" width="350px"></a> <a href="/static/assets/img/blog/Mauisunset.JPG" target="_blank"><img src="/static/assets/img/blog/Mauisunset.JPG" width="350px"></a></div>
 
 ## Highlights
@@ -51,6 +48,5 @@ It turns out that while we did some activities that were on the more expensive s
 
 - We would have skipped the glass bottom kayaks. Snorkeling is much more flexible, both in navigating and for seeing deeper below the surface. There is nothing wrong with kayaking but just get a normal kayak to enjoying paddling around and then snorkel instead. 
 - We would have had more shave ice. We didn't have it every day, so we really didn't have enough.
-
 
 <div style="text-align: center;"><a href="/static/assets/img/blog/Eel.JPG" target="_blank"><img src="/static/assets/img/blog/Eel.JPG" width="350px"></a> <a href="/static/assets/img/blog/ShaveIce.JPG" target="_blank"><img src="/static/assets/img/blog/ShaveIce.JPG" width="350px"></a></div>
