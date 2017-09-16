@@ -60,8 +60,7 @@ At the end, the path opens up to a bay with a rocky coast (no sandy beaches here
 
 The bay is less choppy than more open reefs with the cliffs around the perimeter to block the wind, which left the water clear and made the visability great. The water was colder than the shallow reefs near Kihei but there as a variety of shallow reef where you could barely float across the top and deep ravines that dropped 20-30 feet. 
 
-This trip was the highe
-st concentration and most variety to fish we saw and our first encounter with eels! This was also the only location where we saw multiple large schools of fish and for the briefest moment we even caught a glimpse of dolphin fins at the mouth of the bay. 
+This trip was the highest concentration and most variety to fish we saw and our first encounter with eels! This was also the only location where we saw multiple large schools of fish and for the briefest moment we even caught a glimpse of dolphin fins at the mouth of the bay. 
 
 
 <div style="text-align: center;"><a href="/static/assets/img/blog/snorkelpath.JPG" target="_blank"><img src="/static/assets/img/blog/snorkelpath.JPG" width="350px"></a> <a href="/static/assets/img/blog/Eel.JPG" target="_blank"><img src="/static/assets/img/blog/Eel.JPG" width="350px"></a></div>
