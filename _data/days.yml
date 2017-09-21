@@ -123,3 +123,24 @@
   drive: 7.7
   boat: 0
   walk: 9.1
+
+- day: September 19, 2017
+  fly: 0
+  train: 62
+  drive: 21
+  boat: 0
+  walk: 2.15
+
+- day: September 20, 2017
+  fly: 0
+  train: 0
+  drive: 3.8
+  boat: 16.5
+  walk: 5.68
+
+- day: September 21, 2017
+  fly: 0
+  train: 48
+  drive: 0
+  boat: 0
+  walk: 7.18
