@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Kirstenbosch: Natural Beauty with a People Watching"
+title: "Kirstenbosch: Natural Beauty with a Little People Watching"
 date: 2017-09-25
 desc: "We spent the day at Kirstenbosch botantical garden and enjoyed some beautiful trails along with an abundance of families picnicing with their children."
 keywords: "RTW travel, nature, hiking, South Africa, Cape Town"
 categories: [Cape Town]
 tags: Cape Town
 icon: icon-html
-image: blog/FlowerClose.JPG
+image: blog/CloseFlower.JPG
 author: Amy
 country: South Africa
 hidden: false
@@ -18,7 +18,7 @@ From the time I started planning for Cape Town, there were two things that were 
 
 The Kirstenbosch National Botanical Garden is a UNESCO World Heritage Site that was established as a much smaller version of its current size in 1913. Some of the original trees can still be viewed and are marked specially when they've survived over 100 years. It also has beautiful views of Table Mountain and is connected on the back side to the Table Mouintain National Park so if the gardens don't provide enough hiking, you can just wander out from there into the larger park and find trails to your hearts content. One even takes you all the way to the top of the mountain. For our visit, we limited ourselves to the gardens because we knew we'd be hiking up Table Mountain the next day from the other side using the Twelve Apostles trail instead. 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/KboschTableMt.JPG" target="_blank"><img src="/static/assets/img/blog/KboschTableMt.JPG.jpeg" width="45%"></a> <a href="/static/assets/img/blog/CloseFlower.JPG" target="_blank"><img src="/static/assets/img/blog/CloseFlower.JPG" width="45%"></a> </div>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/KboschTableMt.JPG" target="_blank"><img src="/static/assets/img/blog/KboschTableMt.JPG" width="45%"></a> <a href="/static/assets/img/blog/CloseFlower.JPG" target="_blank"><img src="/static/assets/img/blog/CloseFlower.JPG" width="45%"></a> </div>
 
 Unfortunately, there is no way to get to the gardens without taking one of the big red hop-on hop-off buses or taking an uber. I have a fairly strong aversion to the big red buses so we opted for an uber back and forth. 
 
@@ -40,7 +40,7 @@ After visiting the walkway, Nate was secretly hoping to see one of the tree snak
 
 Another aspect of the garden that I particularly enjoyed was that they were doing experiments in how to best support the plant life there. In some of the higher flower beds, they had developed an experiment to test how fires helped support the plant life. With three beds they had established a control, a test that had been intentially burned and then tilled or turned, and a test that had been burned but left untouched after. You could look at the beds and see the control had the most robust growth because it had no need to reginerate but also that the bed that had been left as it might be in the wild was growing back more robustly than the one that had been turned to mix the soil better. Granted, it hadn't been long enough to see how the health of the control and treatment compared after long enough that some of the shrubs and plants that had been burned could mature. Would the soil be healthier in the treatment than the control? Would it mean more growth in the long term? I sadly won't get to find out but you have to love stumbling onto an experiment! 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/KboschTrail.JPG" target="_blank"><img src="/static/assets/img/blog/KboschTrail.JPG" width="45%"></a> <a href="/static/assets/img/blog/KboschSpring.JPG" target="_blank"><img src="/static/assets/img/KboschSpring.JPG" width="45%"></a> </div>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/KboschTrail.JPG" target="_blank"><img src="/static/assets/img/blog/KboschTrail.JPG" width="45%"></a> <a href="/static/assets/img/blog/KboschSpring.JPG" target="_blank"><img src="/static/assets/img/blog/KboschSpring.JPG" width="45%"></a> </div>
 
 After covering most of the park, we decided to join the growing number of families that had come to enjoy Sunday afternoon picnics in the gardens. Many brought elaborate picnics, complete with champagne. Others had groups of small kids in tow and had buckets and towels to play in some of the small rivers running through the gardens. Some had 
 all of the above.
