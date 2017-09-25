@@ -34,9 +34,9 @@ After visiting the walkway, Nate was secretly hoping to see one of the tree snak
 
 <div style="text-align: center;"><a href="/static/assets/img/blog/Boomslang.JPG" target="_blank"><img src="/static/assets/img/blog/Boomslang.JPG" width="350px"></a>
 <p><i>Boomslang Snake</i></p></div>
-<br> 
 
 <div style="text-align: center;"> See the resemblance? </div>
+<br>
 
 Another aspect of the garden that I particularly enjoyed was that they were doing experiments in how to best support the plant life there. In some of the higher flower beds, they had developed an experiment to test how fires helped support the plant life. With three beds they had established a control, a test that had been intentially burned and then tilled or turned, and a test that had been burned but left untouched after. You could look at the beds and see the control had the most robust growth because it had no need to reginerate but also that the bed that had been left as it might be in the wild was growing back more robustly than the one that had been turned to mix the soil better. Granted, it hadn't been long enough to see how the health of the control and treatment compared after long enough that some of the shrubs and plants that had been burned could mature. Would the soil be healthier in the treatment than the control? Would it mean more growth in the long term? I sadly won't get to find out but you have to love stumbling onto an experiment! 
 
