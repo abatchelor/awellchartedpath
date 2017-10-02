@@ -175,14 +175,14 @@
 
 - day: September 26, 2017
   fly: 0
-  train: 
+  train: 875
   drive: 0
   boat: 0
   walk: 1.4
 
 - day: September 27, 2017
   fly: 0
-  train:  + 3.4
+  train: 3.4
   drive: 7.8
   boat: 0
   walk: 1.3
