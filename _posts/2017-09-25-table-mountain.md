@@ -4,7 +4,7 @@ title: "Hiking up Table Mountain - without a guide"
 date: 2017-09-25
 desc: "Hike up Table Mountain, see amazing views for four hours, and take the cableway back down."
 keywords: "RTW Travel, South Africa, Cape Town, sunrise, hiking"
-categories: [Cape Town]
+categories: [Africa]
 tags: South Africa
 icon: icon-html
 image: blog/tableBusStop.jpeg

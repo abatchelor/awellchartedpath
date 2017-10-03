@@ -4,7 +4,7 @@ title: "Kirstenbosch: Natural Beauty with a Little People Watching"
 date: 2017-09-25
 desc: "We spent the day at Kirstenbosch botantical garden and enjoyed some beautiful trails along with an abundance of families picnicing with their children."
 keywords: "RTW travel, nature, hiking, South Africa, Cape Town"
-categories: [Cape Town]
+categories: [Africa]
 tags: Cape Town
 icon: icon-html
 image: blog/CloseFlower.JPG
