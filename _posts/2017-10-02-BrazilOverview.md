@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Two Weeks in South Africa: Mountains, Markets, and Pajama Donkeys"
+title: "5 Days in São Paulo: Parks, Museums, and Learning What It's Like to Not Speak the Language"
 date: 2017-10-02
-desc: "We spent two wonderful weeks in South Africa before finally taking our first RTW flight segment on to Brazil. It was packed with hiking, trains, wine, and markets; then ended with some quality time with friends."
+desc: "To us São Paulo is an underappreciated city. It doesn't get the love the Rio does but from our short visit we saw a lot of promise and felt quickly comfortable."
 keywords: "South America, Brazil, What to Do"
 categories: [South America]
-tags: Sao Paulo, Rio
+tags: Sao Paulo
 icon: icon-html
 image: blog/ViewTM.JPG
 author: Amy
@@ -16,74 +16,22 @@ hidden: true
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i>What We Did 
 
-**Day 1:** Arrived, got enough groceries to have breakfast, went to sleep 
+**Day 1:** We arrived and got enough groceries to have breakfast the next day. The apartment we were staying in was conveniently only two blocks for one of the only markets still open on a Sunday night. Then we promptly went to sleep (the time difference from South Africa was a little rough). 
 
-**Day 2:** Walked in the rain down Avenida Paulista, took the metro to Sao Paulo Cathedral (Catedral da Sé), lunch at Mercado Municipal, attempted visit to Jardim da Luz (only to find that it is closed on Monday), grocery shopping 
+**Day 2:** We down **Avenida Paulista** and enjoyed the hustle and buslte of the busy business street. We walked through **Tenente Siquera Campos Park**, which is a little urban jungle with walking paths and playgrounds, and then took the metro to **São Paulo Cathedral** (Catedral da Sé). We didn't want to join mass, so we headed to lunch at **Mercado Municipal**. The market was shuttered in several sections but we found one section that was still busy with activity. Vendors were selling fruits of every kind you could imagine and competing aggresively for business. Without speaking any Portuguese we passed up the attempt to barter for fruit and moved on to **Bar do Mané**. We didn't know what we were getting ourselves into. Bar do Mané was established in 1933 and is apparently (little did we know) quite famos. We were able to grab a small table and even though we were unable to understand most of the menu, we were able to order two of the sandwiches that had pitcures. Nate happened to get their famos mortadella and even decided to be daring and get the large version. When it arrived, there was enough meat on his sandwich to make 4-5 normal sandwiches. It was the biggest pile of meat masqerading as a sandwich that I've ever seen. Still, the food was delicious and quite affordable. We left very full and happy. 
+
+From there we attempted to visit **Jardim da Luz** (only to find that it is closed on Monday). Disappointed, we headed back for some real grocery shopping and to make dinner. An important aspect of the whole day was that it poured the rain _all day_ and by the time we got back to the apartment we were throughly soaked. It took two days for my poor ballet flats to dry out. Turns out the weather can really change your experience discovering a new city...
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/SeCathedral.jpg" target="_blank"><img src="/static/assets/img/blog/SeCathedral.jpg" width="45%"></a> <a href="/static/assets/img/blog/Mercado.jpg" target="_blank"><img src="/static/assets/img/blog/Mercado.jpg" width="45%"></a></div>
 
-**Day 3:** Visit <a href="http://site.awellchartedpath.com/blog/2017/09/Kirstenbosch/" target="_blank">Kirstenbosch Botanical Gardens</a> 
+**Day 3:** We visited the **Museu de Arte (MASP)** on Avenida Paulista because it is free on Tuesdays (!). I especially enjoyed the Gorilla Girls exhibit and recognized the unfortunate (intentional?) irony that the exhibit shared a space with the work of a male artist who focused on female nudes. Then we walked down **Rua Oscar Fierro**, which is packed with stylish boutiques that featured beautiful evening gowns that sadly did not seem like a neccessity for the rest of the trip. Unfortunately, I started to feel ill and so we took a long afternoon break. Luckily I rallied enough to visit **JoJo Ramen** for dinner only a couple of blocks from our apartment. The ramen was delicious and I continued to attempt to speak German to make up for my complete lack of Portuquese vocabulary (aren't brains weird?). The staff was very patient with us and one staff member, who was originally from the Philippines but moved to São Paulo 9 months ago, felt our pain and had a lovely conversation with us in English. 
 
-**Day 4:** Hike up <a href="http://site.awellchartedpath.com/blog/2017/09/table-mountain/" target="_blank">Table Mountain</a>, take the cable car down
+Coming from South Africa, where almost everyone we encountered spoke at least some English, the near complete lack of english in Brazil so far has been striking and humbling and we bumble through using a few phrases (mostly "não falo português"- I don't speak Portuguese), pointing at menus, and hoping the signs we can't read don't say anything too important. As I mentioned before, I also attempt to speak German sometimes, which doesn't make sense but is what my brain is determined is the correct answer. 
+
+**Day 4:** We walked to Parque Ibirapuera, which is comparable to Central Park. It's a large park with plenty of bike paths, running trails, exercise parks, museums, concert venues, and more stands selling fresh coconuts than you could count. We ended up walking about 5 miles and visiting both the **Museum of Modern Art (MAM)** and the **Museum of Contemporary Art (MAC)**. Full disclosure, when we came across MAM, we thought it was MAC and otherwise would not have visited. MAC is free (!), while MAM is about $2 per person. MAC has a lovely rooftop deck that looks out over the park and the city, while MAM is small and has a room that's full of plants. I would suggest skipping MAC and heading across the elevated walkway to MAM. 
+
+We started walking toward **Liberdade** (Little Japan), which Wikipedia says is home to the largest Japanses community outside of Japan. On the way we stopped at **Suzaku** for lunch. The staff at the restaurant again spoke both Portuguese and Japanese but no English. Eventually we figured out that there was a fixed lunch special that you could order. This was great because it only required pointing at one thing, sitting back, and letting the food come. It turned out to be appetizers of a cucumber salad, goyza, two kinds of dumplings, grilled salmon, and pan-fried mushrooms; that was followed by a platter of at least a dozen kinds of sushi, a large conical salmon salad roll; and then dessert came with the option of chocolate icecream of banana flambe with vanilla icecream. Like our experience at Bar do Mané, we didn't really know what we were getting ourselves into but we left full and happy.  
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/KboschPath.jpg" target="_blank"><img src="/static/assets/img/blog/KboschPath.jpg" width="45%"></a> <a href="/static/assets/img/blog/tableStartingOut.jpeg" target="_blank"><img src="/static/assets/img/blog/tableStartingOut.jpeg" width="45%"></a></div>
 
-**Day 5:** Visit vineyards in Stellenbosch with the Vinehopper tour
-
-**Day 6:** Ferry and tour of Robben Island and V&A Waterfront 
-
-**Day 7:** Simon's Town with a stop for fish and chips, then visiting the penguins at Boulder's Beach
-
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/vineyardglass.jpg" target="_blank"><img src="/static/assets/img/blog/vineyardglass.jpg" width="45%"></a> <a href="/static/assets/img/blog/penguin.JPG" target="_blank"><img src="/static/assets/img/blog/penguin.JPG" width="45%"></a></div>
-
-**Day 8:** Walk through Bo Kapp, rest, and do some planning for South America
-
-**Day 9:** Old Biscuit Mill Take II and a gin tasting at Hope on Hopkins
-
-**Day 10:** Visit Hout Bay, including the Bay Harbour Market, walk along the Seapoint Promenade, Climb Lion's Head (it was supposed to be for sunset but we were foiled by clouds)
-
-**Day 11:** Relax, do laundry, and pack
-
-**Day 12:** Overnight Premier Classe train to Johannesburg 
-
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/bokapp.jpg" target="_blank"><img src="/static/assets/img/blog/bokapp.jpg" width="45%"></a> <a href="/static/assets/img/blog/LionsHead.jpg" target="_blank"><img src="/static/assets/img/blog/LionsHead.jpg" width="45%"></a></div>
-
-**Day 13:** See Ferdinand's new apartment, sunset drinks at The Living Room, and have dinner in Maboneng
-
-**Day 14:** Visit the Apartheid Museum, walk down Vilakazi street in Soweto past Mandela's House and to the Hector Pieterson Memorial, dinner at 86 Public, drinks at Kitchener's in Braamfontein
-
-**Day 15:** Walk around Constitution Hill, walk to Chancellor House and to Ghandi Square, dinner and drinks at Zoo Lake Lawn Bowling Club, including a Klippies and Coke (per our friend's insistence), trip to The Great Dane for drinks and dancing
-
-**Day 16:** Neighborgoods Market for lunch and drinks, The Great Dane Take II, and a dinner of Mexican food in Maboneng
-
-**Day 17:** Depart for Brazil
-
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/JoburgLookOut.jpg" target="_blank"><img src="/static/assets/img/blog/JoburgLookOut.jpg" width="45%"></a> <a href="/static/assets/img/blog/JoburgMarket.jpg" target="_blank"><img src="/static/assets/img/blog/JoburgMarket.jpg" width="45%"></a> </div>
-
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i>Highlights
-
-South Africa was a great way to kick-off our year our year of country hopping. Between Cape Town and Johannesburg, we got a feel for two very different cities. Cape Town was more tourist-friendly, had more green space, and was easier to get around on public transportation. Johannesburg was a bustling city full of energy, new development, and gave us time with a friend from university. In both cities, inequality was stark and segregation apparent but from what we saw and heard from friends, Johannesburg seemed to be making exciting progress toward integration and building pathways into the middle class in a way that Cape Town isn't. 
-
-Our absolute favorite thing from Cape Town was the early morning hike up <a href="http://site.awellchartedpath.com/blog/2017/09/table-mountain/" target="_blank">Table Mountain</a>. We've quickly identified that any activities that get us outside and active are a safe bet for making us happy travelers. 
-
-The first day and night of our 28-hour train trip from Cape Town to Johannesburg was another highlight. Nate had planned long-ago for us to splurge on a somewhat fancy (luckikly no tuxedo and evening gowns required like on the <a href="https://www.seat61.com/SouthAfrica.htm#blue-train" target="_blank">Blue Train)</a> train trip. We departed with a champagne toast; rolled through beautiful countryside with mountains, vineyards, desert like terrain, and plenty of small towns; dined on a 5-course meal; and enjoyed a cozy private cabin. The second day left something to be desired with a very chilly wake-up and a much less enthusiastic staff than on the first day but overall the trip was worth all the time and money we invested in it. 
-
-_A small but not insignificant point of enjoyment on the trip was when a South African woman who was around 70 years old tried to explain to two other American tourists on the train about the_ <a href="https://twitter.com/africageo/status/661788844669468672" target="_blank">_"pajama donkeys" (i.e. zebras)_</a>_that could be seen out the train window._
-
-In Johannesburg, getting to catch up with Ferdinand was without-question the best part. Getting to see friends along the way will be one of the best parts of travel. Plus it will keep Nate and I from going crazy with just each other for company every day. Beyond being his usual wonderful self, our friend also introduced us to some of his friends, his favorite haunts (including two trips to the Great Dane in as many days), and Bunny Chow (a hollowed out loaf of bread filled with curry). It was a whirlwind of a trip but we packed about as much fun as we could manage into it. 
-
-
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i>What We Might Do Differently
-
-We should have prioritized hiking Lion's Head for sunset when the weather was nicer early in the week. By putting it off to the end, we didn't have an alternative when the clouds rolled in and ruined any chance of a nice sunset. We still hiked but the bottle of wine I carried around all day did not turn into sundowners with a view. Instead we just hiked up into the cloud and then hiked quickly back down.
-
-When our Uber driver was intimidated away from our pick-up location at Ghandi Square, we should have walked back to Chancellor House to get a car rather than walking all the way to our friend's apartment. Like in most places, Uber is taking market share from traditional taxi drivers and those tensions have caused problems around train stations and major malls in Johannesburg. We didn't know we were on taxi turf but should have moved back into the area we were familiar with rather than ending up walking through an area where our hosts always avoid. 
-
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RobbenIsland.jpg" target="_blank"><img src="/static/assets/img/blog/RobbenIsland.jpg" width="45%"></a> <a href="/static/assets/img/blog/SleeperCar.jpg" target="_blank"><img src="/static/assets/img/blog/SleeperCar.jpg" width="45%"></a></div>
-
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i>How We Did with Our Budget
-
-Cape Town was less expensive than we had anticipated. Going grocery shopping (Pick'n'Pay for staples like bread and cheese, Woolworths for prepared food and vegetables) we could feed ourselves breakfast and dinner for the 11 days we were in Cape Town for $99.12. That also included some toiletries in addition to the food. In Johannesburg, we ended up eating out more which drove up the food budget but spent more time catching up with friends rather than doing tours.
-
-In the end, we spent **just over $2,000 on 15 days in South Africa**, including a special treat Premier Classe train trip from Cape Town to Johannesburg. Going in, we budgeted for about $15 per day per person for food and another $15 per day per person for entertainment ($920 total). We ended up spending only $837 on food/wine/entertainment, which will help us offset the higher-than-expected costs of booking Machu Picchu for November (look forward to a post on that ordeal eventually...).
-
+**Day 5:** Unfortunately, our time in São Paulo came to and end in only 5 days. Ths was our last day and with our flight to Rio at lunchtime, we didn't get to do much beyond have some breakfast, pack up our backpacks and head to the airport again. It felt like we'd only just arrived. 
