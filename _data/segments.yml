@@ -27,17 +27,38 @@
   type: rtw
 
 - route: Sao Paolo - Rio
-  start_date: October 7, 2017
-  end_date: October 7, 2017
+  start_date: October 5, 2017
+  end_date: October 5, 2017
   from: -46.482,-23.427
-  to: -43.249,-22.817
+  to: -43.163270, -22.910126
   type: flight
 
-- route: Rio - Sao Paolo
-  start_date: October 14, 2017
+- route: Rio - Conceição de Jacarei
+  start_date: October 10, 2017
+  end_date: October 10, 2017
+  from: -43.202565, -22.984339
+  to: -44.159676, -23.032002
+  type: bus
+
+- route: Conceição de Jacarei - Ilha Grande
+  start_date: October 10, 2017
+  end_date: October 10, 2017
+  from: -44.159676, -23.032002
+  to: -44.166544, -23.140051
+  type: boat
+
+- route: Conceição de Jacarei - Paraty
+  start_date: October 13, 2017
+  end_date: October 13, 2017
+  from: -44.159676, -23.032002
+  to: -44.722573, -23.217459
+  type: bus
+
+- route: Paraty - Sao Paolo
+  start_date: October 15, 2017
   end_date: October 15, 2017
-  from: -43.193,-22.902
-  to: -46.482,-23.427
+  from: -44.718924, -23.221336
+  to: -46.624635, -23.516216
   type: bus
 
 - route: Sao Paolo - Buenos Aires

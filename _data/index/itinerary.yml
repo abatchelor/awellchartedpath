@@ -31,7 +31,9 @@
 
 - country: Brazil
   city: 
-    - Sao Paolo
+    - Sao Paulo
+    - Ilha Grande
+    - Paraty
     - Rio de Janiero
   start_date: October 1, 2017
   end_date: October 15, 2017
