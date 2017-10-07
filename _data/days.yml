@@ -249,3 +249,10 @@
   drive: 0
   boat: 0
   walk: 9.5
+
+- day: October 7, 2017
+  fly: 0
+  train: 0
+  drive: 13
+  boat: 0
+  walk: 11
