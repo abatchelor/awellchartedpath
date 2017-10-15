@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ilha Grande: Hiking, Beaches, and No Cars"
-date: 2017-10-14
+date: 2017-10-15
 desc: "Ilha Grande was an amazing pitstop between Rio and Sao Paulo, with lots of hiking, beaches, and hiking to beaches."
 keywords: "South America, Brazil, What to Do, hiking, Ilha Grande, beaches"
 categories: [South-america]
@@ -10,7 +10,7 @@ icon: icon-html
 image: blog/ilhaBravaDePalmas.jpg
 author: Nate
 country: Brazil
-hidden: true
+hidden: false
 
 ---
 
