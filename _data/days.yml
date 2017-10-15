@@ -249,3 +249,59 @@
   drive: 0
   boat: 0
   walk: 9.5
+
+- day: October 7, 2017
+  fly: 0
+  train: 0
+  drive: 13
+  boat: 0
+  walk: 11
+
+- day: October 8, 2017
+  fly: 0
+  train: 0
+  drive: 3
+  boat: 0
+  walk: 13.1
+
+- day: October 9, 2017
+  fly: 0
+  train: 7.9
+  drive: 3.8
+  boat: 0
+  walk: 5.5
+
+- day: October 10, 2017
+  fly: 0
+  train: 0
+  drive: 90
+  boat: 8
+  walk: 6
+
+- day: October 11, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 2.7
+  walk: 15
+
+- day: October 12, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 5
+  walk: 8
+
+- day: October 13, 2017
+  fly: 0
+  train: 0
+  drive: 80
+  boat: 8
+  walk: 4
+
+- day: October 14, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 5.4
