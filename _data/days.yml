@@ -334,3 +334,9 @@
   boat: 0
   walk: 7
 
+- day: October 19, 2017
+  fly: 0
+  train: 4
+  drive: 0
+  boat: 0
+  walk: 11
