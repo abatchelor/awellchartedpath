@@ -340,3 +340,10 @@
   drive: 0
   boat: 0
   walk: 11
+
+- day: October 20, 2017
+  fly: 0
+  train: 2.1
+  drive: 0
+  boat: 0
+  walk: 8.2
