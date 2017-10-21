@@ -66,6 +66,7 @@
     <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "train" %}{{ picked_color[0].color }}'></span>🚂</div>
     <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "bus" %}{{ picked_color[0].color }}'></span>🚌</div>
     <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "boat" %}{{ picked_color[0].color }}'></span>🛥</div>
+    <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "walk" %}{{ picked_color[0].color }}'></span>🚶</div>
     <div><span style='background-color: {% assign picked_color = site.data.segment-colors | where: "type", "other" %}{{ picked_color[0].color }}'></span>🤷‍</div>
   </div>
 <script>
@@ -87,8 +88,8 @@ var blue = '#2495c4';
 
 // map.addControl(new mapboxgl.AttributionControl(), 'top-left');
 
-function buildRoute(origin, destination, color, opacity, transport) {
-  if(origin != '') {
+function buildRoute(coordinates, color, opacity, transport) {
+  if(coordinates != '') {
 	 // A simple line from origin to destination.
 	 if(count<1) {
 		route = {
@@ -102,10 +103,7 @@ function buildRoute(origin, destination, color, opacity, transport) {
                     },
 				"geometry": {
 					"type": "LineString",
-					"coordinates": [
-						origin,
-						destination
-					]
+					"coordinates": coordinates
 				}
 			}]
 		};
@@ -120,16 +118,13 @@ function buildRoute(origin, destination, color, opacity, transport) {
                     },
 				"geometry": {
 					"type": "LineString",
-					"coordinates": [
-						origin,
-						destination
-					]
+					"coordinates": coordinates
 				}
 //			}]
 		};
 	 }
 	count = count + 1;
-//	console.log(route);
+	console.log(route);
   }
 }
 
@@ -187,12 +182,18 @@ function drawRoute() {
 var segments = [];
 segments[0] = [[0,0],[1,0],red,0];
 {% for segment in site.data.segments %}
-segments[{{forloop.index}}] = [[{{ segment.from }}],[{{ segment.to }}], '{% assign picked_color = site.data.segment-colors | where: "type", segment.type %}{{ picked_color[0].color }}', {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% capture segmenttime %}{{segment.start_date | date: '%s'}}{% endcapture %}{% if segmenttime < nowunix %}0.85{% else %}0.35{% endif %}, '{{segment.type}}'];
+	segments[{{forloop.index}}] = [ [[{{ segment.from }}], [{{ segment.to }}]], '{% assign picked_color = site.data.segment-colors | where: "type", segment.type %}{{ picked_color[0].color }}', {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% capture segmenttime %}{{segment.start_date | date: '%s'}}{% endcapture %}{% if segmenttime < nowunix %}0.85{% else %}0.35{% endif %}, '{{segment.type}}'];
+	{% assign trueCount = forloop.index %}
+{% endfor %}
+{% for walk in site.walks %}
+	{% assign newCount = trueCount | plus: forloop.index %}
+	segments[{{newCount}}] = [ [{% for coords in walk.from%}{{ coords }}{% endfor%}], '{% assign picked_color = site.data.segment-colors | where: "type", walk.type %}{{ picked_color[0].color }}', {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% capture segmenttime %}{{walk.start_date | date: '%s'}}{% endcapture %}{% if segmenttime < nowunix %}0.85{% else %}0.35{% endif %}, '{{walk.type}}'];
 {% endfor %}
 
 for (var k = 0; k < segments.length; k++) {
 		buildRoute(segments[k][0], segments[k][1], segments[k][2], segments[k][3], segments[k][4]);
 }
+
 
 buildArcs();
 drawRoute();

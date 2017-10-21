@@ -13,5 +13,8 @@
 - type: boat
   color: '#2445c4'
   
+- type: walk
+  color: '#ffff00'
+  
 - type: other
   color: '#000000'
