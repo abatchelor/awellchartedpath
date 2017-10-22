@@ -9,8 +9,8 @@ tags: Planning
 icon: icon-html
 image: blog/budgetspreadsheet.PNG
 author: 
- - Amy
- - Nate
+- Amy
+- Nate
 country: Planning
 hidden: false
 
