@@ -8,6 +8,8 @@ baseurl:  # if you have suburl as homepage like '/homepage', please change it to
 url: http://site.awellchartedpath.com  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 permalink: /blog/:year/:month/:title/
+collections: 
+- walks
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
