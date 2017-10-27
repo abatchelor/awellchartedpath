@@ -23,3 +23,7 @@ For example, laundry is a huge pain. We packed light for the trip. A backpack ca
 Then comes the drying. We have yet to come across a dryer. So, we string up our clothes, sometimes outside, sometimes in the bathroom, sometimes in the living room. Some places they dry overnight but others it takes two days. 
 
 Then there is cooking. We decided from the outset    
+
+
+
+Finally, if you ever want to feel humble or maybe a little stupid, travel can definitely help with that. For example, there were the times when I couldn't speak Portuguese and instead resorted to German. Or there was the time that a waitress, before we even opened the door to an empanada restaurant in Buenos Aires, identified us as tourists and started speaking English to us. Then when she brought us our delicious smelling tomales, she was nice enough to explain to us that we were not supposed to eat the husks around the tomales but _open it up and eat the inside_. 
