@@ -18,6 +18,17 @@ layout: default
                             {{ page.title }}
                         </h1>
                     </div>
+                    	{% if page.mapstart %}
+							{% for section in site.data.landing %}
+							{% if section.id == "map" %}
+							{% assign loopindex = forloop.index | modulo: 2 %}
+							<section id="{{ section.id }}" class="features {% if section.background == 'gray-section' %} {{ section.background }} {% endif %} {% if loopindex != 1 %} {% unless section.background == 'white' %}gray-section{%endunless%} {% endif %} {{ section.css }}" style="margin-top: 0;">
+							  {% include sections/{{section.tpl}} %}
+							  <br>TEXT</br>
+							</section>
+							{% endif %}
+							{% endfor %}
+                    	{% endif %}
                     	{{ content }}
                     <hr>
                     <div class="row">
