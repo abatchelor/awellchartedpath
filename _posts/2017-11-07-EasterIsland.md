@@ -10,8 +10,6 @@ icon: icon-html
 image: blog/PascuaTongarikiSunrise.jpg
 author: Nate
 country: Chile
-mapstart: 2017-10-30
-mapend: 2017-11-05
 hidden: false
 
 ---
@@ -27,6 +25,9 @@ Even though Easter Island has been part of our draft plan for this trip for year
 Similar to [Ilha Grande](http://site.awellchartedpath.com/blog/2017/10/IlhaGrande/), arriving to Easter Island makes it clear right away that you're somewhere pretty different. Our plane curved around most of the island before coming in to land on the runway that stretches nearly all the way across the rare bit of flat land between two volcanoes at the southern end of the island. We deplaned on simple stairs... onto the tarmac itself, where everyone was pausing to take photos and take their first breaths of island air. Since there is only one flight a day, there aren't any "gates" just the small airport terminal that is mostly open-air.
 
 Easter Island is also very small - it takes about 25 minutes to drive the entire length of it - and still quite undeveloped. There are a few two-story cabins in parts, but no chain hotels or high-rises of any kind. This means that many of Ahu Moai are taller than any of the buildings on the island, really hammering home how crazy it is how many unanswered questions there still are about how they were produced, moved, and erected.
+
+<div style="text-align: center;"><a href="/static/assets/img/blog/PascuaRoutes.png" target="_blank"><img src="/static/assets/img/blog/PascuaRoutes.png" style="max-width: calc(100% - 20px);"></a><p><i>We got around. Yellow is walking; brown is driving. Explore in more detail on <a src="http://127.0.0.1:4000/#map">the homepage map</a>.</i></p></div><p></p> 
+
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i>What We Did 
 
