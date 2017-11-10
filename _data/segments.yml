@@ -83,39 +83,32 @@
   type: rtw
 
 - route: Santiago - La Paz
-  start_date: November 7, 2017
-  end_date: November 7, 2017
+  start_date: November 16, 2017
+  end_date: November 16, 2017
   from: -70.794,-33.397
   to: -68.187,-16.510
   type: flight
 
 - route: La Paz - Cuzco
-  start_date: November 10, 2017
-  end_date: November 10, 2017
+  start_date: November 20, 2017
+  end_date: November 20, 2017
   from: -68.135,-16.498
   to: -71.979,-13.517
   type: bus
 
 - route: Cuzco - Lima
-  start_date: November 13, 2017
-  end_date: November 15, 2017
+  start_date: November 27, 2017
+  end_date: December 8, 2017
   from: -71.979,-13.517
   to: -77.034,-12.062
   type: bus
 
-- route: Lima - Tacna
-  start_date: November 17, 2017
-  end_date: November 17, 2017
+- route: Lima - Santiago
+  start_date: December 6, 2017
+  end_date: December 6, 2017
   from: -77.105,-12.033
-  to: -70.276,-18.051
-  type: flight
-
-- route: Tacna - Santiago
-  start_date: November 20, 2017
-  end_date: November 27, 2017
-  from: -70.247,-18.014
   to: -70.650,-33.437
-  type: bus
+  type: flight
 
 - route: Santiago - Melbourne
   start_date: December 7, 2017
