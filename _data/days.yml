@@ -410,3 +410,67 @@
   drive: 0
   boat: 0
   walk: 4.9
+
+- day: October 30, 2017
+  fly: 3144
+  train: 0
+  drive: 21
+  boat: 0
+  walk: 8.2
+
+- day: October 31, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 13
+
+- day: November 1, 2017
+  fly: 0
+  train: 0
+  drive: 31
+  boat: 0
+  walk: 6
+
+- day: November 2, 2017
+  fly: 0
+  train: 0
+  drive: 38
+  boat: 0
+  walk: 8.7
+
+- day: November 3, 2017
+  fly: 0
+  train: 0
+  drive: 9
+  boat: 0
+  walk: 8.1
+
+- day: November 4, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 6.7
+
+- day: November 5, 2017
+  fly: 2334
+  train: 0
+  drive: 12.5
+  boat: 0
+  walk: 2.8
+
+- day: November 6, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 9.6
+
+- day: November 7, 2017
+  fly: 0
+  train: 1.1
+  drive: 0
+  boat: 0
+  walk: 5.5
+
