@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Easter Island: 6 Days of Ahu Moai"
-date: 2017-11-08
+date: 2017-11-10
 desc: "Our once-in-a-lifetime chance to explore the land of the Moai."
 keywords: "Chile, Easter Island, Isla de Pascual, hiking, car rental, Ahu, Moai, ATV"
 categories: [South-america]
 tags: Easter Island
 icon: icon-html
-image: blog/.jpg
+image: blog/PascuaTongarikiSunrise.jpg
 author: Nate
 country: Chile
 mapstart: 2017-10-30
