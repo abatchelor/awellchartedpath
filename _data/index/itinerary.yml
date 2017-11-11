@@ -22,6 +22,7 @@
 - country: South Africa
   city: 
     - Cape Town 
+    - Premier Classe Train
     - Johannesburg
   start_date: September 15, 2017
   end_date: September 30, 2017
@@ -31,10 +32,10 @@
 
 - country: Brazil
   city: 
-    - Sao Paulo
+    - São Paulo
+    - Rio de Janiero
     - Ilha Grande
     - Paraty
-    - Rio de Janiero
   start_date: October 1, 2017
   end_date: October 15, 2017
   center: -43.694,-22.911
@@ -44,6 +45,7 @@
 - country: Argentina
   city: 
     - Buenos Aires
+    - Tigre
   start_date: October 16, 2017
   end_date: October 30, 2017
   center: -58.466,-34.614
@@ -54,8 +56,9 @@
   city: 
     - Easter Island
     - Santiago
+    - Valparaíso
   start_date: October 30, 2017
-  end_date: November 16, 2017
+  end_date: November 20, 2017
   center: -85.566,-27.875
   zoom: 3.0
   icon: fa-suitcase
@@ -63,16 +66,21 @@
 - country: Bolivia
   city: 
     - La Paz
-  start_date: November 17, 2017
-  end_date: November 20, 2017
+    - Copacabana
+  start_date: November 20, 2017
+  end_date: November 25, 2017
   center: -68.257,-16.489
   zoom: 7.2
   icon: fa-suitcase
 
 - country: Peru
   city: 
+    - Puno
     - Cusco
-  start_date: November 20, 2017
+    - Arequipa
+    - Colca Canyon
+    - Lima
+  start_date: November 26, 2017
   end_date: December 7, 2017
   center: -71.981,-14.414
   zoom: 5.0
@@ -83,28 +91,18 @@
     - Melbourne
     - Cairns
   start_date: December 8, 2017
-  end_date: December 16, 2017
+  end_date: December 17, 2017
   center: 149.784,-28.021
   zoom: 3.2
-  icon: fa-suitcase
-
-- country: Singapore
-  city: 
-    - Singapore
-  start_date: December 17, 2017
-  end_date: December 19, 2017
-  center: 103.843,1.229
-  zoom: 6.4
   icon: fa-suitcase
 
 - country: Myanmar
   city: 
     - Yangon
-    - Thazi
     - Inle Lake
     - Mandalay
     - Bagan
-  start_date: December 20, 2017
+  start_date: December 18, 2017
   end_date: January 2, 2018
   center: 96.665,21.109
   zoom: 4.7
@@ -113,6 +111,7 @@
 - country: Vietnam
   city: 
     - Hanoi
+    - Hoi An
     - Saigon
   start_date: January 3, 2018
   end_date: January 16, 2018
@@ -123,7 +122,7 @@
 - country: Cambodia
   city: 
     - Phnom Penh
-    - Diem Reap
+    - Siem Reap
   start_date: January 17, 2018
   end_date: January 25, 2018
   center: 104.902,12.248
@@ -205,7 +204,7 @@
   city: 
     - Amman
   start_date: April 22, 2018
-  end_date: April 29, 2018
+  end_date: April 28, 2018
   center: 37.094,31.280
   zoom: 6.0
   icon: fa-suitcase
@@ -213,8 +212,8 @@
 - country: Spain
   city: 
     - Barcelona
-  start_date: April 30, 2018
-  end_date: May 5, 2018
+  start_date: April 29, 2018
+  end_date: May 4, 2018
   center: 10.230,41.461
   zoom: 4.5
   icon: fa-suitcase
@@ -223,7 +222,7 @@
   city: 
     - Marseille
   start_date: May 5, 2018
-  end_date: May 8, 2018
+  end_date: May 7, 2018
   center: 10.230,41.461
   zoom: 4.5
   icon: fa-suitcase
@@ -238,9 +237,8 @@
     - Florence
     - Pisa
     - Venice
-    - Milan
-  start_date: May 9, 2018
-  end_date: June 4, 2018
+  start_date: May 8, 2018
+  end_date: June 2, 2018
   center: 13.244,41.496
   zoom: 4.9
   icon: fa-suitcase
@@ -248,18 +246,8 @@
 - country: Switzerland
   city: 
     - Geneva
-    - Basel
-  start_date: June 5, 2018
-  end_date: June 7, 2018
-  center: 7.647,48.597
-  zoom: 4.4
-  icon: fa-suitcase
-
-- country: Germany
-  city: 
-    - Munich
-  start_date: June 8, 2018
-  end_date: June 10, 2018
+  start_date: June 3, 2018
+  end_date: June 5, 2018
   center: 7.647,48.597
   zoom: 4.4
   icon: fa-suitcase
@@ -268,8 +256,8 @@
   city: 
     - Salzburg
     - Vienna
-  start_date: June 11, 2018
-  end_date: June 17, 2018
+  start_date: June 6, 2018
+  end_date: June 13, 2018
   center: 7.647,48.597
   zoom: 4.4
   icon: fa-suitcase
@@ -277,8 +265,8 @@
 - country: Hungary
   city: 
     - Budapest
-  start_date: June 18, 2018
-  end_date: June 22, 2018
+  start_date: June 14, 2018
+  end_date: June 18, 2018
   center: 18.421,47.862
   zoom: 4.4
   icon: fa-suitcase
@@ -286,8 +274,8 @@
 - country: Czech Republic
   city: 
     - Prague
-  start_date: June 23, 2018
-  end_date: June 28, 2018
+  start_date: June 19, 2018
+  end_date: June 24, 2018
   center: 13.421,47.862
   zoom: 4.4
   icon: fa-suitcase
@@ -295,8 +283,8 @@
 - country: Germany
   city: 
     - Berlin
-  start_date: June 29, 2018
-  end_date: July 1, 2018
+  start_date: June 25, 2018
+  end_date: June 28, 2018
   center: 7.647,48.597
   zoom: 4.4
   icon: fa-suitcase
@@ -304,8 +292,8 @@
 - country: Denmark
   city: 
     - Copenhagen
-  start_date: July 2, 2018
-  end_date: July 7, 2018
+  start_date: June 29, 2018
+  end_date: July 5, 2018
   center: 11.234,55.559
   zoom: 4.7
   icon: fa-suitcase
@@ -313,8 +301,8 @@
 - country: Netherlands
   city: 
     - Amsterdam
-  start_date: July 8, 2018
-  end_date: July 12, 2018
+  start_date: July 6, 2018
+  end_date: July 11, 2018
   center: 7.208,52.540
   zoom: 4.7
   icon: fa-suitcase
@@ -322,8 +310,8 @@
 - country: Belgium
   city: 
     - Brussels
-  start_date: July 13, 2018
-  end_date: July 16, 2018
+  start_date: July 12, 2018
+  end_date: July 15, 2018
   center: 7.208,52.540
   zoom: 4.4
   icon: fa-suitcase
@@ -332,18 +320,18 @@
   city: 
     - Paris
     - Cherbourg
-  start_date: July 17 2018
-  end_date: July 24, 2018
+  start_date: July 16, 2018
+  end_date: July 23, 2018
   center: 0.952,49.063
   zoom: 5.0
   icon: fa-suitcase
   
 - country: Ireland
   city: 
-    - Rossiare
+    - Rosslare
     - Dublin
-  start_date: July 25, 2018
-  end_date: July 30, 2018
+  start_date: July 24, 2018
+  end_date: July 29, 2018
   center: -3.029,51.890
   zoom: 4.5
   icon: fa-suitcase
@@ -351,8 +339,8 @@
 - country: United Kingdom
   city: 
     - London
-  start_date: July 31, 2018
-  end_date: August 5, 2018
+  start_date: July 30, 2018
+  end_date: August 4, 2018
   center: -3.029,51.890
   zoom: 5.0
   icon: fa-suitcase
@@ -360,8 +348,8 @@
 - country: Mauritius
   city: 
     - Port Louis
-  start_date: August 8, 2018
-  end_date: August 14, 2018
+  start_date: August 5, 2018
+  end_date: August 11, 2018
   center: 57.738,-20.303
   zoom: 7.0
   icon: fa-suitcase
@@ -369,7 +357,7 @@
 - country: United States
   city: 
     - Cromberg
-  start_date: August 15, 2018
+  start_date: August 12, 2018
   end_date: 
   center: -120.707,39.801
   zoom: 7.0

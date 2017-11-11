@@ -83,25 +83,60 @@
   type: rtw
 
 - route: Santiago - La Paz
-  start_date: November 16, 2017
-  end_date: November 16, 2017
+  start_date: November 20, 2017
+  end_date: November 20, 2017
   from: -70.794,-33.397
   to: -68.187,-16.510
   type: flight
 
-- route: La Paz - Cuzco
-  start_date: November 20, 2017
-  end_date: November 20, 2017
+- route: La Paz - Copacabana
+  start_date: November 25, 2017
+  end_date: November 25, 2017
   from: -68.135,-16.498
-  to: -71.979,-13.517
+  to: -69.088402, -16.167280
   type: bus
 
-- route: Cuzco - Lima
-  start_date: November 27, 2017
-  end_date: December 8, 2017
-  from: -71.979,-13.517
-  to: -77.034,-12.062
+- route: Copacabana - Puno
+  start_date: November 25, 2017
+  end_date: November 25, 2017
+  from: -69.088402, -16.167280
+  to: -70.020836, -15.837459
   type: bus
+
+- route: Puno - Cuzco
+  start_date: November 25, 2017
+  end_date: November 26, 2017
+  from: -70.020836, -15.837459
+  to: -71.979,-13.517
+  type: bus
+  
+- route: Cuzco - Arequipa
+  start_date: November 29, 2017
+  end_date: November 29, 2017
+  from: -71.943317, -13.535343
+  to: -71.572582, -16.340638
+  type: flight
+
+- route: Arequipa - Colca Canyon
+  start_date: November 30, 2017
+  end_date: November 30, 2017
+  from: -71.544296, -16.423417
+  to: -71.980220, -15.621968
+  type: bus
+
+- route: Arequipa - Lima
+  start_date: December 4, 2017
+  end_date: December 4, 2017
+  from: -77.105,-12.033 
+  to: -71.572582, -16.340638
+  type: flight
+
+- route: Arequipa - Lima
+  start_date: December 4, 2017
+  end_date: December 4, 2017
+  from: -71.572582, -16.340638 
+  to: -77.105,-12.033
+  type: flight
 
 - route: Lima - Santiago
   start_date: December 6, 2017
@@ -153,134 +188,148 @@
   type: rtw
 
 - route: Singapore - Yangon
-  start_date: December 20, 2017
-  end_date: December 20, 2017
+  start_date: December 18, 2017
+  end_date: December 18, 2017
   from: 103.988,1.354
   to: 96.133,16.904
   type: flight
 
-- route: Yangon - Thazi
-  start_date: January 1, 2018
-  end_date: January 1, 2018
-  from: 96.161,16.781
-  to: 96.057808,20.853148
-  type: train
+- route: Yangon - Heho
+  start_date: December 22, 2017
+  end_date: December 22, 2017
+  from: 96.133,16.904
+  to: 96.791715, 20.748903
+  type: flight
 
-- route: Thazi - Inle Lake
-  start_date: January 1, 2018
-  end_date: January 1, 2018
-  from: 96.057808,20.853148
+- route: Heho - Inle Lake
+  start_date: December 22, 2017
+  end_date: December 22, 2017
+  from: 96.791715, 20.748903
   to: 96.916047, 20.565386
-  type: train
+  type: bus
 
-- route: Thazi - Mandalay
-  start_date: January 1, 2018
-  end_date: January 1, 2018
-  from: 96.057808,20.853148
+- route: Inle Lake - Mandalay
+  start_date: December 25, 2017
+  end_date: December 25, 2017
+  from: 96.916047, 20.565386
   to: 96.086137, 21.976921
-  type: train
+  type: bus
 
 - route: Mandalay - Bagan
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: December 28, 2017
+  end_date: December 28, 2017
   from: 96.057,21.979
   to: 94.853,21.130
   type: boat
 
 - route: Bagan - Yangon
   start_date: January 1, 2018
-  end_date: January 1, 2018
+  end_date: January 2, 2018
   from: 94.934955, 21.154314
   to: 96.161,16.781
   type: train
 
 - route: Yangon - Hanoi
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: January 2, 2018
+  end_date: January 2, 2018
   from: 96.133,16.904
   to: 105.803,21.219
   type: flight
 
-- route: Hanoi - Saigon
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+- route: Hanoi - Danang
+  start_date: January 7, 2018
+  end_date: January 8, 2018
   from: 105.841116,  21.025068
+  to: 108.209384, 16.072140
+  type: train
+
+- route: Danang - Hoi An
+  start_date: January 8, 2018
+  end_date: January 8, 2018
+  from: 108.209384, 16.072140
+  to: 108.328676, 15.878464
+  type: bus
+
+- route: Danang - Saigon
+  start_date: January 12, 2018
+  end_date: January 13, 2018
+  from: 108.209384, 16.072140
   to: 106.677318, 10.782507
   type: train
 
 - route: Saigon - Phnom Penh
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: January 17, 2018
+  end_date: January 17, 2018
   from: 106.683,10.777
   to: 104.919,11.562
   type: bus
 
 - route: Phnom Penh - Siem Reap
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: January 20, 2018
+  end_date: January 20, 2018
   from: 104.939,11.559
   to: 103.822,13.270
   type: boat
 
 - route: Siem Reap - Bangkok
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: January 26, 2018
+  end_date: January 26, 2018
   from: 103.860,13.355
   to: 100.516254, 13.739848
   type: train
 
 - route: Bangkok - Nam Tok
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: January 28, 2018
+  end_date: January 28, 2018
   from: 100.516254, 13.739848
   to: 99.067695, 14.232423
   type: train
 
 - route: Bangkok - Surat Thani
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: January 30, 2018
+  end_date: January 30, 2018
   from: 100.516254, 13.739848
   to: 99.297940, 9.111529
   type: train
 
 - route: Surat Thani - ??
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: February 12, 2018
+  end_date: February 12, 2018
   from: 99.297940, 9.111529
   to: 99.824469, 10.072483
   type: boat
 
 - route: Surat Thani - Phuket
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: February 14, 2018
+  end_date: February 14, 2018
   from: 99.297940, 9.111529
   to: 98.390327, 7.870959
   type: bus
 
 - route: Phuket - Bangkok
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: February 15, 2018
+  end_date: February 15, 2018
   from: 98.390327, 7.870959
   to: 100.516254, 13.739848
   type: train
 
 - route: Bangkok - Vientiane
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: February 22, 2018
+  end_date: February 22, 2018
   from: 100.516254, 13.739848
   to: 102.611,17.963
   type: train
 
 - route: Vientiane - Luang Prabang
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: February 25, 2018
+  end_date: February 25, 2018
   from: 102.611,17.963
   to: 102.136,19.887
   type: bus
 
 - route: Luang Prabang - Kuala Lumpur
-  start_date: January 1, 2018
-  end_date: January 1, 2018
+  start_date: March 2, 2018
+  end_date: March 2, 2018
   from: 102.166,19.903
   to: 101.698,2.746
   type: flight
@@ -601,15 +650,15 @@
   type: boat
 
 - route: London - Mauritius
-  start_date: August 5, 2018
-  end_date: August 6, 2018
+  start_date: August 4, 2018
+  end_date: August 5, 2018
   from: -0.185,51.153
   to: 57.678,-20.433
   type: rtw
 
 - route: Mauritius - Reno
-  start_date: August 12, 2018
-  end_date: August 14, 2018
+  start_date: August 11, 2018
+  end_date: August 13, 2018
   from: 57.678,-20.433
   to: -119.771,39.502
   type: flight
