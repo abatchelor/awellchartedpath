@@ -501,3 +501,24 @@
   drive: 0
   boat: 0
   walk: 9.3
+
+- day: November 12, 2017
+  fly: 0
+  train: 0
+  drive: 82.5
+  boat: 0
+  walk: 6.2
+
+- day: November 13, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 9.1
+
+- day: November 14, 2017
+  fly: 0
+  train: 37.3
+  drive: 11.4
+  boat: 0
+  walk: 2
