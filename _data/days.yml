@@ -522,3 +522,10 @@
   drive: 11.4
   boat: 0
   walk: 2
+
+- day: November 14, 2017
+  fly: 0
+  train: 8
+  drive: 2.7
+  boat: 0
+  walk: 7.1
