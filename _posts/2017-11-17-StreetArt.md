@@ -15,9 +15,9 @@ hidden: false
 -
 
 
-<div style=“text-align: center;”><a href=“/static/assets/img/blog/ValpoHippies.jpg” target=“_blank”><img src=“/static/assets/img/blog/ValpoHippies.jpg” style=“max-width: calc(100% - 20px);”></a><p><i>The view of the port from the hills.</i></p></div><p></p> 
+<div style=“text-align: center;”><a href=“/static/assets/img/blog/ValpoHippies.jpg” target=“_blank”><img src=“/static/assets/img/blog/ValpoHippies.jpg” style=“max-width: calc(100% - 20px);”></a><p><i>Possibly one of the most famous pieces in Valparaíso, though even it gets covered over sometimes. The artist are [Art+Believe](https://www.instagram.com/artbelieve/).</i></p></div><p></p> 
 
-Street art, murals, graffiti, or tags are everywhere in Valparaíso. From what we learned from a tour guide one day and the blog posts I read before arriving, street art really boomed during the Pinochet dictatorship. Freedom of expression was limited and speaking out against the junta was very dangerous and so the anonymity of street art was an outlet. Even this form of protest was very dangerous though, getting caught could have been deadly. 
+Street art, murals, graffiti, or tags are everywhere in Valparaíso. From what we learned from our [walking tour guide](http://www.freetourvalparaiso.cl/portada.html) one day and the blog posts I read before arriving, street art really boomed during the Pinochet dictatorship. Freedom of expression was limited and speaking out against the junta was very dangerous and so the anonymity of street art was an outlet. Even this form of protest was very dangerous though, getting caught could have been deadly. 
 
 Today those threats have faded but street art continues to flourish. Whether it is always appreciated by the owners of the buildings turned canvas, is hard to say but my guess is probably not. Still, it is undeniable that some of the artist have gone far beyond tags and vandalism to create really beautiful pieces. 
 
