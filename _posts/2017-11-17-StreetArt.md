@@ -14,10 +14,9 @@ hidden: false
 
 -
 
+<div style=“text-align: center;”><a href=“/static/assets/img/blog/ValpoHippies.jpg” target=“_blank”><img src=“/static/assets/img/blog/ValpoHippies.jpg” style=“max-width: calc(100% - 20px);”></a><p><i>A sneaky piece, hiding on stairs in Cerro Concepción.   The artist are [Art+Believe](https://www.instagram.com/artbelieve/).</i></p></div><p></p> 
 
-<div style=“text-align: center;”><a href=“/static/assets/img/blog/ValpoHippies.jpg” target=“_blank”><img src=“/static/assets/img/blog/ValpoHippies.jpg” style=“max-width: calc(100% - 20px);”></a><p><i>Possibly one of the most famous pieces in Valparaíso, though even it gets covered over sometimes. The artist are [Art+Believe](https://www.instagram.com/artbelieve/).</i></p></div><p></p> 
-
-Street art, murals, graffiti, or tags are everywhere in Valparaíso. From what we learned from our [walking tour guide](http://www.freetourvalparaiso.cl/portada.html) one day and the blog posts I read before arriving, street art really boomed during the Pinochet dictatorship. Freedom of expression was limited and speaking out against the junta was very dangerous and so the anonymity of street art was an outlet. Even this form of protest was very dangerous though, getting caught could have been deadly. 
+We spent a few days [exploring Valparaíso](www.awellchartedpath.com/blog/2017/11/Valpo) and street art, murals, graffiti, or tags are everywhere. From what we learned from our [walking tour guide](http://www.freetourvalparaiso.cl/portada.html) and the blog posts I read before arriving, street art really boomed during the Pinochet dictatorship. Freedom of expression was limited and speaking out against the junta was very dangerous and so the anonymity of street art was an outlet. Even this form of protest was very dangerous though, as getting caught could have been deadly. 
 
 Today those threats have faded but street art continues to flourish. Whether it is always appreciated by the owners of the buildings turned canvas, is hard to say but my guess is probably not. Still, it is undeniable that some of the artist have gone far beyond tags and vandalism to create really beautiful pieces. 
 
@@ -30,7 +29,12 @@ The father of street art, in Valpo and other cities around the world, is apparen
 
 Two artists that call themselves [Un Kolor Distincto](https://soundsandcolours.com/articles/chile/unkolordistinto-valparaisos-street-artists-sammy-and-cynthia-25272/) were probably my favorite and yet I was apparently so busy enjoying their work that I failed to take photos of it. Some of their most recent work is to paint large murals on the sides of apartment buildings to represent the seasons. They still have to finish summer but seeking these out is will worth your time. You can also check out their [Instagram](https://www.instagram.com/unkolordistinto/) for even more of their work. 
 
-One larger piece I captured was the collection of cartoon animals can be found at the top entrance/exit of the Reina Victoria funicular. It commemorates the cartoons of Lukas, whose work can be viewed in a [museum in Valparaíso](http://www.lukas.cl/) the animals in the mural have taken on human characteristics that happen to fit with the slang used in Chile that is heavy on animal references. 
+One larger piece I captured was the collection of cartoon animals that can be found at the top entrance/exit of the Reina Victoria funicular. It commemorates the cartoons of Lukas, whose work can be viewed in a [museum in Valparaíso](http://www.lukas.cl/) the animals in the mural have taken on human characteristics that happen to fit with the slang used in Chile that is heavy on animal references. 
+
+
+<div style=“text-align: center;”><a href=“/static/assets/img/blog/ValpoCookArt.jpg” target=“_blank”><img src=“/static/assets/img/blog/ValpoCookArt.jpg” style=“max-width: calc(100% - 20px);”></a><p><i>View of the mural by Un Kolor Distincto in our cooking class with [Chilean Cuisine](http://www.chileancuisine.cl/).</i></p></div><p></p> 
+
+There was also a piece they created in the kitchen of our cooking class!
 
 <div style=“text-align: center; max-width: calc(100% - 20px);”><a href=“/static/assets/img/blog/ValpoFish.jpg” target=“_blank”><img src=“/static/assets/img/blog/ValpoFish.jpg” width=“45%”></a> <a href=“/static/assets/img/blog/ValpoFish2.jpg” target=“_blank”><img src=“/static/assets/img/blog/ValpoFish2.jpg” width=“45%”></a></div><p></p>
 
@@ -51,7 +55,7 @@ Beyond the intricate murals, there are also slogans and tags, may quite politica
 
 <div style=“text-align: center; max-width: calc(100% - 20px);”><a href=“/static/assets/img/blog/ValpoDual.jpg” target=“_blank”><img src=“/static/assets/img/blog/ValpoDual.jpg” width=“45%”></a> <a href=“/static/assets/img/blog/ValpoGuys.jpg” target=“_blank”><img src=“/static/assets/img/blog/ValpoGuys.jpg” width=“45%”></a></div><p></p>
 
-You can learn more about the [street art in Valparaíso from this travel blog](https://traveloutlandish.com/blog/valparaiso-street-art/) that found really helpful before visiting as well.
+You can learn more about the [street art in Valparaíso from this travel blog](https://traveloutlandish.com/blog/valparaiso-street-art/) that I found really helpful before visiting as well.
 
 <div style=“text-align: center;”><a href=“/static/assets/img/blog/ValpoGray.jpg” target=“_blank”><img src=“/static/assets/img/blog/ValpoGray.jpg” style=“max-width: calc(100% - 20px);”></a><p></p> 
 
