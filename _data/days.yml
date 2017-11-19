@@ -504,7 +504,7 @@
 
 - day: November 12, 2017
   fly: 0
-  train: 0
+  train: 5.15
   drive: 82.5
   boat: 0
   walk: 6.2
@@ -523,9 +523,31 @@
   boat: 0
   walk: 2
 
-- day: November 14, 2017
+- day: November 15, 2017
   fly: 0
   train: 8
   drive: 2.7
   boat: 0
   walk: 7.1
+
+- day: November 16, 2017
+  fly: 0
+  train: 5.15
+  drive: 69.4
+  boat: 0
+  walk: 2.4
+
+- day: November 17, 2017
+  fly: 0
+  train: 2.3
+  drive: 2.3
+  boat: 0
+  walk: 2.3
+
+- day: November 18, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 2.3
+
