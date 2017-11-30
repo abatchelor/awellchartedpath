@@ -1,5 +1,5 @@
 # careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
+# if you don’t have language feature(language.yml is empty), ignore “i18n” items
 
 - country: Planning
   city: 
@@ -78,7 +78,6 @@
     - Puno
     - Cusco
     - Arequipa
-    - Colca Canyon
     - Lima
   start_date: November 26, 2017
   end_date: December 7, 2017
