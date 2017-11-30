@@ -599,3 +599,31 @@
   drive: 246
   boat: 7.3
   walk: 1.4
+
+- day: November 26, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 7.4
+
+- day: November 27, 2017
+  fly: 0
+  train: 28
+  drive: 50
+  boat: 0
+  walk: 2
+
+- day: November 28, 2017
+  fly: 0
+  train: 28
+  drive: 61
+  boat: 0
+  walk: 7
+
+- day: November 29, 2017
+  fly: 228
+  train: 0
+  drive: 9.3
+  boat: 0
+  walk: 6.35
