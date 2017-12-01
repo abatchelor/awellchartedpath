@@ -627,3 +627,10 @@
   drive: 9.3
   boat: 0
   walk: 6.35
+
+- day: November 30, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 6.1
