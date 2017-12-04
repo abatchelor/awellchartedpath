@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Machu Picchu: One Day; Every Climate"
+title: "Machu Picchu: Rain, Fog, and Sunshine"
 date: 2017-12-04
 desc: "Crossing Machu Picchu off our bucket list - in the rain."
 keywords: "RTW Travel, South America, Peru, Cusco, Cuzco, Aguas Calientes, Machu Picchu, Huaynu Picchu, IncaRail, PeruRail"
