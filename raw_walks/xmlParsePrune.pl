@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+# perl xmlParsePrune.pl 3 .
 
 use 5.010;
 use strict;
