@@ -690,3 +690,10 @@
   drive: 14.8
   boat: 0
   walk: 2.9
+
+- day: December 9, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 14.6
