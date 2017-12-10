@@ -299,32 +299,18 @@
   to: 98.390327, 7.870959
   type: bus
 
-- route: Phuket - Bangkok
+- route: Phuket - Kuala Lumpur
   start_date: February 15, 2018
   end_date: February 15, 2018
   from: 98.390327, 7.870959
-  to: 100.516254, 13.739848
-  type: train
-
-- route: Bangkok - Vientiane
-  start_date: February 22, 2018
-  end_date: February 22, 2018
-  from: 100.516254, 13.739848
-  to: 102.611,17.963
-  type: train
-
-- route: Vientiane - Luang Prabang
-  start_date: February 25, 2018
-  end_date: February 25, 2018
-  from: 102.611,17.963
-  to: 102.136,19.887
-  type: bus
-
-- route: Luang Prabang - Kuala Lumpur
-  start_date: March 2, 2018
-  end_date: March 2, 2018
-  from: 102.166,19.903
   to: 101.698,2.746
+  type: train
+
+- route: Kuala Lumpur - Luang Prabang
+  start_date: February 26, 2018
+  end_date: February 26, 2018
+  from: 101.698,2.746
+  to: 102.166,19.903
   type: flight
 
 - route: Kuala Lumpur - Delhi
