@@ -139,23 +139,23 @@
   zoom: 4.0
   icon: fa-suitcase
 
-- country: Laos
-  city: 
-    - Vientiane
-    - Luang Prabang
-  start_date: February 22, 2018
-  end_date: March 1, 2018
-  center: 103.889,18.206
-  zoom: 4.9
-  icon: fa-suitcase
-
 - country: Malaysia
   city: 
+    - Langkawi
     - Kuala Lumpur
-  start_date: March 2, 2018
-  end_date: March 4, 2018
+  start_date: February 22, 2018
+  end_date: February 25, 2018
   center: 101.911,2.933
   zoom: 6.0
+  icon: fa-suitcase
+
+- country: Laos
+  city: 
+    - Luang Prabang
+  start_date: February 26, 2018
+  end_date: March 4, 2018
+  center: 103.889,18.206
+  zoom: 4.9
   icon: fa-suitcase
 
 - country: India
