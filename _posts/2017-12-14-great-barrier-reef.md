@@ -4,7 +4,7 @@ title: "The Great Barrier Reef: 32 hours that I will never forget"
 date: 2017-12-15
 desc: "We spent 32 hours on a sailboat snorkeling and diving at Milln Reef. It was beautiful, awe inspiring, and better than even my highest expectations."
 keywords: "Australia, The Great Barrier Reef, Milln Reef, snorkeling, diving"
-categories: [Australia]
+categories: [Oceania]
 tags: Great Barrier Reef
 icon: icon-html
 image: blog/GBDGroup.jpg
@@ -57,11 +57,13 @@ We had spent the night sheltered at our second dive sight and in the morning mad
 
 The dive and snorkeling at the Three Sisters blew my mind. I’ve seen impressive things and done a good amount of travel but have never done anything like it. We were even at Machu Picchu recently. It was incredible but was nowhere near as impressive as this section of reef. 
 
-This dive also had our one scary moment during the trip–we had stayed underwater for close to our maximum time and Nate was running lowest on air. While we weren't that deep and he probably could have made it back to the boat, the dive instructor had Nate use the spare regulator on his own tank just to be safe. Unfortunately that then got accidentally knocked out of Nate's mouth, leaving him fumbling for either regulator while 20 feet underwater. Definitely got our heartbeats up but was solved in less than 10 seconds by the very-adept instructor. Phew!
+This dive also had our one scary moment during the trip–we had stayed underwater for close to our maximum time and Nate was running lowest on air. While we weren't that deep and he probably could have made it back to the boat, the dive instructor had Nate use the spare regulator on his own tank just to be safe. Unfortunately that then got accidentally knocked out of Nate's mouth, leaving him fumbling for either regulator while 20 feet underwater. Definitely got our heartbeats up but was solved in less than 10 seconds by the very-adept instructor.
 
 Every minute of the dive was incredible. According to our dive instructors, the visibility was just average but for me it was bright and crystal clear, even if you couldn’t see the bottom standing on the boat. We made our way from the main reef to the first and second sister but the third was too far. 
 
 The coral was so colorful and so clearly alive. It’s all different shapes, though my favorite looked like huge solid ferns that stretch out from the main body of the coral. The fish life was also diverse with tiny fish that could blend almost seamlessly into coral up to large schools of silver fish that were 3 feet long. Some of the schools of fish also interacted together, smaller ones moving in between the larger ones. 
+
+One fish that was particularly active during our dives was the triggerfish. Triggerfish are large fish with a fin that they raise on their back when they want to intimidate something in their territory. They can get as large as 50 cm (about 20 in). Our dive pro warned us that they might be aggressive because December is part of mating season and the triggerfish will protect their nests. I didn't take him that seriously but he was not joking. Twice while we were diving, we found ourselves in the territory of a triggerfish. When that happens, they charge at you. They are not small fish and they are quick. We had to turn and try to deter them with the threat of kicking them with our flippers. Luckily none of us got bitten because our dive pro said he had heard stories of bites that required stitches and others that took chunks our of wet suits. We also never actually had to kick one of the fish. It does get your adrenaline pumping a little though. 
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/GBDhammockn.jpg" target="_blank"><img src="/static/assets/img/blog/GBDhammockn.jpg" width="45%"></a></div><p></p>
 
