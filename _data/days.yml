@@ -781,3 +781,10 @@
   drive: 0
   boat: 0
   walk: 6.4
+
+- day: December 22, 2017
+  fly: 275
+  train: 0
+  drive: 30.2
+  boat: 0
+  walk: 4.1
