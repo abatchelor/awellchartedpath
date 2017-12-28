@@ -796,3 +796,39 @@
   boat: 3.9
   walk: 2.1
   bike: 17
+
+- day: December 24, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 35.3
+  walk: 7
+
+- day: December 25, 2017
+  fly: 0
+  train: 0
+  drive: 166
+  boat: 0
+  walk: 0.7
+
+- day: December 26, 2017
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 10.6
+
+- day: December 27, 2017
+  fly: 0
+  train: 0
+  drive: 19.6
+  boat: 1.1
+  walk: 3.4
+  bike: 13.6
+
+- day: December 28, 2017
+  fly: 0
+  train: 0
+  drive: 2.1
+  boat: 107
+  walk: 4.2
