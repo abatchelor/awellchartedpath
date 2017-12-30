@@ -832,3 +832,17 @@
   drive: 2.1
   boat: 107
   walk: 4.2
+
+- day: December 29, 2017
+  fly: 0
+  train: 0
+  drive: 16.8
+  boat: 0
+  walk: 6.8
+
+- day: December 30, 2017
+  fly: 0
+  train: 0
+  drive: 20
+  boat: 0
+  walk: 4
