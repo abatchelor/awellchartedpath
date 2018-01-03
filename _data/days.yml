@@ -853,3 +853,24 @@
   drive: 17
   boat: 0
   walk: 2.2
+
+- day: January 1, 2018
+  fly: 0
+  train: 220
+  drive: 4.1
+  boat: 0
+  walk: 2.6
+
+- day: January 2, 2018
+  fly: 791
+  train: 100
+  drive: 27
+  boat: 0
+  walk: 5
+
+- day: January 3, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 6.36
