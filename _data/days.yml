@@ -881,3 +881,17 @@
   drive: 0
   boat: 0
   walk: 8.8
+
+- day: January 5, 2018
+  fly: 0
+  train: 61
+  drive: 0
+  boat: 28
+  walk: 8.5
+
+- day: January 6, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 9
+  walk: 1
