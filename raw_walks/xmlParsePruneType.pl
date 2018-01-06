@@ -69,9 +69,9 @@ foreach my $filesList (@files) {
 			$outString .= "--- \nstart_date: " . substr($id, 0, 10) . "\n";
 			if ($note eq "Walking") {
 				$outString .= "type: walk\n";
-			} else if ($note eq "Other") {
+			} elsif ($note eq "Other") {
 				$outString .= "type: boat\n";
-			} else if ($note eq "Biking") {
+			} elsif ($note eq "Biking") {
 				$outString .= "type: other\n";
 			} else {
 				$outString .= "type: " . $note . "\n";

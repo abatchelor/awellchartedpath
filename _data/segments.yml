@@ -221,6 +221,13 @@
   from: 96.133,16.904
   to: 105.803,21.219
   type: flight
+  
+- route: Hanoi - Haiphong
+  start_date: January 5, 2018
+  end_date: January 5, 2018
+  from: 105.850150, 21.040016
+  to: 106.687625, 20.855728
+  type: train
 
 - route: Hanoi - Danang
   start_date: January 7, 2018
