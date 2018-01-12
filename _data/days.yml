@@ -923,3 +923,11 @@
   drive: 0
   boat: 0
   walk: 9.4
+
+- day: January 11, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 2.8
+  bike: 9.7
