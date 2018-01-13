@@ -931,3 +931,10 @@
   boat: 0
   walk: 2.8
   bike: 9.7
+
+- day: January 12, 2018
+  fly: 0
+  train: 622
+  drive: 18.2
+  boat: 0
+  walk: 1.6
