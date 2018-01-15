@@ -945,3 +945,17 @@
   drive: 0
   boat: 0
   walk: 12.4
+
+- day: January 14, 2018
+  fly: 0
+  train: 0
+  drive: 8
+  boat: 0
+  walk: 7
+
+- day: January 15, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 11.3
+  walk: 7
