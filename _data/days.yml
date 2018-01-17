@@ -966,3 +966,10 @@
   drive: 0
   boat: 0
   walk: 8.4
+
+- day: January 16, 2018
+  fly: 0
+  train: 0
+  drive: 150
+  boat: 0
+  walk: 4.2
