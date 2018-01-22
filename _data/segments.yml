@@ -260,13 +260,13 @@
 - route: Phnom Penh - Siem Reap
   start_date: January 20, 2018
   end_date: January 20, 2018
-  from: 104.939,11.559
-  to: 103.822,13.270
-  type: boat
+  from: 104.919,11.562
+  to: 103.860,13.355
+  type: bus
 
 - route: Siem Reap - Bangkok
-  start_date: January 26, 2018
-  end_date: January 26, 2018
+  start_date: January 25, 2018
+  end_date: January 25, 2018
   from: 103.860,13.355
   to: 100.516254, 13.739848
   type: train
