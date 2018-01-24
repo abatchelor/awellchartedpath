@@ -1001,3 +1001,17 @@
   drive: 14.9
   boat: 0
   walk: 12
+
+- day: January 22, 2018
+  fly: 0
+  train: 0
+  drive: 25.1
+  boat: 0
+  walk: 13.3
+
+- day: January 23, 2018
+  fly: 0
+  train: 0
+  drive: 51
+  boat: 0
+  walk: 5.5
