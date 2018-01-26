@@ -264,11 +264,18 @@
   to: 103.860,13.355
   type: bus
 
-- route: Siem Reap - Bangkok
+- route: Siem Reap - Poipet
   start_date: January 25, 2018
   end_date: January 25, 2018
   from: 103.860,13.355
-  to: 100.516254, 13.739848
+  to: 102.5525,13.66
+  type: bus
+
+- route: Aranyaprathet - Bangkok
+  start_date: January 25, 2018
+  end_date: January 25, 2018
+  from: 102.5048,13.693
+  to: 100.51625,13.73984
   type: train
 
 - route: Bangkok - Nam Tok
