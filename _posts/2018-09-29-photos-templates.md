@@ -16,8 +16,7 @@ hidden: true
 
 ## Full-width panorama
 
-<div style="text-align: center;"><a href="/static/assets/img/blog/HoiAnLightReflectionsPANO.jpg" target="_blank"><img src="/static/assets/img/blog/HoiAnLightReflectionsPANO.jpg" style="max-width: calc(95% - 20px);"></a>
-<p><i>CAPTION.</i></p></div><p></p> 
+<div style="text-align: center;"><a href="/static/assets/img/blog/HoiAnLightReflectionsPANO.jpg" target="_blank"><img src="/static/assets/img/blog/HoiAnLightReflectionsPANO.jpg" style="max-width: calc(95% - 20px);"></a><p><i>CAPTION.</i></p></div><p></p> 
 
 ## Horizontal, Horizontal
 
