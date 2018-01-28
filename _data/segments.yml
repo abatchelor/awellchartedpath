@@ -278,13 +278,6 @@
   to: 100.51625,13.73984
   type: train
 
-- route: Bangkok - Nam Tok
-  start_date: January 28, 2018
-  end_date: January 28, 2018
-  from: 100.516254, 13.739848
-  to: 99.067695, 14.232423
-  type: train
-
 - route: Bangkok - Surat Thani
   start_date: January 30, 2018
   end_date: January 30, 2018
