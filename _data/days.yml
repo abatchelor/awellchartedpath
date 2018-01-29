@@ -1043,3 +1043,17 @@
   drive: 5.5
   boat: 0
   walk: 12.4
+
+- day: January 28, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 3.1
+  walk: 6.2
+
+- day: January 29, 2018
+  fly: 0
+  train: 0
+  drive: 5.5
+  boat: 0
+  walk: 4.4
