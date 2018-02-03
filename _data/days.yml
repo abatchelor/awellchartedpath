@@ -1085,3 +1085,10 @@
   drive: 2.8
   boat: 8
   walk: 1.5
+
+- day: February 3, 2018
+  fly: 0
+  train: 0
+  drive: 2.8
+  boat: 8
+  walk: 1.2
