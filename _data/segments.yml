@@ -285,12 +285,12 @@
   to: 99.297940, 9.111529
   type: train
 
-- route: Surat Thani - Koh Tao
+- route: Surat Thani - Donsak
   start_date: February 1, 2018
   end_date: February 1, 2018
   from: 99.297940, 9.111529
-  to: 99.824469, 10.072483
-  type: boat
+  to: 99.7352, 9.32147
+  type: bus
 
 - route: Koh Tao - Koh Phangan
   start_date: February 7, 2018
