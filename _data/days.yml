@@ -1099,3 +1099,10 @@
   drive: 0
   boat: 0
   walk: 2.5
+
+- day: February 5, 2018
+  fly: 0
+  train: 0
+  drive: 2.8
+  boat: 33.5
+  walk: 1
