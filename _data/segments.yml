@@ -292,13 +292,6 @@
   to: 99.7352, 9.32147
   type: bus
 
-- route: Koh Tao - Koh Phangan
-  start_date: February 7, 2018
-  end_date: February 7, 2018
-  from: 99.824469, 10.072483
-  to: 99.9827, 9.711 
-  type: boat
-
 - route: Koh Phangan - Surat Thani
   start_date: February 10, 2018
   end_date: February 10, 2018
