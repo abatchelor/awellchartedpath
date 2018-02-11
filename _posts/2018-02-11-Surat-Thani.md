@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Surat Thani: A nice layover spot"
+title: "Surat Thani: A nice layover"
 date: 2018-02-11
 desc: "I stayed a night in Surat Thani both before and after visiting the islands off southern Thailand's east coast–and enjoyed it more than I expected."
 keywords: "Asia, Thailand, Surat Thani, Surathani, What to Do, RTW"
 categories: [Asia]
 tags: Thailand
 icon: icon-html
-image: blog/.jpg
+image: blog/SuratSunsetRiver.jpg
 author: Nate
 country: Thailand
 hidden: false
@@ -20,11 +20,9 @@ While Amy was at her 10-day _silent_ meditation and yoga retreat near Chaiya, I 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> What I Did in Surat Thani
 
-**First Stay:** Free ride from retreat, exhausted from overnight train, lunch at pork noodle place, chocolate iced drink, night market, sunset, dinner on the promenade, Grab car, depart
+**First Stay:** I arrived in Surat Thani after lucking into a free ride from a couple who had intended to join Amy's retreat but ended up not being able to and were heading back in the right direction. I don't know what I did to deserve that piece of great luck, but after a restless overnight train ride from Bangkok I was exhausted and grateful. After checking-in and dropping my things off, I headed straight out to explore the small downtown and try to find some lunch.
 
-I arrived in Surat Thani after lucking into a free ride from a couple who had intended to join Amy's retreat but ended up not being able to and were heading back in the right direction. I don't know what I did to deserve that piece of great luck, but after a restless overnight train ride from Bangkok I was exhausted and grateful. After checking-in and dropping my things off, I headed straight out to explore the small downtown and try to find some lunch.
-
-After wandering around for almost an hour I ended up at **ยกเข่ง** (Yk k̄hèng), a small shop/restaurant without any english signage that seemed to be serving a quite-popular pork and noodle soup. I settled in, pointed at a nearby bowl, and got a delicious lunch for only 1.5 USD. At close to 90 degrees and sunny, I was struggling a bit and also stopped at a **Cha Payom**, a stripped-down Thai tea/coffee chain and treated myself to a 0.75 USD iced milk chocolate that really hit the spot.
+After wandering around for almost an hour I ended up at **ยกเข่ง** (_Yk k̄hèng_), a small shop/restaurant without any english signage that seemed to be serving a quite-popular pork and noodle soup. I settled in, pointed at a nearby bowl, and got a delicious lunch for only 1.5 USD. At close to 90 degrees and sunny, I was struggling a bit and also stopped at a **Cha Payom**, a stripped-down Thai tea/coffee chain and treated myself to a 0.75 USD iced milk chocolate that really hit the spot.
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/SuratPorkNoodles.jpg" target="_blank"><img src="/static/assets/img/blog/SuratPorkNoodles.jpg" width="30%"></a> <a href="/static/assets/img/blog/SuratIcedCocoa.jpg" target="_blank"><img src="/static/assets/img/blog/SuratIcedCocoa.jpg" width="30%"></a></div><p></p>
 
@@ -34,9 +32,7 @@ After taking some time to relax, cool down, and get used to being alone for the 
 
 In the morning, I had to be at the Seatran Bus Terminal by 8:30am, so I had a quick hotel breakfast and used my first Grab Car (an Singapore-based alternative to Uber) to get there smoothly.
 
-**Second Stay:** Walk in from bus stop, supply up, dinner on the promenade, await Amy, head to bus station
-
-I arrived from Koh Phangan a little after 3pm, enjoyed the slightly-cooler weather on my milelong walk from the bus stop to my hotel, and then got right to re-living the things I liked about my first stay. I had another iced chocolate milk to cool off, and then for dinner headed back to the waterfront promenade and had another lovely, relaxing meal. Now I'm waiting for Amy to appear at the hotel so we can head off to Krabi and our _west_ coast of Thailand adventures.
+**Second Stay:** I arrived from Koh Phangan a little after 3pm, enjoyed the slightly-cooler weather on my milelong walk from the bus stop to my hotel, and then got right to re-living the things I liked about my first stay. I had another iced chocolate milk to cool off, and then for dinner headed back to the waterfront promenade and had another lovely, relaxing meal. Now I'm waiting for Amy to appear at the hotel so we can head off to Krabi and our _west_ coast of Thailand adventures.
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Where I Stayed
 
