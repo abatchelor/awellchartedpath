@@ -1134,3 +1134,10 @@
   drive: 0
   boat: 0
   walk: 3.4
+
+- day: February 10, 2018
+  fly: 0
+  train: 0
+  drive: 48.6
+  boat: 31
+  walk: 4.4
