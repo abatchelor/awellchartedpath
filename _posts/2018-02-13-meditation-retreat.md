@@ -10,7 +10,7 @@ icon: icon-html
 image: blog/RetreatTree.jpg
 author: Amy
 country: Thailand
-hidden: true
+hidden: false
 
 ---
 
@@ -20,9 +20,7 @@ You spend 10 days in a beautiful strip of nature that has been created out of wh
 
 _**Anapanasati**_
 
-_The retreat focuses on a specific method of meditation called anapanasati but it is basically meditating by focusing on your breath. There are no mantras or physical objects to use for meditation like some other methods. This suited me, as all the meditation I had done previously was based on the same general concepts._
-
-_You focus on noticing your breath, the length of it (short, long, or medium), following the path it takes in and out of your body, the feeling of it in your nose where it enters your body, and then eventually lessen the focus on the breath while focusing on an image in your mind. I never got to the step of creating a mental image but according to the monks that is not surprising and takes a lot more practice at clearing your mind to focus only on the present moment and your breathing._
+_The retreat focuses on a specific method of meditation called anapanasati, which is basically meditating by focusing on your breath. There are no mantras or physical objects to use for meditation like some other methods. This suited me, as all the meditation I had done previously was based on the same general concepts. You focus on noticing your breath, the length of it (short, long, or medium), following the path it takes in and out of your body, the feeling of it in your nose where it enters your body, and then eventually lessen the focus on the breath while focusing on an image in your mind. I never got to the step of creating a mental image but according to the monks that is not surprising and takes a lot more practice at clearing your mind to focus only on the present moment and your breathing._
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/GBDGroup.jpg" target="_blank"><img src="/static/assets/img/blog/GBDGroup.jpg" width="45%"></a> <a href="/static/assets/img/blog/GBDmap.jpg" target="_blank"><img src="/static/assets/img/blog/GBDmap.jpg" width="45%"></a></div><p></p>
 
@@ -36,8 +34,17 @@ At the retreat, they talked about taming your "monkey mind". My mind has a very 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> What I Took Away From It
 
+I went to the retreat hoping to clear my head and get rid of some of the attachment I have to the many distractions in life (most of which come from my phone/the internet) and have time and space to reconnect with my priorities. The retreat definitely met that criteria but it also made me extremely grateful for all the good things I have going in my life.
 
+It became particularly clear at the end of the retreat, when we had an open mic sharing session and people were permitted to break the silence, that I came to the retreat in a really good place in my life and that was not the case for many people there. 
 
+There was a surprising number of people at the retreat fresh from a break-up (including a couple that broke up but came to the retreat separately anyway), from having a large professional failure, from a fall-out with their parents, or struggling with anxiety or generally getting their life going in the right direction. Many of the people sharing had come to find salvation from their problems. I seriously doubt that all of those that felt they had turned over a new leaf will actually make all the changes they said they would. Change is hard and one retreat is not enough to revolutionize your life. One woman who shared even said as much as it was her second time at the retreat having failed to change her life at all after the last one. 
+ 
+Regardless, having time to think about all the people I love during love and kindness meditation or when my monkey mind was going through all the great things I still had to plan for this trip and for getting back to life in the US after it's over; made me deeply grateful and I hope I will maintain that perspective going forward. 
+ 
+The retreat also reaffirmed goals I already had and gave me a chance to practice them, like getting back to eating vegetarian or even vegan, letting go of things I cannot change, and being present so I don't miss out on wonderful moments because my head is off planning something else. 
+
+Granted, I wasn't supposed to be doing all that thinking but I'm glad I did. I also got to spend some long uninterrupted stretches in clear-headed meditation. Plus, if all the research on the effects of meditation is true then I definitely came away with a more active and thriving pre-frontal cortex too and who doesn't want that? 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> What We Did Each Day
 
@@ -116,4 +123,4 @@ The retreat costs 2000 Baht (about 62 USD) to cover food for 10 days and salarie
 
 Many people spent more at the store on candles for the lanterns that were provided (I just used a flashlight), toilet paper (I brought my own from the previous hotel we stayed at), and lots of bug spray (I bought a can in Bangkok that was stronger than what they were selling at the store). 
 
-It was a'ight, not sure I'd do it again soon.
+Overall, I'm really glad I went to the retreat. I'm pretty proud of myself for making it all the way to the end, even if that may not seem like such a significant accomplishment. I will definitely do another retreat like this, though probably not anytime soon, and in the future I probably will probably go for fewer days (a booster shot of sorts). If you've been thinking about doing something like this, I highly recommend it.
