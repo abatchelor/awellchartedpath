@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Silence: A 10-day retreat at Suan Mokkh"
-date: 2018-02-14
+date: 2018-02-15
 desc: "I spent 10 days at a silent meditation retreat at a Buddhist monastery near Chaiya, Thailand. We work up at 4am, meditated, learned about Buddhism, meditated, fasted, meditated, and meditated some more. It was wonderful and terrible but I'm glad I did it."
 keywords: "Asia, Thailand, Everything you need to know before attending a silent retreat, Suan Mokkh, meditation retreat"
 categories: [Asia]
@@ -22,7 +22,7 @@ _**Anapanasati**_
 
 _The retreat focuses on a specific method of meditation called anapanasati, which is basically meditating by focusing on your breath. There are no mantras or physical objects to use for meditation like some other methods. This suited me, as all the meditation I had done previously was based on the same general concepts. You focus on noticing your breath, the length of it (short, long, or medium), following the path it takes in and out of your body, the feeling of it in your nose where it enters your body, and then eventually lessen the focus on the breath while focusing on an image in your mind. I never got to the step of creating a mental image but according to the monks that is not surprising and takes a lot more practice at clearing your mind to focus only on the present moment and your breathing._
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RetreatTree.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatTree.jpg" width="45%"></a> <a href="/static/assets/img/blog/RetreatSunrise.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatSunrise.jpg" width="25.4%"></a><p><i></i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RetreatTree.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatTree.jpg" width="42.19%"></a> <a href="/static/assets/img/blog/RetreatSunrise.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatSunrise.jpg" width="25.4%"></a><p><i></i></p></div><p></p>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Why A Silent Retreat?
 
@@ -46,7 +46,7 @@ The retreat also reaffirmed goals I already had and gave me a chance to practice
 
 Granted, I wasn't supposed to be doing all that thinking but I'm glad I did. I also got to spend some long uninterrupted stretches in clear-headed meditation. Plus, if all the research on the effects of meditation is true then I definitely came away with a more active and thriving pre-frontal cortex too and who doesn't want that? 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RetreatHall1pg" target="_blank"><img src="/static/assets/img/blog/RetreatHall1jpg" width="45%"></a> <a href="/static/assets/img/blog/RetreatYoga.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatYoga.jpg" width="45%"></a><p><i>Left: The main meditation hall where we did group sitting meditation. Right: The hall where we would do morning yoga and watch the sunrise over the small ponds.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RetreatHall1.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatHall1.jpg" width="45%"></a> <a href="/static/assets/img/blog/RetreatMedHall.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatMedHall.jpg" width="45%"></a><p><i>Left: The main meditation hall where we did group sitting meditation. Right: The hall where we would do morning yoga and watch the sunrise over the small ponds.</i></p></div><p></p>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> What We Did Each Day
 
@@ -62,7 +62,7 @@ I got lucky and was able to sign up for the very last chore that was _not_ clean
 
 My chore was to mop what became my favorite meditation hall, a little wooden one floating in a small pond tucked behind my dorm, each morning. While it was a chore, I found it really peaceful with the repetitive motion and the quiet of the meditation hall except for an occasional splash from one of the fish in the pond around it. 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RetreatMed4.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatMed4.jpg" width="35%"></a> <a href="/static/assets/img/blog/RetreatDorm.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatDorm.jpg" width="35%"></a><p><i>Left: My favorite meditation all. Right: The outside of Dorm 3./i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RetreatHall4.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatHall4.jpg" width="45%"></a> <a href="/static/assets/img/blog/RetreatDorm.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatDorm.jpg" width="25.4%"></a><p><i>Left: My favorite meditation all. Right: The outside of Dorm 3.</i></p></div><p></p>
 
 **Day 9** The 9th day of the retreat was very different than the other days. For one day, we actually lived like the monks do every day. This included eating only one meal in the morning (though there was tea/hot chocolate at lunch and dinner time) and spending the entire day in silent meditation. There were a few group meditations but we were largely left to our own devices to sit, stand, or walk to meditate wherever we pleased. 
 
@@ -96,7 +96,7 @@ I found the talks by the monks that spoke to us in person to be interesting and 
 
 The few times I seriously considered leaving early it was spurred by being really lonely and missing him, never the fasting, bed, or cold bucket showers.  
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RetreatFlower.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatFlowerjpg" width="30%"></a><p><i></i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RetreatFlower.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatFlower.jpg" width="45%"></a><p><i></i></p></div><p></p>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Tips For Anyone Considering Attending
 
@@ -127,7 +127,7 @@ As soon as you get off the songthaew, there will most likely be someone there as
 - From the start, believe you will stay the full 10 days. You are going to want to leave. If you have already prepared yourself to do so, you'll be more likely to. It's worth making it to the end. 
 - There are multiple dorms that are used when there are large numbers of participants. In less popular months you probably won't get a choice and will be staying in Dorm 1 but if you have the option between Dorm 1 and Dorm 3, I'd recommend Dorm 3 on the second floor. I stayed in Dorm 3, though on the first floor. Dorm 3 is much smalled than Dorm 1, so the shower space is less crowded, it's closer to the ponds, and has a lovely meditation hall behind it. Staying on the second floor, you'll get more of a breeze, which the wall around the dorm blocks from the lower rooms and you won't have to worry as much about insects crawling in. 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RetreatShoes.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatShoes.jpg" width="25.4%"></a> <a href="/static/assets/img/blog/RetreatPineapple.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatPineapple.jpg" width="45%"></a><p><i></i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/RetreatShoes.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatShoes.jpg" width="30%"></a> <a href="/static/assets/img/blog/RetreatPineapple.jpg" target="_blank"><img src="/static/assets/img/blog/RetreatPineapple.jpg" width="30%"></a><p><i></i></p></div><p></p>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Budget
 
