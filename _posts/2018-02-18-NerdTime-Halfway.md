@@ -47,8 +47,8 @@ The least glamorous part of travel so far has definitely been getting sick thoug
 Now that I've added a little extra color, back to the data... 
 
 <div style="text-align: center;"><video controls autoplay loop>
-  <source src="/static/assets/img/blog/premierMovieSilent.m4v" type="video/mp4">
-  <a href="/static/assets/img/blog/premierTrainBend.jpg" target="_blank"><img src="/static/assets/img/blog/premierTrainBend.jpg" style="max-width: calc(100% - 20px);"></a>
+  <source src="/static/assets/img/blog/NerdFeet.m4v" type="video/mp4">
+  <a href="/static/assets/img/blog/NerdFeet.jpg" target="_blank"><img src="/static/assets/img/blog/NerdFeet.jpg" style="max-width: calc(100% - 20px);"></a>
 </video>
 <p><i>Just one of our many walks.</i></p>
 </div>
