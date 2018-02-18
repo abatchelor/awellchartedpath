@@ -1183,3 +1183,10 @@
   drive: 15.7
   boat: 0
   walk: 6
+
+- day: February 17, 2018
+  fly: 0
+  train: 0
+  drive: 27
+  boat: 0
+  walk: 6

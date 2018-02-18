@@ -306,20 +306,6 @@
   to: 98.905839, 8.099822
   type: bus
 
-- route: Krabi - Koh Pu
-  start_date: February 12, 2018
-  end_date: February 12, 2018
-  from: 98.9182, 8.0641
-  to: 98.941, 7.8384
-  type: boat
-
-- route: Koh Pu - Koh Lanta
-  start_date: February 15, 2018
-  end_date: February 15, 2018
-  from: 98.941, 7.8384
-  to: 99.041, 7.6485
-  type: boat
-
 - route: Koh Lanta - Koh Adang
   start_date: February 19, 2018
   end_date: February 19, 2018
