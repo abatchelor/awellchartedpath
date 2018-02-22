@@ -1211,3 +1211,17 @@
   drive: 0
   boat: 3
   walk: 5.2
+
+- day: February 21, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 2.5
+  walk: 4
+
+- day: February 22, 2018
+  fly: 0
+  train: 0
+  drive: 14
+  boat: 44
+  walk: 5.5

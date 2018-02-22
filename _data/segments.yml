@@ -320,19 +320,12 @@
   to: 99.85, 6.305
   type: boat
 
-- route: Langkawi - Alor Setar
+- route: Langkawi - Kuala Lumpur
   start_date: February 25, 2018
   end_date: February 25, 2018
-  from: 99.85, 6.305
-  to: 100.291, 6.1076
-  type: boat
-
-- route: Alor Setar - Kuala Lumpur
-  start_date: February 25, 2018
-  end_date: February 25, 2018
-  from: 100.369, 6.1128
-  to: 101.698,2.746
-  type: train
+  from: 99.733,6.34
+  to: 101.551,3.13
+  type: flight
 
 - route: Kuala Lumpur - Luang Prabang
   start_date: February 26, 2018
