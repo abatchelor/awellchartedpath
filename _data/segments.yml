@@ -306,20 +306,6 @@
   to: 98.905839, 8.099822
   type: bus
 
-- route: Koh Lanta - Koh Adang
-  start_date: February 19, 2018
-  end_date: February 19, 2018
-  from: 99.041, 7.6485
-  to: 99.302, 6.509
-  type: boat
-
-- route: Koh Adang - Langkawi
-  start_date: February 22, 2018
-  end_date: February 22, 2018
-  from: 99.302, 6.509
-  to: 99.85, 6.305
-  type: boat
-
 - route: Langkawi - Kuala Lumpur
   start_date: February 25, 2018
   end_date: February 25, 2018
