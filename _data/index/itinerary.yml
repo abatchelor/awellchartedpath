@@ -179,6 +179,7 @@
 - country: Japan
   city: 
     - Tokyo
+    - Osaka
     - Hiroshima
     - Kyoto
   start_date: March 29, 2018
@@ -200,6 +201,8 @@
 - country: Jordan
   city: 
     - Amman
+    - Petra
+    - Wadi Rum
   start_date: April 22, 2018
   end_date: April 28, 2018
   center: 37.094,31.280
@@ -210,15 +213,6 @@
   city: 
     - Barcelona
   start_date: April 29, 2018
-  end_date: May 4, 2018
-  center: 10.230,41.461
-  zoom: 4.5
-  icon: fa-suitcase
-
-- country: France
-  city: 
-    - Marseille
-  start_date: May 5, 2018
   end_date: May 7, 2018
   center: 10.230,41.461
   zoom: 4.5
@@ -226,23 +220,21 @@
 
 - country: Italy
   city: 
-    - Porto Torres
-    - Cagliari
-    - Palermo
+    - Santa Maria Navarrese
     - Naples
     - Rome
+    - Lerici
     - Florence
-    - Pisa
     - Venice
   start_date: May 8, 2018
   end_date: June 2, 2018
-  center: 13.244,41.496
+  center: 13.244,41.996
   zoom: 4.9
   icon: fa-suitcase
 
 - country: Switzerland
   city: 
-    - Geneva
+    - Basel
   start_date: June 3, 2018
   end_date: June 5, 2018
   center: 7.647,48.597
@@ -252,9 +244,8 @@
 - country: Austria
   city: 
     - Salzburg
-    - Vienna
   start_date: June 6, 2018
-  end_date: June 13, 2018
+  end_date: June 9, 2018
   center: 7.647,48.597
   zoom: 4.4
   icon: fa-suitcase
@@ -262,8 +253,8 @@
 - country: Hungary
   city: 
     - Budapest
-  start_date: June 14, 2018
-  end_date: June 18, 2018
+  start_date: June 10, 2018
+  end_date: June 14, 2018
   center: 18.421,47.862
   zoom: 4.4
   icon: fa-suitcase
@@ -279,56 +270,27 @@
   
 - country: Germany
   city: 
-    - Berlin
+    - Hamburg
   start_date: June 25, 2018
-  end_date: June 28, 2018
-  center: 7.647,48.597
+  end_date: June 27, 2018
+  center: 7.647,50.597
   zoom: 4.4
   icon: fa-suitcase
   
 - country: Denmark
   city: 
     - Copenhagen
-  start_date: June 29, 2018
+  start_date: June 28, 2018
   end_date: July 5, 2018
   center: 11.234,55.559
   zoom: 4.7
   icon: fa-suitcase
 
-- country: Netherlands
-  city: 
-    - Amsterdam
-  start_date: July 6, 2018
-  end_date: July 11, 2018
-  center: 7.208,52.540
-  zoom: 4.7
-  icon: fa-suitcase
-  
-- country: Belgium
-  city: 
-    - Brussels
-  start_date: July 12, 2018
-  end_date: July 15, 2018
-  center: 7.208,52.540
-  zoom: 4.4
-  icon: fa-suitcase
-  
-- country: France
-  city: 
-    - Paris
-    - Cherbourg
-  start_date: July 16, 2018
-  end_date: July 23, 2018
-  center: 0.952,49.063
-  zoom: 5.0
-  icon: fa-suitcase
-  
 - country: Ireland
   city: 
-    - Rosslare
     - Dublin
-  start_date: July 24, 2018
-  end_date: July 29, 2018
+  start_date: July 6, 2018
+  end_date: July 12, 2018
   center: -3.029,51.890
   zoom: 4.5
   icon: fa-suitcase
@@ -336,12 +298,30 @@
 - country: United Kingdom
   city: 
     - London
-  start_date: July 30, 2018
-  end_date: August 4, 2018
+  start_date: July 13, 2018
+  end_date: July 19, 2018
   center: -3.029,51.890
   zoom: 5.0
   icon: fa-suitcase
   
+- country: Netherlands
+  city: 
+    - Amsterdam
+  start_date: July 20, 2018
+  end_date: July 25, 2018
+  center: 2.638, 51.126
+  zoom: 4.7
+  icon: fa-suitcase
+  
+- country: France
+  city: 
+    - Paris
+  start_date: July 26, 2018
+  end_date: August 4, 2018
+  center: 0.952,49.063
+  zoom: 5.0
+  icon: fa-suitcase
+
 - country: Mauritius
   city: 
     - Port Louis

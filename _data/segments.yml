@@ -382,6 +382,27 @@
   from: 77.094,28.557
   to: 140.388,35.768
   type: rtw
+  
+- route: Tokyo - Osaka
+  start_date: March 29, 2018
+  end_date: March 29, 2018
+  from: 139.767,35.681
+  to: 135.494,34.7015
+  type: train
+  
+- route: Osaka - Hiroshima
+  start_date: April 4, 2018
+  end_date: April 4, 2018
+  from: 135.494,34.7015
+  to: 132.4757,34.3974
+  type: train
+  
+- route: Hiroshima - Tokyo
+  start_date: April 5, 2018
+  end_date: April 5, 2018
+  from: 132.4757,34.3974
+  to: 139.767,35.681
+  type: train
 
 - route: Tokyo - Beijing
   start_date: April 11, 2018
@@ -398,207 +419,214 @@
   type: rtw
 
 - route: Hong Kong - Amman
-  start_date: April 21, 2018
-  end_date: April 22, 2018
+  start_date: April 19, 2018
+  end_date: April 20, 2018
   from: 113.915,22.308
   to: 35.995,31.723
   type: rtw
 
 - route: Amman - Barcelona
-  start_date: April 30, 2018
-  end_date: April 30, 2018
+  start_date: April 29, 2018
+  end_date: April 29, 2018
   from: 35.995,31.723
   to: 2.079,41.295
   type: rtw
 
-- route: Barcelona - Marseille
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: 2.186,41.384
-  to: 5.380,43.303
-  type: train
-
-- route: Marseille - Porto Torres
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: 5.362727, 43.305344
+- route: Barcelona - Porto Torres
+  start_date: May 7, 2018
+  end_date: May 8, 2018
+  from: 2.179,41.371
   to: 8.377,40.841
   type: boat
 
-- route: Porto Torres - Cagliari
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: 8.398,40.838
-  to: 9.102,39.218
-  type: train
+- route: Porto Torres - Santa Maria Navarrese
+  start_date: May 8, 2018
+  end_date: May 8, 2018
+  from: 8.377,40.841
+  to: 9.689,39.991
+  type: bus
 
-- route: Cagliari - Palermo
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+- route: Santa Maria Navarrese - Cagliari
+  start_date: May 14, 2018
+  end_date: May 14, 2018
+  from: 9.689,39.991
+  to: 9.112,39.211
+  type: bus
+
+- route: Cagliari - Naples
+  start_date: May 14, 2018
+  end_date: May 15, 2018
   from: 9.112,39.211
-  to: 13.372,38.132
+  to: 14.262,40.84
   type: boat
 
-- route: Palermo - Naples
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: 13.357,38.136
-  to: 14.274,40.853
-  type: train
-
 - route: Naples - Pompeii
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+  start_date: May 17, 2018
+  end_date: May 17, 2018
   from: 14.274,40.853
   to: 14.502,40.751
   type: train
 
 - route: Naples - Rome
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+  start_date: May 19, 2018
+  end_date: May 19, 2018
   from: 14.274,40.853
   to: 12.502,41.901
   type: train
 
-- route: Rome - Florence
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+- route: Rome - La Spezia
+  start_date: May 24, 2018
+  end_date: May 24, 2018
   from: 12.502,41.901
-  to: 11.247,43.777
+  to: 9.813,44.112
   type: train
 
-- route: Florence - Pisa
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: 11.247,43.777
+- route: La Spezia - Lerici
+  start_date: May 24, 2018
+  end_date: May 24, 2018
+  from: 9.813,44.112
+  to: 9.910,44.074
+  type: bus
+
+- route: Lerici - Sarzana
+  start_date: May 26, 2018
+  end_date: May 26, 2018
+  from: 9.910,44.074
+  to: 9.960,44.109
+  type: bus
+
+- route: Lerici - Pisa
+  start_date: May 26, 2018
+  end_date: May 26, 2018
+  from: 9.960,44.109
   to: 10.399,43.708
   type: train
 
-- route: Pisa - Venice
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+- route: Pisa - Florence
+  start_date: May 26, 2018
+  end_date: May 26, 2018
   from: 10.399,43.708
+  to: 11.247,43.777
+  type: train
+
+- route: Florence - Venice
+  start_date: May 30, 2018
+  end_date: May 30, 2018
+  from: 11.247,43.777
   to: 12.321,45.441
   type: train
 
 - route: Venice - Milan
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+  start_date: June 3, 2018
+  end_date: June 3, 2018
   from: 12.321,45.441
   to: 9.175,45.469
   type: train
 
-- route: Milan - Geneva
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+- route: Milan - Tirano
+  start_date: June 3, 2018
+  end_date: June 3, 2018
   from: 9.175,45.469
-  to: 6.142,46.210
+  to: 10.167,46.215
   type: train
 
-- route: Geneva - Munich
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: 6.142,46.210
-  to: 11.555,48.141
+- route: Tirano - Chur
+  start_date: June 3, 2018
+  end_date: June 3, 2018
+  from: 10.166,46.216
+  to: 9.529,46.854
   type: train
 
-- route: Munich - Salzburg
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: 11.555,48.141
+- route: Chur - Basel
+  start_date: June 3, 2018
+  end_date: June 3, 2018
+  from: 9.529,46.854
+  to: 7.589, 47.547
+  type: train
+
+- route: Basel - Salzburg
+  start_date: June 6, 2018
+  end_date: June 6, 2018
+  from: 7.589, 47.547
   to: 13.046,47.813
   type: train
 
 - route: Salzburg - Vienna
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+  start_date: June 10, 2018
+  end_date: June 10, 2018
   from: 13.046,47.813
   to: 16.386,48.207
   type: train
 
 - route: Vienna - Budapest
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+  start_date: June 10, 2018
+  end_date: June 10, 2018
   from: 16.386,48.207
   to: 19.025,47.499
   type: train
 
 - route: Budapest - Prague
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+  start_date: June 14, 2018
+  end_date: June 18, 2018
   from: 19.025,47.499
   to: 14.436,50.083
-  type: train
+  type: other
 
-- route: Prague - Berlin
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+- route: Prague - Hamburg
+  start_date: June 25, 2018
+  end_date: June 25, 2018
   from: 14.436,50.083
-  to: 13.374,52.499
+  to: 9.935,53.553
   type: train
 
-- route: Berlin - Copenhagen
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: 13.374,52.499
+- route: Hamburg - Copenhagen
+  start_date: June 28, 2018
+  end_date: June 28, 2018
+  from: 9.935,53.553
   to: 12.564,55.673
   type: train
 
-- route: Copenhagen - Amsterdam
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+- route: Copenhagen - Dublin
+  start_date: July 6, 2018
+  end_date: July 6, 2018
   from: 12.653,55.619
-  to: 4.758,52.306
+  to: -6.251,53.422
   type: flight
 
-- route: Amsterdam - Brussels
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: 4.900,52.379
-  to: 4.335,50.835
+- route: Dublin - Port for London
+  start_date: July 13, 2018
+  end_date: July 13, 2018
+  from: -6.196, 53.345
+  to: -4.628, 53.31
+  type: boat
+
+- route: Port for London - London
+  start_date: July 13, 2018
+  end_date: July 13, 2018
+  from: -4.628, 53.31
+  to: -0.133737, 51.528245
   type: train
 
-- route: Brussels - Paris
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: 4.335,50.835
+- route: London - Amsterdam
+  start_date: July 20, 2018
+  end_date: July 20, 2018
+  from: -0.133737, 51.528245
+  to: 4.900,52.379
+  type: train
+
+- route: Amsterdam - Paris
+  start_date: July 26, 2018
+  end_date: July 26, 2018
+  from: 4.900,52.379
   to: 2.375,48.844
   type: train
 
-- route: Paris - Caen
-  start_date: May 5, 2018
-  end_date: May 5, 2018
+- route: Paris - London
+  start_date: August 4, 2018
+  end_date: August 4, 2018
   from: 2.375,48.844
-  to: -0.343,49.179
-  type: train
-
-- route: Caen - Cherbourg
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: -0.343,49.179
-  to: -1.613,49.649
-  type: other
-
-- route: Cherbourg - Rosslare
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: -1.613,49.649
-  to: -6.336,52.255
-  type: boat
-
-- route: Rosslare - Dublin
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: -6.336,52.251
-  to: -6.254351, 53.347144
-  type: train
-
-- route: Dublin - London
-  start_date: May 5, 2018
-  end_date: May 5, 2018
-  from: -6.196255, 53.345029
   to: -0.133737, 51.528245
-  type: boat
+  type: train
 
 - route: London - Mauritius
   start_date: August 4, 2018
@@ -614,9 +642,9 @@
   to: -119.771,39.502
   type: flight
 
-- route: Reno - Inlet
+- route: Reno - Tampa
   start_date: August 17, 2018
   end_date: August 17, 2018
   from: -119.771,39.502
-  to: -74.853011, 43.753179
+  to: -82.540,27.978
   type: flight
