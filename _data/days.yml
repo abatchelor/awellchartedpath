@@ -1232,3 +1232,17 @@
   drive: 0
   boat: 0
   walk: 5
+
+- day: February 24, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 7.3
+
+- day: February 25, 2018
+  fly: 260
+  train: 0
+  drive: 19
+  boat: 0
+  walk: 4
