@@ -1246,3 +1246,10 @@
   drive: 19
   boat: 0
   walk: 4
+
+- day: February 26, 2018
+  fly: 1200
+  train: 36
+  drive: 4
+  boat: 0
+  walk: 4.6
