@@ -306,6 +306,7 @@
   
 - country: Netherlands
   city: 
+    - Rotterdam
     - Amsterdam
   start_date: July 20, 2018
   end_date: July 25, 2018
