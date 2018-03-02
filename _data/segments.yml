@@ -607,17 +607,24 @@
   to: -0.133737, 51.528245
   type: train
 
-- route: London - Amsterdam
+- route: London - Rotterdam
   start_date: July 20, 2018
   end_date: July 20, 2018
   from: -0.133737, 51.528245
+  to: 4.4677, 51.925
+  type: train
+  
+- route: Rotterdam - Amsterdam
+  start_date: July 23, 2018
+  end_date: July 23, 2018
+  from: 4.481, 51.942
   to: 4.900,52.379
   type: train
 
-- route: Amsterdam - Paris
+- route: Rotterdam - Paris
   start_date: July 26, 2018
   end_date: July 26, 2018
-  from: 4.900,52.379
+  from: 4.4677, 51.925
   to: 2.375,48.844
   type: train
 
