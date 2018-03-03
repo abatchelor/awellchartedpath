@@ -572,17 +572,17 @@
   to: 14.436,50.083
   type: other
 
-- route: Prague - Hamburg
+- route: Prague - Berlin
   start_date: June 25, 2018
   end_date: June 25, 2018
   from: 14.436,50.083
-  to: 9.935,53.553
+  to: 13.368,52.525
   type: train
 
-- route: Hamburg - Copenhagen
+- route: Berlin - Copenhagen
   start_date: June 28, 2018
   end_date: June 28, 2018
-  from: 9.935,53.553
+  from: 13.368,52.525
   to: 12.564,55.673
   type: train
 
