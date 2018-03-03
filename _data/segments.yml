@@ -432,23 +432,16 @@
   to: 2.079,41.295
   type: rtw
 
-- route: Barcelona - Porto Torres
+- route: Barcelona - Cagliari
   start_date: May 7, 2018
-  end_date: May 8, 2018
-  from: 2.179,41.371
-  to: 8.377,40.841
-  type: boat
+  end_date: May 7, 2018
+  from: 2.079,41.295
+  to: 9.054,39.252
+  type: flight
 
-- route: Porto Torres - Santa Maria Navarrese
-  start_date: May 8, 2018
-  end_date: May 8, 2018
-  from: 8.377,40.841
-  to: 9.689,39.991
-  type: bus
-
-- route: Santa Maria Navarrese - Cagliari
-  start_date: May 14, 2018
-  end_date: May 14, 2018
+- route: Cagliari - Santa Maria Navarrese 
+  start_date: May 7, 2018
+  end_date: May 7, 2018
   from: 9.689,39.991
   to: 9.112,39.211
   type: bus
