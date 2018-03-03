@@ -1275,3 +1275,10 @@
   boat: 0
   walk: 5.4
   bike: 9
+
+- day: March 2, 2018
+  fly: 0
+  train: 0
+  drive: 36
+  boat: 0
+  walk: 4
