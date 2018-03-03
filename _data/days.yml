@@ -1282,3 +1282,10 @@
   drive: 36
   boat: 0
   walk: 4
+
+- day: March 3, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 6.35
