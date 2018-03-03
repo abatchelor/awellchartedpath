@@ -213,7 +213,7 @@
   city: 
     - Barcelona
   start_date: April 29, 2018
-  end_date: May 7, 2018
+  end_date: May 6, 2018
   center: 10.230,41.461
   zoom: 4.5
   icon: fa-suitcase
@@ -226,7 +226,7 @@
     - Lerici
     - Florence
     - Venice
-  start_date: May 8, 2018
+  start_date: May 7, 2018
   end_date: June 2, 2018
   center: 13.244,41.996
   zoom: 4.9
