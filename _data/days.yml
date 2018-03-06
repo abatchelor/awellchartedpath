@@ -1296,3 +1296,10 @@
   drive: 4
   boat: 0
   walk: 4.3
+
+- day: March 5, 2018
+  fly: 2524
+  train: 42
+  drive: 12
+  boat: 0
+  walk: 6.5
