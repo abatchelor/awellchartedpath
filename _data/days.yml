@@ -1317,3 +1317,10 @@
   drive: 2.5
   boat: 0
   walk: 0.67
+
+- day: March 8, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 4
