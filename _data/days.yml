@@ -1324,3 +1324,17 @@
   drive: 0
   boat: 0
   walk: 4
+
+- day: March 9, 2018
+  fly: 0
+  train: 150
+  drive: 13
+  boat: 2
+  walk: 3.3
+
+- day: March 10, 2018
+  fly: 0
+  train: 229
+  drive: 20
+  boat: 0
+  walk: 3.3
