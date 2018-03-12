@@ -51,9 +51,13 @@ As we [found in Vietnam](LINK), cultural differences really come out when sharin
 
 While we left right on time, the train stopped pretty frequently overnight and by the time we woke up (10 minutes before an on-time arrival would have been) we were three and a half hours delayed. Unfortunately no one ever came through to sell breakfast, so we waited hungrily until we arrived at Agra Fort station at XX:XX and hopped in a car to our hotel.
 
-### Agra to Jaipur on the 
+### Agra to Jaipur on the Allahabad Jaipur Express
 
+Our shortest train journey in India, the hop from Agra to Jaipur is scheduled at a mere 5.5 hours. Since that's not enough time for a real rest, we booked a morning ticket so we could get on our way and arrive to Jaipur right around check-in time for our next hotel.
 
+We were again in AC2, choosing not to pay the premium for AC1 since we weren't planning on sleeping anyway, but ended up getting lucky: our berths were all alone in their cabin, as the other half of it had been used as a storage closet by the railway. We departed from Agra Cantt station, which was the quietest station we've experienced in India. We left only XX minutes late, enjoyed a take-away breakfast from our hotel onboard, and arrived to Jaipur a mere XX minutes late.
+
+If every train ride in India were like this, we'd be pretty happy!
 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Eating
