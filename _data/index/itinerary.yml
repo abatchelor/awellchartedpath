@@ -164,11 +164,11 @@
 
 - country: India
   city: 
-    - New Delhi
     - Varanasi
     - Agra
     - Jaipur
     - Jaisalmer
+    - New Delhi
     - Shimla
   start_date: March 5, 2018
   end_date: March 28, 2018
