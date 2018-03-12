@@ -1345,3 +1345,10 @@
   drive: 62
   boat: 0
   walk: 8
+
+- day: March 12, 2018
+  fly: 0
+  train: 204
+  drive: 7
+  boat: 0
+  walk: 2.1
