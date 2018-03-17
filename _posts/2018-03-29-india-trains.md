@@ -74,9 +74,14 @@ If every train ride in India were like this, we'd be pretty happy!
 
 ### Jaipur to Jaisalmer on the Malani Express
 
+Our experience (luck?) on trains continued to approve with our next overnight train. We were scheduled to depart from Jaipur at 11:45pm and arrive to Jaisalmer at 11:45am... and did exactly that! We were once again in AC1, and again were lucky enough to get a `coupe` cabin, private to just the two of us. To add to the positives, Jaipur train station was by far the nicest one we had encountered so far, including a spotless and mostly-empty free lounge for upper class passengers, which we took advantage of for about 90 minutes of waiting at the station.
 
+This was the first train where the onboard ticket checker asked for our passports to verify we were the holders of the ticket, but then said nevermind when we started to dig through our bags to get them out. We also slept through breakfast ordering once again, but had prepared by ordering some good take-out breakfast food from our hotel before heading to the train station.
+
+AC1, which was about 35 USD per person instead of the 20 USD per person that AC2 would have been, felt completely worth it on this journey. There was a lot of activity on the train when we reached Jodhpur around 5:00am, and in any other class we would have been awoken by the chaos for a good 45 minutes. In our cabin we slept through all of it except the stop/start jolts.
 
 ### Jaisalmer to Delhi on the Malani Express
+
 
 
 
