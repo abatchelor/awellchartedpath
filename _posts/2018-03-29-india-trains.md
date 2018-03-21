@@ -82,7 +82,15 @@ AC1, which was about 35 USD per person instead of the 20 USD per person that AC2
 
 ### Jaisalmer to Delhi on the Malani Express
 
+Alas, our luck with getting private cabins finally ran out–and on our longest scheduled journey in India, no less. 
 
+We got dropped off at Jaisalmer Station about 30 minutes before our train was scheduled to leave, and it was already at the platform and ready-to-board. We got some snacks and water from the station vendors and then found our cabin–we had two top bunks in an AC1 4-bed cabin. After some confusion from another passenger who thought he was also in our cabin (he was supposed to be in the AC2 area of the same coach–they duplicate bed numbers...) we met our cabin-mates: an elderly woman and her middle-age daughter, traveling for free because of their grandson/son's position in the military. They didn't speak English, but for the most part were quiet, considerate cabinmates. 
+
+Shortly after departing (on-time!) we bought `veg cutlets` from the on-train vendor, who swore there was no pantry car on the train this time, so dinner wouldn't be served (it later was). They held us over well, and at 0.75 USD per serving, we can't really complain.
+
+Since we didn't have the cabin to ourselves, we spent most of our waking hours in our top bunks reading on our Kindles. Luckily, we had stocked them up beforehand, as we each finished an entire book on the train and started a second.
+
+After almost 18 hours en route, our train reached Delhi Cantt station only 10 minutes late, where we hopped off and hailed an Uber to take us to our South Delhi hotel. We were booked to go all the way to Delhi Junction in northern Old Delhi, but realized it would mean an extra 40 minutes on the train, and then a longer drive/metro once we arrived, so disembarked a bit early.
 
 
 ### New Delhi to Shimla on the Kalka Shatabdi Express and the Himalayan Queen
@@ -112,6 +120,10 @@ When we boarded we found two sheets and two pillows on our side of the cabin, an
 The biggest barrier to quality sleep was the jerking, stopping, and starting of the train. We had been warned ahead of time about how bumpy the tracks would be, and they were, but most difficult to sleep through was the sudden braking and acceleration randomly throughout the night. It was definitely still worth it to pay a bit extra for a bed instead of a seat, and both of us did get some sleep onboard.
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Getting Scammed
+
+- food prices on train 1
+- being told dinner wouldn't exist on train from JSM
+
 
 One of the experiences we enjoyed most about our time in Myanmar was how hospitable and honest almost everyone we interacted with was. Street vendors we couldn't communicate with would charge a fair price and make correct change; touts were few and far between; and we didn't feel like we constantly had to be on guard. Unfortunately that streak came to an end on our train trip when despite our best efforts at clarifying prices the bill delivered by our "train manager" for food consumed onboard was a whopping 34,000 kyat (25 USD) when our average cost per meal elsewhere was 3,000 kyat (~2 USD). The Myanmar nationals, who had slightly different dishes but about the same amount of food, were charged less than 10,000 kyat total. When he came to collect payment we disputed a couple of the more inflated prices and ended up paying 30,000 kyat (22 USD) before disembarking in Yangon. 
 
