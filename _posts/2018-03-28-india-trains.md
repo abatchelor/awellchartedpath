@@ -14,7 +14,7 @@ hidden: false
 
 ---
 
-Before arriving in India, we had already taken long-distance trains in South Africa, Myanmar, Vietnam, and Thailand, and shorter trains in many other countries covering a total of 3,347 miles. During our 24 days in India, we took nine long-distance train rides, including five overnight journeys, and covered a total of 2,502 miles. Those 2,502 miles took XX hours and XX minutes to complete (though they were scheduled for only 80 hours and 30 minutes!).
+Before arriving in India, we had already taken long-distance trains in South Africa, Myanmar, Vietnam, and Thailand, and shorter trains in many other countries covering a total of 3,347 miles. During our 24 days in India, we took nine long-distance train rides, including five overnight journeys, and covered a total of 2,494 miles. Those 2,494 miles took XX hours and XX minutes to complete (though they were scheduled for only 79 hours and 41 minutes!).
 
 **OVERALL FEELINGS ABOUT IT**
 
@@ -36,13 +36,13 @@ If we had it to do again we might have tried to fly from New Delhi to Varanasi, 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Getting Tickets
 
-Similar to [our experiences in Bagan](LINK) and [at Macchu Picchu](LINK), we wanted to book everything ourselves rather than go through a travel agent. Luckily we had planned far enough ahead of time (~3 months) that "general quota" tickets in the top classes of the trains we wanted were still available. We painstakingly followed directions from Seat61 and others found on Google, successfully got our U.S. phone number verified by the IRCTC system, but still failed because their payment portal wouldn't accept any international credit cards (despite saying it does).
+Similar to [our experiences in Bagan](http://site.awellchartedpath.com/blog/2018/01/Bagan/) and [at Macchu Picchu](http://site.awellchartedpath.com/blog/2017/12/machu-picchu/), we wanted to book everything ourselves rather than go through a travel agent. Luckily we had planned far enough ahead of time (~3 months) that "general quota" tickets in the top classes of the trains we wanted were still available. We painstakingly followed directions from Seat61 and others found on Google, successfully got our U.S. phone number verified by the IRCTC system, but still failed because their payment portal wouldn't accept any international credit cards (despite saying it does).
 
 After a little more research I got in touch with [Raj at Train Ticket Please](https://www.facebook.com/trainticketplease/), who was glowingly reviewed by several other travelers online. After surprisingly little back-and-forth he reserved all of our trains for us without any problems. While we had to pay 3 USD extra per ticket than if we had been able to book on our own, he also helped us throughout our time in India by projecting delays, sending us seat numbers, and generally being a really responsive resource. If you're putting together an itinerary anywhere in India, I highly recommend Raj (best contacted by the email listed at the link above).
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Our Journeys
 
-### Delhi to Varanasi on the Swatantrta Senani Express
+### 🚂  Delhi to Varanasi on the Swatantrta Senani Express
 
 After spending most of the afternoon wandering around New Delhi, we took a break in the air conditioning of our hotel lobby and then decided it was time to get to the train station when a wedding party arrived. We ended up arriving at New Delhi Train Station (NDLS) at 6:30pm, ahead of our 8:40pm scheduled departure. After arriving to the very modern and fully-featured Delhi Airport, we were surprised to find that the main train station in New Delhi was more or less barren. After months of easy access to 7-11s and cheap noodles throughout Southeast Asia, it was a bit of a shock to not find any convenience stores.
 
@@ -52,7 +52,7 @@ Not long after, our train pulled in, we found coach HA-1, and got the _very_ nic
 
 Our AC1 cabin (the highest on Indian trains) was comfortable enough, with clean bed linens provided. We enjoyed both breakfast and lunch served by a train attendant, and which didn't get us sick. He managed to overcharge us for breakfast since we were starving and not paying close enough attention, but I had my revenge when he came to collect our lunch payment and only got the remainder he deserved for the two meals overall. If you're getting food onboard and Indian train, I'd recommend you ask to see the menu card they're all supposed to carry, since it lists prices (even though many items may not be available on your specific train).
 
-### Varanasi to Agra on the Marudhar Express
+### 🚂  Varanasi to Agra on the Marudhar Express
 
 After the delays of our first journey, we made sure to schedule activities for the afternoon before departure so we at least wouldn't waste that time. We got back to our hotel with just enough time to eat, get some food packed to have as dinner on the train, and get a rickshaw to the train station. 
 
@@ -64,7 +64,7 @@ As we [found in Vietnam](http://site.awellchartedpath.com/blog/2018/01/HoiAn/), 
 
 While we left right on time, the train stopped pretty frequently overnight and by the time we woke up (10 minutes before an on-time arrival would have been) we were three and a half hours delayed. Unfortunately no one ever came through to sell breakfast, so we waited hungrily until we arrived at Agra Fort station at 10:30am and hopped in a car to our hotel.
 
-### Agra to Jaipur on the Allahabad Jaipur Express
+### 🚂  Agra to Jaipur on the Allahabad Jaipur Express
 
 Our shortest train journey in India, the hop from Agra to Jaipur is scheduled at a mere 5.5 hours. Since that's not enough time for a real rest, we booked a morning ticket so we could get on our way and arrive to Jaipur right around check-in time for our next hotel.
 
@@ -72,7 +72,7 @@ We were again in AC2, choosing not to pay the premium for AC1 since we weren't p
 
 If every train ride in India were like this, we'd be pretty happy!
 
-### Jaipur to Jaisalmer on the Malani Express
+### 🚂  Jaipur to Jaisalmer on the Malani Express
 
 Our experience (luck?) on trains continued to approve with our next overnight train. We were scheduled to depart from Jaipur at 11:45pm and arrive to Jaisalmer at 11:45am... and did exactly that! We were once again in AC1, and again were lucky enough to get a `coupe` cabin, private to just the two of us. To add to the positives, Jaipur train station was by far the nicest one we had encountered so far, including a spotless and mostly-empty free lounge for upper class passengers, which we took advantage of for about 90 minutes of waiting at the station.
 
@@ -80,7 +80,7 @@ This was the first train where the onboard ticket checker asked for our passport
 
 AC1, which was about 35 USD per person instead of the 20 USD per person that AC2 would have been, felt completely worth it on this journey. There was a lot of activity on the train when we reached Jodhpur around 5:00am, and in any other class we would have been awoken by the chaos for a good 45 minutes. In our cabin we slept through all of it except the stop/start jolts.
 
-### Jaisalmer to Delhi on the Malani Express
+### 🚂  Jaisalmer to Delhi on the Malani Express
 
 Alas, our luck with getting private cabins finally ran out–and on our longest scheduled journey in India, no less. 
 
@@ -92,15 +92,15 @@ Since we didn't have the cabin to ourselves, we spent most of our waking hours i
 
 After almost 18 hours en route, our train reached Delhi Cantt station only 10 minutes late, where we hopped off and hailed an Uber to take us to our South Delhi hotel. We were booked to go all the way to Delhi Junction in northern Old Delhi, but realized it would mean an extra 40 minutes on the train, and then a longer drive/metro once we arrived, so disembarked a bit early.
 
-### New Delhi to Shimla on the Kalka Shatabdi Express and the Himalayan Queen
+### 🚂  New Delhi to Shimla on the Kalka Shatabdi Express and the Himalayan Queen
 
 TEXT
 
-### Shimla to Delhi on the Shivalik Deluxe Express and the Kalka Mail
+### 🚂  Shimla to Delhi on the Shivalik Deluxe Express and the Kalka Mail
 
 TEXT
 
-### (BONUS) Getting to the Delhi Airport
+### 🚂  (BONUS) Getting to the Delhi Airport
 
 TEXT
 
@@ -108,15 +108,15 @@ TEXT
 
 We had XX meals either at train stations or onboard trains. Overall...
 
-### At New Delhi Railway Station (NDLS)
+### 🚂  At New Delhi Railway Station (NDLS)
 
 We ended up waiting for over four hours at the station before our first train ride, and we got pretty hungry. We hadn't realized before coming that the train station would be so lacking–without convenience stores or a food court. We did finally find one restaurant, run by the railway itself, upstairs in the west terminal. We were amazed at the super-low prices (since they weren't charging above listed rates, unlike all the on-train attendants) and enjoyed a randomly picked curry, rice, and samosa-like pastry platter.
 
-### Onboard the Swatantrta Senani
+### 🚂  Onboard the Swatantrta Senani
 
 We had two meals on our first train, on the way to Varanasi. We really enjoyed the `veg cutlets` we had for breakfast, which tasted a lot better than they looked. The omelet option was not a winner. Later we also had lunch, since the train was running so late, and enjoyed our first `veg Thali` of our time in India. Like all the other food we had on trains it was reasonable, and was being eaten by a high portion of the travelers. We did have to squabble a bit with the attendant about payment, but more on that in the section on scams below.
 
-### Onboard the Malani Express
+### 🚂  Onboard the Malani Express
 
 Soon after leaving Jaisalmer at 4:45pm, an attendant came through offering `veg cutlets` for sale (and at the proper price, surprisingly!) and claiming that dinner would _not_ be served on the train because there was no pantry car on this run. His claim didn't really matter to us, since we wanted the cutlets, and they were again a really good snack. Of course, later on a different attendant came through offering dinner for sale, which we turned down once he admitted it wouldn't be served until 9:00pm (a bit late for us, though not unusual for locals).
 
@@ -131,21 +131,21 @@ The biggest barrier to quality sleep was the jerking, stopping, and starting of 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Getting Scammed
 
-### The Fake Ticket Checker
+### 🚂  The Fake Ticket Checker
 
 guy at NDLS trying to get us to show him the ticket, laughing
 
-### False Food Pricing
+### 🚂  False Food Pricing
 
 food prices on train 1
 
-### The Phantom Pantry Car
+### 🚂  The Phantom Pantry Car
 
 being told dinner wouldn't exist on train from JSM
 
 While we were in India, the press [was reporting that improvements are coming to the process for buying food on board trains](http://www.financialexpress.com/infrastructure/railways/no-bill-given-for-food-bought-on-trains-indian-railways-says-you-can-have-it-for-free/1104884/lite/), which is rife with overcharging attendants and generally poor service. Hopefully those reforms take hold and make a difference, though I expect the attendants will continue to work hard to find ways to make extra money.
 
-### Overall
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Overall
 
 XXX
 
