@@ -1407,4 +1407,11 @@
   train: 314
   drive: 8.25
   boat: 0
-  walk: 0000
+  walk: 4
+
+- day: March 21, 2018
+  fly: 0
+  train: 19
+  drive: 0.7
+  boat: 0
+  walk: 6.8
