@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Northern India by 9 Trains"
-date: 2018-03-29
+date: 2018-03-28
 desc: "Seeing northern India from ground level - our experience aboard nine Indian trains, including five overnight journeys."
 keywords: "Asia, India, Delhi, New Delhi, Varanasi, Agra, Jaipur, Jaisalmer, Kalka Simla, NDLS, BSB, AF, AGC, JP, JSM, DLI, KLK, SML, train, sleeper, What to Do, RTW"
 categories: [Asia]
@@ -24,13 +24,13 @@ We knew we had to fly into and out of New Delhi to fit into our overall itinerar
 
 After more than a little bit of anxiety about what to eliminate, we ended up just copying [Seat61's recommended itinerary](https://www.seat61.com/India.htm#What_to_see) and were the better for it. Our route still went roughly clockwise, but with fewer stops and a midpoint stay in New Delhi. Our final route was:
 
-- New Delhi to Varanasi Junction (overnight)
-- Varanasi Junction to Agra Fort (overnight)
+- New Delhi to Varanasi Junction _(overnight)_
+- Varanasi Junction to Agra Fort _(overnight)_
 - Agra Cantt to Jaipur
-- Jaipur to Jaisalmer (overnight)
-- Jaisalmer to Delhi (overnight)
+- Jaipur to Jaisalmer _(overnight)_
+- Jaisalmer to Delhi _(overnight)_
 - New Delhi to Kalka to Shimla
-- Shimla to Kalka to Delhi (overnight)
+- Shimla to Kalka to Delhi _(overnight)_
 
 If we had it to do again we might have tried to fly from New Delhi to Varanasi, as our train ended up nine hours delayed, and that's apparently not uncommon at all because of how busy that rail corridor is, with both passenger and freight trains.
 
@@ -92,28 +92,38 @@ Since we didn't have the cabin to ourselves, we spent most of our waking hours i
 
 After almost 18 hours en route, our train reached Delhi Cantt station only 10 minutes late, where we hopped off and hailed an Uber to take us to our South Delhi hotel. We were booked to go all the way to Delhi Junction in northern Old Delhi, but realized it would mean an extra 40 minutes on the train, and then a longer drive/metro once we arrived, so disembarked a bit early.
 
-
 ### New Delhi to Shimla on the Kalka Shatabdi Express and the Himalayan Queen
 
-
+TEXT
 
 ### Shimla to Delhi on the Shivalik Deluxe Express and the Kalka Mail
 
+TEXT
 
+### (BONUS) Getting to the Delhi Airport
 
+TEXT
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Eating
 
 We had XX meals either at train stations or onboard trains. Overall...
 
-- NDLS restaurant
-- Swatantrta Senani Express breakfast (overcharged)
-- Swatantrta Senani Express lunch
+### At New Delhi Railway Station (NDLS)
 
+We ended up waiting for over four hours at the station before our first train ride, and we got pretty hungry. We hadn't realized before coming that the train station would be so lacking–without convenience stores or a food court. We did finally find one restaurant, run by the railway itself, upstairs in the west terminal. We were amazed at the super-low prices (since they weren't charging above listed rates, unlike all the on-train attendants) and enjoyed a randomly picked curry, rice, and samosa-like pastry platter.
 
-Both dinner and breakfast were delivered to us while the train was stopped at intermediate stations (transferring freight, not passengers, we think). Somewhat comically, meals were not handed out on trays or even by railroad staff, but by vendors beside the tracks who had packed the meals in styrofoam and plastic bags before handing them into the car through the window. The "train manager" apparently has contacts along the route and phones in orders to be prepared before the train reaches that station. None of our food was _good_, but none of it made us sick either, so we can't complain too much.
+### Onboard the Swatantrta Senani
+
+We had two meals on our first train, on the way to Varanasi. We really enjoyed the `veg cutlets` we had for breakfast, which tasted a lot better than they looked. The omelet option was not a winner. Later we also had lunch, since the train was running so late, and enjoyed our first `veg Thali` of our time in India. Like all the other food we had on trains it was reasonable, and was being eaten by a high portion of the travelers. We did have to squabble a bit with the attendant about payment, but more on that in the section on scams below.
+
+### Onboard the Malani Express
+
+Soon after leaving Jaisalmer at 4:45pm, an attendant came through offering `veg cutlets` for sale (and at the proper price, surprisingly!) and claiming that dinner would _not_ be served on the train because there was no pantry car on this run. His claim didn't really matter to us, since we wanted the cutlets, and they were again a really good snack. Of course, later on a different attendant came through offering dinner for sale, which we turned down once he admitted it wouldn't be served until 9:00pm (a bit late for us, though not unusual for locals).
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Sleeping
+
+better than Myanmar, really not bad when alone, "inconsiderate" everyone when not alone
+
 
 When we boarded we found two sheets and two pillows on our side of the cabin, and unfortunately there was no turndown service common on sleepers in other countries. Luckily we had the example of the other young couple to follow and clumsily figured out how to convert the lower seats into a flat bed. The pillowcases and sheets _were_ clean, but to be truly comfortable we would have needed double of each.
 
@@ -121,14 +131,22 @@ The biggest barrier to quality sleep was the jerking, stopping, and starting of 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Getting Scammed
 
-- food prices on train 1
-- being told dinner wouldn't exist on train from JSM
+### The Fake Ticket Checker
 
+guy at NDLS trying to get us to show him the ticket, laughing
 
-One of the experiences we enjoyed most about our time in Myanmar was how hospitable and honest almost everyone we interacted with was. Street vendors we couldn't communicate with would charge a fair price and make correct change; touts were few and far between; and we didn't feel like we constantly had to be on guard. Unfortunately that streak came to an end on our train trip when despite our best efforts at clarifying prices the bill delivered by our "train manager" for food consumed onboard was a whopping 34,000 kyat (25 USD) when our average cost per meal elsewhere was 3,000 kyat (~2 USD). The Myanmar nationals, who had slightly different dishes but about the same amount of food, were charged less than 10,000 kyat total. When he came to collect payment we disputed a couple of the more inflated prices and ended up paying 30,000 kyat (22 USD) before disembarking in Yangon. 
+### False Food Pricing
 
-At these prices getting scammed like this isn't a huge deal, but was a disappointing way to end our travels in Myanmar. If we had another trip to take we would decline all offers from the "train manager" and just hang out the window dealing directly with street vendors at stops along the way (or pack a picnic if we had a good way to do so).
+food prices on train 1
+
+### The Phantom Pantry Car
+
+being told dinner wouldn't exist on train from JSM
+
+While we were in India, the press [was reporting that improvements are coming to the process for buying food on board trains](http://www.financialexpress.com/infrastructure/railways/no-bill-given-for-food-bought-on-trains-indian-railways-says-you-can-have-it-for-free/1104884/lite/), which is rife with overcharging attendants and generally poor service. Hopefully those reforms take hold and make a difference, though I expect the attendants will continue to work hard to find ways to make extra money.
 
 ### Overall
+
+XXX
 
 We're happy that we did it, but glad we don't have a return trip coming up anytime soon. There is something magical about long-distance rail travel and the chance to interact with locals and really relax. And there's probably no better way to see the countryside, especially if you don't have anything time sensitive on the other side and are able to set your expectations low about the service onboard.
