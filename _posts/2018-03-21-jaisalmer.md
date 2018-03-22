@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jaisalmer: A bit better"
-date: 2018-03-21
+date: 2018-03-22
 desc: "We spent three days in the Golden City, Jaisalmer, exploring, relaxing, and finding a way to enjoy India a little bit."
 keywords: "Asia, India, Jaisalmer, What to Do, RTW"
 categories: [Asia]
@@ -18,13 +18,13 @@ hidden: false
 
 We arrived in Jaisalmer after an overnight train journey from Jaipur, which departed around midnight and arrived just before noon. After spending time in [Varnasi](http://site.awellchartedpath.com/blog/2018/03/Varanasi/), [Agra](http://site.awellchartedpath.com/blog/2018/03/agra/), and [Jaipur](http://site.awellchartedpath.com/blog/2018/03/Jaipur/), we were really looking forward to getting to a _much_ smaller place and seeing if it would feel a bit more livable than anywhere else we had been in India.
 
-The touristy part of Jaisalmer is dominated by the eponymous fort, which sits high up, surrounded on all sides by two levels of tall vertical walls separated by a steep hillside of sand. It's smaller than it looks in a lot of photos, and takes less than 20 minutes to walk the road looping around the circumference of its base. The amazing part about it that unlike the forts in other cities we visited that have been preserved as tourist attractions, this one was flourished as a hotspot for shops, restaurants, and homes. There's no charge to enter, since it's basically just a neighborhood, and you're free to wander down alleys looking for interesting food or good views. According [to Wikipedia](https://en.wikipedia.org/wiki/Jaisalmer_Fort), "it is believed to be one of the very few (perhaps the only) 'living forts' in the world, as nearly one fourth of the old city's population still resides within the fort."
+The touristy part of Jaisalmer is dominated by the eponymous fort, which sits high up, surrounded on all sides by two levels of tall vertical walls separated by a steep hillside of sand. It's smaller than it looks in a lot of photos, and takes less than 20 minutes to walk the road looping around the circumference of its base. The amazing part about it that unlike the forts in other cities we visited that have been preserved as tourist attractions, this one has flourished as a hotspot for shops, restaurants, and homes. There's no charge to enter, since it's basically just a neighborhood, and you're free to wander down alleys looking for interesting food or good views. According [to Wikipedia](https://en.wikipedia.org/wiki/Jaisalmer_Fort), "it is believed to be one of the very few (perhaps the only) 'living forts' in the world, as nearly one fourth of the old city's population still resides within the fort."
 
-(Sadly, the fort is no longer lit up at night. Our waiter we chatted with about it said it used to, but that a small mudslide knocked out some of the electrical wires and they haven't had funds to repair it.)
+(Sadly, the fort is no longer lit up at night. Our waiter we chatted with about it said it used to be, but that a small mudslide knocked out some of the electrical wires and they haven't had funds to repair it.)
 
-We stayed at **Hotel Tokyo Palace**, which ended up being a really great choice. We spent a bit extra on one of their larger rooms, still well within budget, and ended up spending a lot of time in its air conditioning during the hot middle of the day. The restaurant on the roof seemed like one of the best in the area for our needs, and the service was really great. We'd definitely go back if we returned to Jaisalmer.
+We stayed at **Hotel Tokyo Palace**, which ended up being a really great choice. We spent a bit extra on one of their larger rooms, still well within budget, and ended up spending a lot of time in its air conditioning during the hot middle of the day. The restaurant on the roof seemed like one of the best in the area for our needs, and the service was really great. We'd definitely go back if we returned to Jaisalmer. They also arrange camel treks, which is what most tourists come to Jaisalmer for–we weren't interested in doing one as they sound fairly miserable.
 
-Ultimately, Jaisalmer was definitely a nice change of pace, but still doesn't have nearly the amount of charm that the places we spent time in Southeast Asia had.
+Ultimately, Jaisalmer was a nice change of pace, but still doesn't have nearly the amount of charm that the places we spent time in Southeast Asia had.
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> What We Did in Jaisalmer
 
@@ -69,6 +69,8 @@ For dinner, we were feeling a bit antsy and wanted to try something outside our 
 **Day 4:** With our onward overnight train not departing until 4:45pm, we had most of another day to enjoy laid-back Jaisalmer. We first sought out an ATM, since those we had tried over the weekend were all out of cash. We finally succeeded at a bank just southwest of the fort, where we joined a line of about 20 locals using the machines.
 
 We spent the rest of our morning at **Desert Palace Rooftop Restaurant** inside the fort, having tea and reading on our Kindles while enjoying the view out to the north of the city. After another enjoyable lunch at our hotel they were nice enough to give us a spare room for an hour so we good refresh before heading back to the train station.
+
+As if to welcome us back to the rest of India, Amy got to enjoy the experience of having a local woman walk up to her while she stood on the train platform, put her cellphone literally six inches away from her face, and then take a photo. The woman was very surprised we didn't seem to be thrilled with her...
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> How We Did with Our Budget
 
