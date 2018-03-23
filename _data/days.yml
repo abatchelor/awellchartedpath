@@ -1415,3 +1415,10 @@
   drive: 0.7
   boat: 0
   walk: 6.8
+
+- day: March 22, 2018
+  fly: 0
+  train: 10.8
+  drive: 0
+  boat: 0
+  walk: 6
