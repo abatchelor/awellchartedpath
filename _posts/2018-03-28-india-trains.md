@@ -94,11 +94,17 @@ After almost 18 hours en route, our train reached Delhi Cantt station only 10 mi
 
 ### 🚂  New Delhi to Shimla on the Kalka Shatabdi Express and the Himalayan Queen
 
-TEXT
+Our first journey involving a transfer between trains en route, our full-day trip from New Delhi to Shimla was pretty seamless and absolutely beautiful.
+
+We first took the Shatabdi Express to Kalka. Since it was a Shatabdi train, one of India's fastest, most-important daytime trains, we had breakfast included in the fare and no overcrowding. We left right on time from NDLS and arrived 25 minutes late in Kalka. There were a number of tour groups on the train with us, also heading to Shimla. The journey was lovely, and luckily we knew that they would hold the departure of the onward train to Shimla until the transferring passengers made it, so weren't stressing about that during the journey.
+
+Since we had arrived late, we made a quick walk up the platform, grabbed some snacks from a food stall, and then got onboard our next train a couple minutes before it pulled out of the station. All of the trains that run between Kalka and Shimla are "toy trains", so-named because they run small coaches on narrow-gauge track, slowly winding their way up the mountain range. We took the Himalayan Queen up, which is the most basic of the trains running this route, with an interior reminiscent of a 1980s school bus. Very different from any of the other trains we've been on in India, it was really a sightseeing experience. Which is good, since we were onboard for 6 hours to cover 60 miles of track!
+
+It is a single-track route for its entire length, so passing can only happen at stations along the way with short stretches of dual track. According to the informational signs at stations along the route, the Kalka-Shimla Railway climbs 4,659 feet during its 60 mile run. It also crosses 864 bridges (many of them very small) and goes through 102 (or 107 if you believe a different sign) tunnels. At just 2 feet, 6 inches in width, it may be the narrowest-gauge tracks I've ridden on outside of an amusement park.
 
 ### 🚂  Shimla to Delhi on the Shivalik Deluxe Express and the Kalka Mail
 
-TEXT
+While we had to cover the same track between Shimla and Kalka on the way down as on the way up, we took the fancier Shivalik Deluxe Express (for 8 USD per ticket instead of 4 USD for the tickets up the mountain), which includes dinner, runs nearly non-stop, and has _much_ nicer seating inside, with fewer people in each coach.
 
 ### 🚂  (BONUS) Getting to the Delhi Airport
 
@@ -119,6 +125,18 @@ We had two meals on our first train, on the way to Varanasi. We really enjoyed t
 ### 🚂  Onboard the Malani Express
 
 Soon after leaving Jaisalmer at 4:45pm, an attendant came through offering `veg cutlets` for sale (and at the proper price, surprisingly!) and claiming that dinner would _not_ be served on the train because there was no pantry car on this run. His claim didn't really matter to us, since we wanted the cutlets, and they were again a really good snack. Of course, later on a different attendant came through offering dinner for sale, which we turned down once he admitted it wouldn't be served until 9:00pm (a bit late for us, though not unusual for locals).
+
+### 🚂  Onboard the Kalka Shatabdi Express
+
+While many foreign tourists stick only to the premium Shatabdi Express trains during their visits to India, with their included food and attendants who don't try to scam you, this was our first journey onboard. Since it was a morning route, we had morning tea and then breakfast, with `veg cutlets` again as the main item. It was very nice to be served at our seat, not have to worry about proper payment for the food, and everything was fine, if basic. We also enjoyed that they serve with trays lines with a very-specific menu dictated by the Indian Railway system, right down to the presence of salt & pepper satchets and a disposable napkin (plus the clearly listed caveat that you can receive an extra bottle of water for free if your journey (which is scheduled for under 6 hours) ends up taking over 18 hours...).
+
+### 🚂  Onboard the Himalayan Queen
+
+On our quick walk between trains we stopped at a food stall at Kalka Station and got a couple of flaky fried dough triangles with a mystery filling and some cookies, since we didn't think we would have the opportunity to buy any food once onboard the tiny Himalayan Queen. Of course, as soon as we boarded we were offered a basic vegetarian lunch by an attendant, and accepted (at 0.75 USD we were willing to try whatever it was). We ended up with some okay daal, rice, and chapati that kept us full for most of the long journey up the mountain. That journey was made longer by the regular stops at intermittent stations where everyone else on the train would spill out and stock up on snacks. After so many trips wondering whether the food attendant would ever appear, we were pretty surprised how many opportunities there were for food on this route!
+
+### 🚂  Onboard the Shivalik Deluxe Express
+
+TEXT
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Sleeping
 
