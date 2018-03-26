@@ -1443,3 +1443,10 @@
   drive: 5.2
   boat: 0
   walk: 6.8
+
+- day: March 26, 2018
+  fly: 0
+  train: 0
+  drive: 6
+  boat: 0
+  walk: 6.3
