@@ -7,7 +7,7 @@ keywords: "Asia, India, Delhi, New Delhi, Varanasi, Agra, Jaipur, Jaisalmer, Kal
 categories: [Asia]
 tags: India
 icon: icon-html
-image: blog/.jpg
+image: blog/IndTrainsShimlaTurn.jpg
 author: Nate
 country: India
 hidden: false
@@ -52,11 +52,15 @@ Not long after, our train pulled in, we found coach HA1, and got the _very_ nice
 
 Our AC1 cabin (the highest on Indian trains) was comfortable enough, with clean bed linens provided. We enjoyed both breakfast and lunch served by a train attendant, and which didn't get us sick. He managed to overcharge us for breakfast since we were starving and not paying close enough attention, but I had my revenge when he came to collect our lunch payment and only got the remainder he deserved for the two meals overall. If you're getting food onboard an Indian train, I'd recommend you ask to see the menu card they're all supposed to carry, since it lists prices (even though many items may not be available on your specific train).
 
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsNDLStrain.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsNDLStrain.jpg" width="35.5%"></a> <a href="/static/assets/img/blog/IndTrainsAC1coupeNDLS.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsAC1coupeNDLS.jpg" width="20%"></a> <a href="/static/assets/img/blog/IndTrainsSunrise.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsSunrise.jpg" width="35.5%"></a></div><p></p>
+
 ### 🚂  Varanasi to Agra on the Marudhar Express
 
 After the delays of our first journey, we made sure to schedule activities for the afternoon before departure so we at least wouldn't waste that time. We got back to our hotel with just enough time to eat, get some food packed to have as dinner on the train, and get a rickshaw to the train station. 
 
 This was our one journey overnight in AC2 class, which is very similar to the highest AC1 class, except that: (1) all of the cabins are open to the hallway, and (2) there are beds running lengthwise along the hallway as well, so the perpendicular beds are shorter than in AC1. This class honestly would have been fine for all of our journeys, but because AC1 wasn't that much more expensive and fit into our budget, we decided to just enjoy it when available.
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsAC2uppers.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsAC2uppers.jpg" width="45%"></a><p><i>Squeezed in on AC2 top berths.</i></p></div><p></p>
 
 After a lot of confusion on the train platform, as a different train was loading where the information screens said our train would be, we finally heard an announcement that our train had switched to the other side of the platform, and moments later it pulled up. The coach order was also the reverse of expected, so everyone on the platform had to scramble to swap places lengthwise up/down the train and get on board. While we booked two tickets all the way back in December, we only actually had one confirmed bed until the afternoon of travel, since the other ticket came from the `Reservation Against Confirmation (RAC)` allotment, meaning you're guaranteed space on the train but may not have a bed if no one who _is_ confirmed cancels. Luckily someone did cancel, but our beds were not in the same cabin. After trying a bit to find someone traveling alone in one of our cabins and also disembarking at Agra we gave up and were ready to spend the journey apart. But, in probably the single kindest act we experienced up to that point in India, the train's ticket collector (without being asked) offered to reassign the bed of a passenger getting on later so we could sleep in the same cabin. Hooray!
 
@@ -68,6 +72,8 @@ While we left right on time, the train stopped pretty frequently overnight and b
 
 Our shortest train journey in India, the hop from Agra to Jaipur is scheduled at a mere 5.5 hours. Since that's not enough time for a real rest, we booked a morning ticket so we could get on our way and arrive to Jaipur right around check-in time for our next hotel.
 
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsAFstation.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsAFstation.jpg" width="30%"></a> <a href="/static/assets/img/blog/IndTrainsAC2coupe.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsAC2coupe.jpg" width="30%"></a><p><i>7am at Agra Fort was the emptiest we saw any Indian train station.</i></p></div><p></p>
+
 We were again in AC2, choosing not to pay the premium for AC1 since we weren't planning on sleeping anyway, but ended up getting lucky: our berths (beds 43 and 43) were all alone in their cabin, as the other half of it had been used as a storage closet by the railway. We departed from Agra Cantt station, which was the quietest station we've experienced in India. We left only 20 minutes late, enjoyed a take-away breakfast from our hotel onboard, and arrived to Jaipur a mere 14 minutes late.
 
 If every train ride in India were like this, we'd be pretty happy!
@@ -76,15 +82,21 @@ If every train ride in India were like this, we'd be pretty happy!
 
 Our experience (luck?) on trains continued to approve with our next overnight train. We were scheduled to depart from Jaipur at 11:45pm and arrive to Jaisalmer at 11:45am... and did exactly that! We were once again in AC1, and again were lucky enough to get a `coupe` cabin, private to just the two of us. To add to the positives, the Jaipur train station was by far the nicest one we had encountered so far, including a spotless and mostly-empty free lounge for upper class passengers, which we took advantage of for about 90 minutes of waiting at the station.
 
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsWaitingJP.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsWaitingJP.jpg" width="45%"></a> <a href="/static/assets/img/blog/IndTrainsCoupeJP.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsCoupeJP.jpg" width="25.4%"></a></div><p></p>
+
 This was the first train where the onboard ticket checker asked for our passports to verify we were the holders of the ticket, but then said nevermind when we started to dig through our bags to get them out. We also slept through breakfast ordering once again, but had prepared by ordering some good take-out breakfast food from our hotel before heading to the train station.
 
 AC1, which was about 35 USD per person instead of the 20 USD per person that AC2 would have been, felt completely worth it on this journey. There was a lot of activity on the train when we reached Jodhpur around 5:00am, and in any other class we would have been awoken by the chaos for a good 45 minutes. In our cabin we slept through all of it except the stop/start jolts.
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsJSMdesert.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsJSMdesert.jpg" width="45%"></a> <a href="/static/assets/img/blog/JaisalmerStationTrain.jpg" target="_blank"><img src="/static/assets/img/blog/JaisalmerStationTrain.jpg" width="45%"></a><p><i>Left; The desert approaching Jaisalmer.</i></p></div><p></p>
 
 ### 🚂  Jaisalmer to Delhi on the Malani Express
 
 Alas, our luck with getting private cabins finally ran out–and on our longest scheduled journey in India, no less. 
 
 We got dropped off at Jaisalmer Station about 30 minutes before our train was scheduled to leave, and it was already at the platform and ready-to-board. We got some snacks and water from the station vendors and then found our cabin–we had two top bunks in an AC1 4-bed cabin. After some confusion from another passenger who thought he was also in our cabin (he was supposed to be in the AC2 area of the same coach–they duplicate bed numbers...) we met our cabin-mates: an elderly woman and her middle-age daughter, traveling for free because of their grandson/son's position in the military. They didn't speak English, but for the most part were quiet, considerate cabinmates. 
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsAC1jsm.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsAC1jsm.jpg" width="30%"></a> <a href="/static/assets/img/blog/IndTrainsAC1quadJSM.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsAC1quadJSM.jpg" width="30%"></a></div><p></p>
 
 Shortly after departing (on-time!) we bought `veg cutlets` from the on-train vendor, who swore there was no pantry car on the train this time, so dinner wouldn't be served (it later was, of course). They held us over well, and at 0.75 USD per serving, we can't really complain.
 
@@ -100,11 +112,15 @@ We first took the Shatabdi Express to Kalka. Since it was a Shatabdi train, one 
 
 Since we had arrived late, we made a quick walk up the platform, grabbed some snacks from a food stall, and then got onboard our next train a couple minutes before it pulled out of the station. All of the trains that run between Kalka and Shimla are "toy trains", so-named because they run small coaches on narrow-gauge track, slowly winding their way up the mountain range. We took the Himalayan Queen up, which is the most basic of the trains running this route, with an interior reminiscent of a 1980s school bus. Very different from any of the other trains we've been on in India, it was really a sightseeing experience. Which is good, since we were onboard for 6 hours to cover just 60 miles of track!
 
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsShimlaTurn.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaTurn.jpg" width="32%"></a> <a href="/static/assets/img/blog/IndTrainsShimlaOtherTrain.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaOtherTrain.jpg" width="32%"></a> <a href="/static/assets/img/blog/IndTrainsShimlaNight.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaNight.jpg" width="32%"></a></div><p></p>
+
 It is a single-track route for its entire length, so passing can only happen at stations along the way with short stretches of dual track. We had a nice view of the engineer trading `one-way tokens` with the station employees along the way, which are used to ensure there is only one train on any one section of single track, according to the ever-helpful Seat61. According to the informational signs at stations along the route, the Kalka-Shimla Railway climbs 4,659 feet during its 60 mile run. It also crosses 864 bridges (many of them very small) and goes through 102 (or 107 if you believe a different sign) tunnels. At just 2 feet, 6 inches in width, it may be the narrowest-gauge tracks I've ridden on outside of an amusement park.
 
 ### 🚂  Shimla to Delhi on the Shivalik Deluxe Express and the Kalka Mail
 
 While we had to cover the same track between Shimla and Kalka on the way down as on the way up, we took the fancier Shivalik Deluxe Express (for 8 USD per ticket instead of 4 USD for the tickets up the mountain), which includes dinner, runs nearly non-stop, and has _much_ nicer seating inside, with fewer people in each coach. That extra cost was well worth it, especially as we ended up in a half-empty coach, with plenty of legroom and no one bothering us. We enjoyed the views for the first couple hours until it was completely dark, then had our small dinner and relaxed until we reached Kalka, on time.
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsShimlaOnboard.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaOnboard.jpg" width="30%"></a> <a href="/static/assets/img/blog/IndTrainsShimlaDeluxe.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaDeluxe.jpg" width="30%"></a><p><i>Himalayan Queen versus Shivalik Deluxe Express</i></p></div><p></p>
 
 We had a small stroke of luck in that the Kalka Mail was already at the platform, so we were able to transfer directly even though it wasn't scheduled to depart for 90 more minutes. We were again in AC1, but were not lucky enough to score the single coupe cabin on the entire train. We departed Kalka a few minutes before midnight as the only passengers in our 4-bed compartment, but the other two joined a short while later at our next stop. We went straight to sleep as soon as we could with an alarm set for 30 minutes before our scheduled arrival. Amazingly, when that alarm went off we were actually running _early_ and only a few kilometers from our destination of Old Delhi Junction. Of course, nothing can be that easy, and we sat in place for 45 minutes before pulling into the platform.
 
@@ -132,6 +148,8 @@ Soon after leaving Jaisalmer at 4:45pm, an attendant came through offering `veg 
 
 While many foreign tourists stick only to the premium Shatabdi Express trains during their visits to India, with their included food and attendants who don't try to scam you, this was our first journey onboard. Since it was a morning route, we had morning tea and then breakfast, with `veg cutlets` again as the main item. It was very nice to be served at our seat, not have to worry about proper payment for the food, and everything was fine, if basic. We also enjoyed that they serve with trays lines with a very-specific menu dictated by the Indian Railway system, right down to the presence of salt & pepper satchets and a disposable napkin (plus the clearly listed caveat that you can receive an extra bottle of water for free if your journey (which is scheduled for under 6 hours) ends up taking over 18 hours...).
 
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsShatabdiBreakfast.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShatabdiBreakfast.jpg" width="45%"></a><p><i>Breakfast on the Kalka Shatabdi Express.</i></p></div><p></p>
+
 ### 🚂  Onboard the Himalayan Queen
 
 On our quick walk between trains we stopped at a food stall at Kalka Station and got a couple of flaky fried dough triangles with a mystery filling and some cookies, since we didn't think we would have the opportunity to buy any food once onboard the tiny Himalayan Queen. Of course, as soon as we boarded we were offered a basic vegetarian lunch by an attendant, and accepted (at 0.75 USD we were willing to try whatever it was). We ended up with some okay daal, rice, and chapati that kept us full for most of the long journey up the mountain. That journey was made longer by the regular stops at intermittent stations where everyone else on the train would spill out and stock up on snacks. After so many trips wondering whether the food attendant would ever appear, we were pretty surprised how many opportunities there were for food on this route!
@@ -151,6 +169,8 @@ Compared to our first overnight train ride of the trip all the way back in South
 Sleeping on our Indian train rides was definitely easier than the super-bumpy Myanmar train we took, and comparable to the trains we took in Vietnam and Thailand. Just like those, if you're alone in the cabin, it feels luxurious and is pretty easy to get a good amount of rest. If you're not alone, it can really depend on who you're with and what their habits are. We found that most people we shared with acted what we would consider pretty inconsiderately (loud cell phones, 4am conversations with their buddy, random turning on of bright lights, etc) but that no one else but us seemed at all perturbed so it must not be uncommon here.
 
 Typically we would find sealed paper packets of clean bedding at our berth when we got on the train and would make it up ourselves. They don't wash the pillowcases often, so using the provided towel as a cover for the pillow was pretty popular among everyone in our cabins. On our final train ride the attendant had made up the bed for us before we got on, without expecting a tip, which left us wondering if every other one was supposed to have as well!
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsAC1quadKLK.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsAC1quadKLK.jpg" width="30%"></a><p><i>Professionally made beds!</i></p></div><p></p>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Getting Scammed
 
