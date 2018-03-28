@@ -18,7 +18,13 @@ Before arriving in India, we had already taken long-distance trains in South Afr
 
 Overall, our train rides in India were fine, and almost certainly were more enjoyable than any other mode of getting around would have been. In total, we had 15 and a half hours of delays across our journeys, though most of that was the nine hour delay of our first trip, which luckily didn't set a precedent for the rest of them. When we lucked into a private space it felt luxurious, even though the bedding and service is still quite basic compared to some of the other trains we've taken. When we shared cabins it was really good that we had quality earplugs and eye masks with us, as there don't seem to be any social norms about quiet hours, silenced cell phones, or keeping the lights off. Like everything else in India, we did feel we had to be a bit on-guard, mentally, as there was always the chance a food attendant would try to scam us, and we often couldn't keep our compartment door locked. But nothing truly bad happened, and we got everywhere we were trying to go!
 
-## Our Route
+- [Our Route](#route)
+- [Getting Tickets](#tickets)
+- [Our Journeys](#journeys)
+- [Eating](#eating)
+- [Getting Scammed](#scams)
+
+## <i id="route" class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Our Route
 
 We knew we had to fly into and out of New Delhi to fit into our overall RTW flights itinerary, so decided early to focus on northern India and leave the south for a future visit. After a lot of playing around with maps and train ticketing searches, I put together an itinerary that would go clockwise by train from Delhi, visiting Agra, Varanasi, Bodh Gaya, and Calcutta before flying to Mumbai and continuing by train through Ranakpur, Jodhpur, Jaipur, Ranthambore National Park, and then up north to Amritsar and Shimla before arriving back to New Delhi. _Luckily_, Amy stepped in and politely pointed out that I'd gotten carried away, and trying to pack so much in would make us pretty miserable.
 
@@ -34,13 +40,15 @@ After more than a little bit of anxiety about what to eliminate, we ended up jus
 
 If we had it to do again we might have tried to either fly from New Delhi to Varanasi or figure out a different train route, as our train ended up nine hours delayed, and that's apparently not uncommon at all because of how busy that rail corridor is, with both passenger and freight trains.
 
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Getting Tickets
+## <i id="tickets" class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Getting Tickets
 
 Similar to [our experiences in Bagan](http://site.awellchartedpath.com/blog/2018/01/Bagan/) and [at Macchu Picchu](http://site.awellchartedpath.com/blog/2017/12/machu-picchu/), we wanted to book everything ourselves rather than go through a travel agent. Luckily we had planned far enough ahead of time (~3 months) that "general quota" tickets in the top classes of the trains we wanted were still available. We painstakingly followed directions from Seat61 and others found on Google, successfully got our U.S. phone number verified by the IRCTC system, but still failed because their payment portal wouldn't accept any international credit cards (despite saying it does).
 
 After a little more research I got in touch with [Raj at Train Ticket Please](https://www.facebook.com/trainticketplease/), who was glowingly reviewed by several other travelers online. After surprisingly little back-and-forth he reserved all of our trains for us without any problems. While we had to pay 3 USD extra per journey than if we had been able to book on our own, he also helped us throughout our time in India by projecting delays, sending us seat numbers, and generally being a really responsive resource. If you're putting together an itinerary anywhere in India, I highly recommend Raj (best contacted by the email listed at the link above).
 
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Our Journeys
+We also found the [Where is my train](https://play.google.com/store/apps/details?id=com.whereismytrain.android&hl=en) mobile app really helpful for getting updates on seat assignments and train status.
+
+## <i id="journeys" class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Our Journeys
 
 ### 🚂  Delhi to Varanasi on the Swatantrta Senani Express
 
@@ -80,7 +88,7 @@ If every train ride in India were like this, we'd be pretty happy!
 
 ### 🚂  Jaipur to Jaisalmer on the Malani Express
 
-Our experience (luck?) on trains continued to approve with our next overnight train. We were scheduled to depart from Jaipur at 11:45pm and arrive to Jaisalmer at 11:45am... and did exactly that! We were once again in AC1, and again were lucky enough to get a `coupe` cabin, private to just the two of us. To add to the positives, the Jaipur train station was by far the nicest one we had encountered so far, including a spotless and mostly-empty free lounge for upper class passengers, which we took advantage of for about 90 minutes of waiting at the station.
+Our experience (luck?) on trains continued to improve with our next overnight train. We were scheduled to depart from Jaipur at 11:45pm and arrive to Jaisalmer at 11:45am... and did exactly that! We were once again in AC1, and again were lucky enough to get a `coupe` cabin, private to just the two of us. To add to the positives, the Jaipur train station was by far the nicest one we had encountered so far, including a spotless and mostly-empty free lounge for upper class passengers, which we took advantage of for about 90 minutes of waiting at the station.
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsWaitingJP.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsWaitingJP.jpg" width="45%"></a> <a href="/static/assets/img/blog/IndTrainsCoupeJP.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsCoupeJP.jpg" width="25.4%"></a></div><p></p>
 
@@ -114,7 +122,7 @@ Since we had arrived late, we made a quick walk up the platform, grabbed some sn
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/ShimlaTrainCurve.jpg" target="_blank"><img src="/static/assets/img/blog/ShimlaTrainCurve.jpg" width="32%"></a> <a href="/static/assets/img/blog/IndTrainsShimlaOtherTrain.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaOtherTrain.jpg" width="32%"></a> <a href="/static/assets/img/blog/IndTrainsShimlaNight.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaNight.jpg" width="32%"></a></div><p></p>
 
-It is a single-track route for its entire length, so passing can only happen at stations along the way with short stretches of dual track. We had a nice view of the engineer trading `one-way tokens` with the station employees along the way, which are used to ensure there is only one train on any one section of single track, according to the ever-helpful Seat61. According to the informational signs at stations along the route, the Kalka-Shimla Railway climbs 4,659 feet during its 60 mile run. It also crosses 864 bridges (many of them very small) and goes through 102 (or 107 if you believe a different sign) tunnels. At just 2 feet, 6 inches in width, it may be the narrowest-gauge tracks I've ridden on outside of an amusement park.
+It is a single-track route for its entire length, so passing can only happen at stations along the way with short stretches of dual track. We had a nice view of the engineer trading `one-way tokens` with the station employees along the way, which are used to ensure there is only one train on any one section of single track, according to the [ever-helpful Seat61](https://www.seat61.com/). According to the informational signs at stations along the route, the Kalka-Shimla Railway climbs 4,659 feet during its 60 mile run. It also crosses 864 bridges (many of them very small) and goes through 102 (or 107 if you believe a different sign) tunnels. At just 2 feet, 6 inches in width, it may be the narrowest-gauge tracks I've ridden on outside of an amusement park.
 
 ### 🚂  Shimla to Delhi on the Shivalik Deluxe Express and the Kalka Mail
 
@@ -128,7 +136,7 @@ We had a small stroke of luck in that the Kalka Mail was already at the platform
 
 We had originally planned to store our luggage at the train station and spend a final day exploring Delhi before heading to the airport for our evening flight to Tokyo. But after over 3 weeks of exploring India, including plenty of time in Delhi, we were pretty over it and decided to spend a bit on a day-use hotel room near the airport, which we headed straight to. We took Delhi's Airport Express Line, which is a crazy good deal at less than 1 USD per person for a spotless, uncrowded ride to the airport much faster than any taxi could go.
 
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Eating
+## <i id="eating" class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Eating
 
 We had seven meals either at train stations or onboard trains. Overall the food was always adequate and never got us sick. It was pretty inconsistent, both in form (one `veg cutlet` can be very different from another) and timing.
 
@@ -172,7 +180,7 @@ Typically we would find sealed paper packets of clean bedding at our berth when 
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsAC1quadKLK.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsAC1quadKLK.jpg" width="30%"></a><p><i>Professionally made beds!</i></p></div><p></p>
 
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Getting Scammed
+## <i id="scams" class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Getting Scammed
 
 ### 🚂  The Fake Ticket Checker
 
