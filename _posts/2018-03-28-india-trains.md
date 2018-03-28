@@ -14,9 +14,9 @@ hidden: false
 
 ---
 
-Before arriving in India, we had already taken long-distance trains in South Africa, Myanmar, Vietnam, and Thailand, and shorter trains in many other countries covering a total of 3,347 miles. During our 24 days in India, we took nine long-distance train rides, including five overnight journeys, and covered a total of 2,494 miles. Those 2,494 miles took XX hours and XX minutes to complete (though they were scheduled for only 79 hours and 41 minutes!).
+Before arriving in India, we had already taken long-distance trains in South Africa, Myanmar, Vietnam, and Thailand, and shorter trains in many other countries covering a total of 3,347 miles. During our 24 days in India, we took nine long-distance train rides, including five overnight journeys, and covered a total of 2,494 miles. Those 2,494 miles took 89 hours and 29 minutes to complete (though they were scheduled for only 79 hours and 41 minutes!).
 
-**OVERALL FEELINGS ABOUT IT**
+Overall, our train rides in India were fine, and almost certainly were more enjoyable than any other mode of getting around would have been. In total, we had 15 and a half hours of delays across our journeys, though most of that was the nine hour delay of our first trip, which luckily didn't set a precedent for the rest of them. When we lucked into a private space it felt luxurious, even though the bedding and service is still quite basic compared to some of the other trains we've taken. When we shared cabins it was really good that we had quality earplugs and eyemasks with us, as there don't seem to be any social norms about quiet hours, silenced cell phones, or keeping the lights off. Like everything else in India, we did feel we had to be a bit on-guard, mentally, as there was always the chance a food attendant would try to scam us, and we often couldn't keep our compartment door locked. But nothing truly bad happened, and we got everywhere we were trying to go!
 
 ## Our Route
 
@@ -104,11 +104,13 @@ It is a single-track route for its entire length, so passing can only happen at 
 
 ### 🚂  Shimla to Delhi on the Shivalik Deluxe Express and the Kalka Mail
 
-While we had to cover the same track between Shimla and Kalka on the way down as on the way up, we took the fancier Shivalik Deluxe Express (for 8 USD per ticket instead of 4 USD for the tickets up the mountain), which includes dinner, runs nearly non-stop, and has _much_ nicer seating inside, with fewer people in each coach.
+While we had to cover the same track between Shimla and Kalka on the way down as on the way up, we took the fancier Shivalik Deluxe Express (for 8 USD per ticket instead of 4 USD for the tickets up the mountain), which includes dinner, runs nearly non-stop, and has _much_ nicer seating inside, with fewer people in each coach. That extra cost was well worth it, especially as we ended up in a half-empty coach, with plenty of legroom and no one bothering us. We enjoyed the views for the first couple hours until it was completely dark, then had our small dinner and relaxed until we reached Kalka, on time.
+
+We had a small stroke of luck in that the Kalka Mail was already at the platform, so we were able to transfer directly even though it wasn't scheduled to depart for 90 more minutes. We were again in AC1, but were not lucky enough to score the single coupe cabin on the train. We departed Kalka a few minutes before as the only passengers in our 4-bed compartment, but the other two joined a short while later at our next stop. We went straight to sleep as soon as we could with an alarm set for 30 minutes before our scheduled arrival. Amazingly, when that alarm went off we were actually running _early_ and only a few kilometers from our destination of Old Delhi Junction. Of course, nothing can be that easy, and we sat in place for 45 minutes before pulling into the platform.
 
 ### 🚂  (BONUS) Getting to the Delhi Airport
 
-TEXT
+We had originally planned to store our luggage at the train station and spend a final day exploring Delhi before heading to the airport for our evening flight to Tokyo. But after over 3 weeks of exploring India, including plenty of time in Delhi, we were pretty over it and decided to spend a bit on a day-use hotel room near the airport, which we headed straight to. We took Delhi's Airport Express Line, which is a crazy good deal at less than 1 USD per person for a spotless, uncrowded ride to the airport much faster than any taxi could go.
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Eating
 
@@ -136,7 +138,11 @@ On our quick walk between trains we stopped at a food stall at Kalka Station and
 
 ### 🚂  Onboard the Shivalik Deluxe Express
 
-TEXT
+While the Shivalik Deluxe Express is a narrow-guage "toy train" just like all the others on the Shimla/Kalka route, its `Deluxe` status and slightly higher fare qualifies it for free dinner from the Indian Railway System. While our rice, daal, cauliflower, and roti was very basic, it filled us up and didn't get us sick, so we really can't complain. 
+
+### 🚂  At Old Delhi Junction Station (DLI)
+
+In a stark contrast to our experience at NDLS at the start of our circuit, our final stop was DLI, where there was both a McDonald's and cheap Indian food available. We disembarked our final train early in the morning and needed some breakfast before heading toward the airport, and it was a really lovely surprise that it had better facilities than its busier sister station a few blocks away. 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Sleeping
 
