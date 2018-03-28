@@ -7,7 +7,7 @@ keywords: "Asia, India, Delhi, New Delhi, Varanasi, Agra, Jaipur, Jaisalmer, Kal
 categories: [Asia]
 tags: India
 icon: icon-html
-image: blog/IndTrainsShimlaTurn.jpg
+image: blog/ShimlaTrainCurve.jpg
 author: Nate
 country: India
 hidden: false
@@ -112,7 +112,7 @@ We first took the Shatabdi Express to Kalka. Since it was a Shatabdi train, one 
 
 Since we had arrived late, we made a quick walk up the platform, grabbed some snacks from a food stall, and then got onboard our next train a couple minutes before it pulled out of the station. All of the trains that run between Kalka and Shimla are "toy trains", so-named because they run small coaches on narrow-gauge track, slowly winding their way up the mountain range. We took the Himalayan Queen up, which is the most basic of the trains running this route, with an interior reminiscent of a 1980s school bus. Very different from any of the other trains we've been on in India, it was really a sightseeing experience. Which is good, since we were onboard for 6 hours to cover just 60 miles of track!
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/IndTrainsShimlaTurn.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaTurn.jpg" width="32%"></a> <a href="/static/assets/img/blog/IndTrainsShimlaOtherTrain.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaOtherTrain.jpg" width="32%"></a> <a href="/static/assets/img/blog/IndTrainsShimlaNight.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaNight.jpg" width="32%"></a></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/ShimlaTrainCurve.jpg" target="_blank"><img src="/static/assets/img/blog/ShimlaTrainCurve.jpg" width="32%"></a> <a href="/static/assets/img/blog/IndTrainsShimlaOtherTrain.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaOtherTrain.jpg" width="32%"></a> <a href="/static/assets/img/blog/IndTrainsShimlaNight.jpg" target="_blank"><img src="/static/assets/img/blog/IndTrainsShimlaNight.jpg" width="32%"></a></div><p></p>
 
 It is a single-track route for its entire length, so passing can only happen at stations along the way with short stretches of dual track. We had a nice view of the engineer trading `one-way tokens` with the station employees along the way, which are used to ensure there is only one train on any one section of single track, according to the ever-helpful Seat61. According to the informational signs at stations along the route, the Kalka-Shimla Railway climbs 4,659 feet during its 60 mile run. It also crosses 864 bridges (many of them very small) and goes through 102 (or 107 if you believe a different sign) tunnels. At just 2 feet, 6 inches in width, it may be the narrowest-gauge tracks I've ridden on outside of an amusement park.
 
