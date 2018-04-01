@@ -390,6 +390,13 @@
   to: 135.494,34.7015
   type: train
   
+- route: Osaka - Kyoto
+  start_date: April 1, 2018
+  end_date: April 1, 2018
+  from: 135.494,34.7015
+  to: 135.758,34.986
+  type: train
+  
 - route: Osaka - Hiroshima
   start_date: April 4, 2018
   end_date: April 4, 2018
