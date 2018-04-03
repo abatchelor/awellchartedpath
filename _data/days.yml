@@ -1499,3 +1499,10 @@
   drive: 0
   boat: 0
   walk: 7.7
+
+- day: April 3, 2018
+  fly: 0
+  train: 55
+  drive: 0
+  boat: 0
+  walk: 9
