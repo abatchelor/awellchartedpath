@@ -1520,3 +1520,10 @@
   drive: 0
   boat: 0
   walk: 8.4
+
+- day: April 6, 2018
+  fly: 0
+  train: 1
+  drive: 0
+  boat: 0
+  walk: 10.2
