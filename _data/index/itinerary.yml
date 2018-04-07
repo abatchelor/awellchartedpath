@@ -254,11 +254,20 @@
   city: 
     - Budapest
   start_date: June 10, 2018
-  end_date: June 14, 2018
+  end_date: June 13, 2018
   center: 18.421,47.862
   zoom: 4.4
   icon: fa-suitcase
   
+- country: United States
+  city: 
+    - Avery County, NC
+  start_date: June 14, 2018
+  end_date: June 18, 2018
+  center: -80.9,35.85
+  zoom: 5
+  icon: fa-suitcase
+
 - country: Czech Republic
   city: 
     - Prague

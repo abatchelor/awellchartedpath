@@ -565,12 +565,33 @@
   to: 19.025,47.499
   type: train
 
-- route: Budapest - Prague
+- route: Budapest - Durham
   start_date: June 14, 2018
-  end_date: June 18, 2018
+  end_date: June 14, 2018
   from: 19.025,47.499
+  to: -78.785,35.885
+  type: flight
+  
+- route: Durham - Banner Elk
+  start_date: June 14, 2018
+  end_date: June 14, 2018
+  from: -78.785,35.885 
+  to: -81.872,36.163
+  type: bus
+  
+- route: Banner Elk - Charlotte
+  start_date: June 18, 2018
+  end_date: June 19, 2018
+  from: -81.872,36.163
+  to: -80.950,35.211
+  type: bus
+  
+- route: Charlotte - Prague
+  start_date: June 18, 2018
+  end_date: June 19, 2018
+  from: -80.950,35.211
   to: 14.436,50.083
-  type: other
+  type: flight
 
 - route: Prague - Berlin
   start_date: June 25, 2018
