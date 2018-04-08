@@ -1527,3 +1527,17 @@
   drive: 0
   boat: 0
   walk: 10.2
+
+- day: April 7, 2018
+  fly: 0
+  train: 12.9
+  drive: 0
+  boat: 0
+  walk: 9
+
+- day: April 8, 2018
+  fly: 0
+  train: 3.1
+  drive: 0
+  boat: 0
+  walk: 10.3
