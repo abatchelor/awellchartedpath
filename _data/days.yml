@@ -1541,3 +1541,10 @@
   drive: 0
   boat: 0
   walk: 10.3
+
+- day: April 9, 2018
+  fly: 0
+  train: 9.5
+  drive: 0
+  boat: 0
+  walk: 9.4
