@@ -23,7 +23,6 @@ During our time in Japan we took eight Shinkansen `bullet` trains, the speedy **
 - [Our Route](#route)
 - [Getting Japan Rail Passes](#tickets)
 - [Making Seat Reservations](#seats)
-- [Our Journeys](#journeys)
 - [Eating](#eating)
 - [JR Pass Value](#value)
 
@@ -31,7 +30,7 @@ During our time in Japan we took eight Shinkansen `bullet` trains, the speedy **
 
 While we flew into and out of Tokyo-Narita airport, getting around Japan is so easy that we didn't actually begin our exploration in Tokyo. Our overnight flight landed before 7am, so we took advantage of that time before we'd be able to check in anywhere to get ourselves from the airport all the way to Osaka. We also wanted to stay in only a few places so we would feel more settled in each spot, and could easily utilize the rail passes for day trips to other interesting cities. 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/JRsAnimation.gif" target="_blank"><img src="/static/assets/img/blog/JRsAnimation.gif" width="45%"></a><p><i>CAPTION.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/JRsAnimation.gif" target="_blank"><img src="/static/assets/img/blog/JRsAnimation.gif" width="45%"></a></div><p></p>
 
 Our final route was:
 
@@ -55,7 +54,7 @@ Unfortunately, one of the few downsides of a full year of travel is that a trust
 
 While it's permissible to just board any unreserved seat car and try to find a seat, we wanted to avoid that for our longer trips since we were in Japan during the height of cherry-blossom season and a number of trains were standing-room-only in the unreserved cars. 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/JRsEmptyShin.jpg" target="_blank"><img src="/static/assets/img/blog/JRsEmptyShin.jpg" width="45%"></a> <a href="/static/assets/img/blog/JRsNicerSeats.jpg" target="_blank"><img src="/static/assets/img/blog/JRsNicerSeats.jpg" width="25.4%"></a><p><i>CAPTION.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/JRsEmptyShin.jpg" target="_blank"><img src="/static/assets/img/blog/JRsEmptyShin.jpg" width="45%"></a> <a href="/static/assets/img/blog/JRsNicerSeats.jpg" target="_blank"><img src="/static/assets/img/blog/JRsNicerSeats.jpg" width="25.4%"></a><p><i>Left: Shinkansen Hikari. Right: Shinkansen Sakura's regular reserved seats car, nicer than the other Shinkansen trains.</i></p></div><p></p>
 
 ## 🚅 At Narita Airport (NRT)
 
