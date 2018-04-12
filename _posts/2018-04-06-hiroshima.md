@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hiroshima: Past and Present"
-date: 2018-04-11
+date: 2018-04-12
 desc: "We made an overnight stop in Hiroshima so we could visit the atomic bombing site and its museum, and found we loved the city itself as well (and its food!)."
 keywords: "Asia, Japan, Hiroshima, Atomic bomb, ramen, What to Do, RTW"
 categories: [Asia]
