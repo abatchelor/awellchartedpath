@@ -14,7 +14,7 @@ country: China
 
 We are two-thirds of the way through our round-the-world adventure and I've been doing some thinking about how my decisions of what [I originally decided to pack and not pack](/blog/2017/08/Packing/) have served me so far. 
 
-## What I Wish I Left Behind
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i>  What I Wish I Left Behind
 
 - 1 Water bottle– collapsible is really wonderful. We used [Nate's collapsible water bottle](https://www.amazon.com/Vapur-10159-Parent-Element-Bottle/dp/B00GDEP85Y) all the time and [my collapsible water bottle](https://www.amazon.com/Nomader-Collapsible-Water-Bottle-Proof/dp/B01AIKRRTS) almost not at all. It developed a funny smell after the first time we had to use the iodine treatment on water in it. That faded over time but it just wasn't as nice. 
 - 1 Collapsible cup– a nice <a href="https://www.amazon.com/gp/product/B00HWNNLCW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HWNNLCW&linkCode=as2&tag=awellchartedp-20&linkId=ed7917b4b18a75fa20529cfb5d15d025" target="_blank"> Sea to Summit</a> cup. We have never used these. 
@@ -27,7 +27,7 @@ We are two-thirds of the way through our round-the-world adventure and I've been
 - 1 Parachute picnic blanket - We ended up losing this while we were in Brazil and we never replaced it or really missed it. 
 - Door stop - We brought this to feel a little more secure in hotels or in Airbnbs but we used it twice and probably didn't even need it then. Plus, sometimes the airport security thinks it could be a weapon and would go digging through our bag trying to find it and then would have to try to figure out what it was. 
 
-## What Has Gone Above and Beyond Expectations 
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i>  What Has Gone Above and Beyond Expectations 
 
 - 1 Sarong – I purchased <a href="https://www.amazon.com/gp/product/B000BWHJQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BWHJQU&linkCode=as2&tag=awellchartedp-20&linkId=7a4dc873261814ce4af58d027a8c565b" target="_blank"> this one</a>  in advance with every intention of replacing it with a more interesting one along the way but I ended up loving it so much that I never did. I was perfect as a scarf, as a blanket on cold buses, as a towel, or as a picnic blanket once I lost our other picnic blanket. 
 - Washing Bag - <a href="https://www.amazon.com/gp/product/B00BUI7HFC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BUI7HFC&linkCode=as2&tag=awellchartedp-20&linkId=ff0d05dbaca92cb4587c0b243a313467" target="_blank"> This </a> is a luxury but we don't plan to send our laundry out and washing our clothes in small sinks seemed onerous. Many of the AirBnBs we've looked at have a washing machine and so in those places I'll be able to leave this packed up. 
@@ -37,7 +37,7 @@ I can't say enough how handy this ended up being. I still hate doing laundry by 
 - Bug Spray Stick- We got two of [these](https://www.amazon.com/Repel-Sportsman-Insect-Repellent-1-Ounce/dp/B0081UBQV8) and our second on is still going strong. We use them constantly, literally every day we were in SE Asia, and they are wonderful. 
 - 1 Travel vest– I thought I might end up regretting  <a href="https://www.exofficio.com/products/details/womens-flyq-lite-vest-S15?utm_term=613543815712&mr:referralID=80cf379a-b0a0-11e6-b294-0050569406b5&gclid=CjwKEAiA9s_BBRCL3ZKWsfblgS8SJACbST7DzlppQsKrbAYZwo7vAQyD8dMWgKAPS4gES5wXvaabJBoClmLw_wcB" target="_blank"> my travel vest</a> but I loved it. I wore it on every bus and every flight in South America before it got too hot for it. Once back in cooler weather, the vest came back out, sometimes for planes and sometimes just to act as another layer.  
 
-## What I Picked-Up Along the Way
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> What I Picked-Up Along the Way
 
 - Toilet paper - Everywhere we went I kept stocking up on toilet paper. I just took whatever partial roll was left at our hotel or Airbnb whenever I ran out. You _will_ need toilet paper almost everywhere. I never when out without it. I kept mine in a Ziploc bag so it didn't get destroyed in the backpack as well and that worked perfectly. 
 - Wet wipes - I originally picked up a big pack in Bangkok to take to my silent meditation retreat but they ended up being most useful on all our overnight trains in India as a quick and easy shower alternative. 
