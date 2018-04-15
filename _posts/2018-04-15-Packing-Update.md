@@ -22,6 +22,8 @@ country: Planning
  
 I chose the <a href="https://www.amazon.com/gp/product/B014EBLUXG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014EBLUXG&linkCode=as2&tag=awellchartedp-20&linkId=6c5d1e0c75fa4ee9989cea2d5aa96629" target="_blank"> Osprey Farpoint 55</a> with a zip off day pack. Before we left, Nate and I used the day pack regularly and it was the perfect size for taking to baseball games, picnics, or day trips. The backpack itself is a good size for a carry-on and there is a cover for the straps that make it easy to store. It is bigger than is absolutely necessary but I am also taking more things than is absolutely necessary, so it all works out.
 When fully packed with the daypack attached my bag weighed between 20-25 lbs. With the hip belt on, it was comfortable and not tough on my shoulders.
+
+_My backpack has worked out great. I wish the day pack had better ventilation, it will make you hot and sweaty wearing it around all day, but overall very happy with it._
  
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Clothing
 
@@ -123,7 +125,17 @@ _This was great but it broke about 2 months in and we didn't replace it._
 - 1 phone charger
 - 1 plug adapter
 - 1 Ipad- I plan to try to learn some new skills, work on this blog, and generally will want to entertain myself at the same time Nate is using his computer. I really considered leaving this at home but hopefully it will pay off not to have to share this particular item.
+
+
+_Other things I got along the way..._
+
+_-Super thin cotton pants with elephants on them in Myanmar. I wore them all the time even though it was super touristy but tossed them in India because they weren't great quality and I didn't plan to wear them in the places left on our itinerary. 
+- Wrap around pants in Cambodia. They are ubiquitous there and even though they are pretty impractical, they were great for the beaches in Thailand. 
+- Two dresses and a romper from Uniqlo when we got to Japan to help me feel less like the backparker that I am heading into our time in Europe._ 
  
 ## The Sheet
 
 Because for everything I do, if it can be done using Google Sheets, then I use Google Sheet. You can download my female packing list <a href="https://docs.google.com/spreadsheets/d/1hDvC-or6HYaVn2WPTCsz6aHSmUGdEe_7AqqDoWZ023o/copy" target="_blank"> here</a>.
+
+
+
