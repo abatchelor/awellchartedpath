@@ -15,6 +15,7 @@ country: China
 We are two-thirds of the way through our round-the-world adventure and I've been doing some thinking about how my decisions of what [I originally decided to pack and not pack](/blog/2017/08/Packing/) have served me so far. 
 
 ## What I Wish I Left Behind
+
 - 1 Water bottle– collapsible is really wonderful. We used [Nate's collapsible water bottle](https://www.amazon.com/Vapur-10159-Parent-Element-Bottle/dp/B00GDEP85Y) all the time and [my collapsible water bottle](https://www.amazon.com/Nomader-Collapsible-Water-Bottle-Proof/dp/B01AIKRRTS) almost not at all. It developed a funny smell after the first time we had to use the iodine treatment on water in it. That faded over time but it just wasn't as nice. 
 - 1 Collapsible cup– a nice <a href="https://www.amazon.com/gp/product/B00HWNNLCW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HWNNLCW&linkCode=as2&tag=awellchartedp-20&linkId=ed7917b4b18a75fa20529cfb5d15d025" target="_blank"> Sea to Summit</a> cup. We have never used these. 
 - 1 Phone photo tripod- <a href="https://www.amazon.com/gp/product/B009GHYMB6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009GHYMB6&linkCode=as2&tag=awellchartedp-20&linkId=e497e858e01bd2f0ebfe8d1e427c3493" target="_blank"> This</a> is our alternative to the selfie stick and having a stranger take photos of us. This was great while we were in South Africa but it broke shortly after that and by the time we got to Chile, I just had to throw it away. 
@@ -22,7 +23,6 @@ We are two-thirds of the way through our round-the-world adventure and I've been
 - Chaco sandals – I loved them all the way up to the point that we got to Myanmar and one of them cracked down the middle. They have a warranty that I could potentially use to replace them but getting them to the US to see if they qualified and then getting them back at some point along the way was not a real option for me. I kept them together a few more weeks with duct tape but after that wore through they ended up in the trash. I think I would still take them again but I am also really disappointed that they didn't make it the full year. 
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/PackingChaco1.jpg" target="_blank"><img src="/static/assets/img/blog/PackingChaco1.jpg" width="30%"></a> <a href="/static/assets/img/blog/PackingChaco2.jpg" target="_blank"><img src="/static/assets/img/blog/PackingChaco2.jpg" width="30%"></a><p><i></i></p></div><p></p>
-
  
 - 1 Parachute picnic blanket - We ended up losing this while we were in Brazil and we never replaced it or really missed it. 
 - Door stop - We brought this to feel a little more secure in hotels or in Airbnbs but we used it twice and probably didn't even need it then. Plus, sometimes the airport security thinks it could be a weapon and would go digging through our bag trying to find it and then would have to try to figure out what it was. 
@@ -39,6 +39,8 @@ I can't say enough how handy this ended up being. I still hate doing laundry by 
 
 ## What I Picked-Up Along the Way
 
+- Toilet paper - Everywhere we went I kept stocking up on toilet paper. I just took whatever partial roll was left at our hotel or Airbnb whenever I ran out. You _will_ need toilet paper almost everywhere. I never when out without it. I kept mine in a Ziploc bag so it didn't get destroyed in the backpack as well and that worked perfectly. 
+- Wet wipes - I originally picked up a big pack in Bangkok to take to my silent meditation retreat but they ended up being most useful on all our overnight trains in India as a quick and easy shower alternative. 
 - Another sundress and a pair of cotton pants from Target in Australia 
 - Super lightweight cotton pants with elephants on them in Myanmar. They were only $5 and even though they are a super touristy thing to wear, they saved me when it was just too hot but shorts wouldn't be appropriate. I left these behind in India though. 
 
@@ -53,7 +55,6 @@ I can't say enough how handy this ended up being. I still hate doing laundry by 
 We also picked up plenty of toiletries along the way. We found that we could get Dove soap absolutely everywhere. My shampoo bar went a long way but since I finished it we've been just using whatever we can find at the grocery store. My hair doesn't love it but it's cheap and easy. 
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/PackingBackpack.jpg" target="_blank"><img src="/static/assets/img/blog/PackingBackpack.jpg" width="30%"></a> <a href="/static/assets/img/blog/PackingDaypack.jpg" target="_blank"><img src="/static/assets/img/blog/PackingDaypack.jpg" width="30%"></a><p><i></i></p></div><p></p>
-
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> The Backpack
  
