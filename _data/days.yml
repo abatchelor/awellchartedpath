@@ -1611,3 +1611,10 @@
   drive: 0
   boat: 0
   walk: 9.6
+
+- day: April 19, 2018
+  fly: 0000
+  train: 3.9
+  drive: 15
+  boat: 0.7
+  walk: 8.2
