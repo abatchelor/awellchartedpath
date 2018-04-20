@@ -1613,8 +1613,15 @@
   walk: 9.6
 
 - day: April 19, 2018
-  fly: 0000
+  fly: 1147
   train: 3.9
   drive: 15
   boat: 0.7
-  walk: 8.2
+  walk: 9
+
+- day: April 20, 2018
+  fly: 4365
+  train: 0
+  drive: 23.8
+  boat: 0
+  walk: 0000
