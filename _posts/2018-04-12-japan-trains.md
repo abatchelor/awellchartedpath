@@ -7,7 +7,7 @@ keywords: "Asia, Japan, Osaka, Tokyo, Narita, Kyoto, Kobe, Hiroshima, Shinkansen
 categories: [Asia]
 tags: Japan
 icon: icon-html
-image: blog/JRsLineup.jpg
+image: blog/JRsShinsWaiting.jpg
 author: Nate
 country: Japan
 hidden: false
