@@ -1632,3 +1632,10 @@
   drive: 0
   boat: 0
   walk: 6
+
+- day: April 22, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 8

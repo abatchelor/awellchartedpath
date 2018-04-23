@@ -432,6 +432,34 @@
   to: 35.995,31.723
   type: rtw
 
+- route: Amman - Petra
+  start_date: April 23, 2018
+  end_date: April 23, 2018
+  from: 35.91,31.967
+  to: 35.468,30.326
+  type: bus
+
+- route: Petra - Wadi Rum
+  start_date: April 26, 2018
+  end_date: April 26, 2018
+  from: 35.468,30.326
+  to: 35.419,29.574
+  type: bus
+
+- route: Wadi Rum - Amman
+  start_date: April 27, 2018
+  end_date: April 27, 2018
+  from: 35.419,29.574
+  to: 35.91,31.967
+  type: bus
+
+- route: Amman - Dead Sea
+  start_date: April 28, 2018
+  end_date: April 28, 2018
+  from: 35.91,31.967
+  to: 35.582,31.699
+  type: bus
+
 - route: Amman - Barcelona
   start_date: April 29, 2018
   end_date: April 29, 2018
