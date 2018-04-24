@@ -1639,3 +1639,17 @@
   drive: 0
   boat: 0
   walk: 8
+
+- day: April 23, 2018
+  fly: 0
+  train: 0
+  drive: 153
+  boat: 0
+  walk: 12.85
+
+- day: April 24, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 14.25
