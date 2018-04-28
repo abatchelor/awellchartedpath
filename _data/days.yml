@@ -1674,3 +1674,10 @@
   drive: 264
   boat: 0
   walk: 4
+
+- day: April 28, 2018
+  fly: 0
+  train: 0
+  drive: 70.5
+  boat: 0
+  walk: 2.7
