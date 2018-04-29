@@ -90,3 +90,7 @@ hidden: true
 </div>
 
 <div style="width: 100%; overflow: auto;"></div>
+
+## Right-justified Vertical Image
+
+<div style="float: right; text-align: right; width: 28%;"><a href="/static/assets/img/blog/AmmanUmbrellaAlley.jpg" target="_blank"><img src="/static/assets/img/blog/AmmanUmbrellaAlley.jpg" width="95%"></a><p><i>CAPTION.</i></p></div><p></p>
