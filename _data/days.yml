@@ -1716,3 +1716,10 @@
   drive: 0
   boat: 0
   walk: 7.5
+
+- day: May 4, 2018
+  fly: 0
+  train: 0
+  drive: 2.4
+  boat: 0
+  walk: 5.2
