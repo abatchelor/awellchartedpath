@@ -1723,3 +1723,17 @@
   drive: 2.4
   boat: 0
   walk: 5.2
+
+- day: May 5, 2018
+  fly: 0
+  train: 1.4
+  drive: 0
+  boat: 0
+  walk: 8.2
+
+- day: May 6, 2018
+  fly: 0
+  train: 2
+  drive: 0
+  boat: 0
+  walk: 6.7
