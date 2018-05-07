@@ -1737,3 +1737,10 @@
   drive: 0
   boat: 0
   walk: 6.7
+
+- day: May 7, 2018
+  fly: 433
+  train: 1
+  drive: 105
+  boat: 0
+  walk: 3.9
