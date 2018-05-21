@@ -1828,3 +1828,10 @@
   drive: 0
   boat: 0
   walk: 8.4
+
+- day: May 20, 2018
+  fly: 0
+  train: 2.9
+  drive: 4
+  boat: 0
+  walk: 6
