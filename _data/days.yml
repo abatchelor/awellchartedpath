@@ -1832,6 +1832,13 @@
 - day: May 20, 2018
   fly: 0
   train: 2.9
-  drive: 4
+  drive: 5.2
   boat: 0
   walk: 6
+
+- day: May 21, 2018
+  fly: 0
+  train: 2.9
+  drive: 3.85
+  boat: 0
+  walk: 5.4
