@@ -1856,3 +1856,10 @@
   drive: 0
   boat: 0
   walk: 8.5
+
+- day: May 24, 2018
+  fly: 0
+  train: 265.4
+  drive: 7.3
+  boat: 0
+  walk: 4
