@@ -523,17 +523,10 @@
   to: 9.960,44.109
   type: bus
 
-- route: Lerici - Pisa
+- route: Sarzana - Florence
   start_date: May 26, 2018
   end_date: May 26, 2018
   from: 9.960,44.109
-  to: 10.399,43.708
-  type: train
-
-- route: Pisa - Florence
-  start_date: May 26, 2018
-  end_date: May 26, 2018
-  from: 10.399,43.708
   to: 11.247,43.777
   type: train
 
