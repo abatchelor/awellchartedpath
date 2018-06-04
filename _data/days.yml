@@ -1898,3 +1898,38 @@
   drive: 1.8
   boat: 0
   walk: 9
+
+- day: May 30, 2018
+  fly: 0
+  train: 127
+  drive: 1.5
+  boat: 0
+  walk: 8.8
+
+- day: May 31, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 10.3
+
+- day: June 1, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 10.4
+
+- day: June 2, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 6.8
+
+- day: June 3, 2018
+  fly: 0
+  train: 480.8
+  drive: 0
+  boat: 0
+  walk: 2.3
