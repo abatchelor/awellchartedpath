@@ -1933,3 +1933,10 @@
   drive: 0
   boat: 0
   walk: 2.3
+
+- day: June 4, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 9
