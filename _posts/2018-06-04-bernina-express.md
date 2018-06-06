@@ -7,7 +7,7 @@ keywords: "Europe, Italy, Venice, Tirano, Chur, Switzerland, Basel, Bernina Expr
 categories: [Europe]
 tags: Italy
 icon: icon-html
-image: blog/.jpg
+image: blog/BerninaGlacierLake2.jpg
 author: Nate
 country: Italy
 hidden: false
@@ -57,12 +57,12 @@ We ended up paying 106 USD per person for all four train rides put together, inc
 
 Amy had made sure to pack the laptop so it would be easily accessible so she could get some project work done during the four hour ride from Tirano to Chur. As it would turn out, both our sets of eyes were glued to the windows for every minute of it as the scenery gradually changed as we climbed out of sunny Italy, coasted past glaciers above the tree line, and then descended along Swiss rivers and lakes all the way to Chur. It was an incredible journey, and absolutely worth doing–and probably worth doing again in the winter to see even more snow!
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/BerninaCircleClimb.jpg" target="_blank"><img src="/static/assets/img/blog/BerninaCircleClimb.jpg" width="45%"></a><p><i>Circling up the Brusio Spiral Viaduct, where the train enters beneath one of the arches holding up its own track.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/BerninaCircleClimb.jpg" target="_blank"><img src="/static/assets/img/blog/BerninaCircleClimb.jpg" width="65%"></a><p><i>Circling up the Brusio Spiral Viaduct, where the train enters beneath one of the arches holding up its own track.</i></p></div><p></p>
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/BerninaGlacierLake2.jpg" target="_blank"><img src="/static/assets/img/blog/BerninaGlacierLake2.jpg" width="45%"></a> <a href="/static/assets/img/blog/BerninaGlacierLake.jpg" target="_blank"><img src="/static/assets/img/blog/BerninaGlacierLake.jpg" width="45%"></a><p><i>Glacial Lakes beside the Bernina Pass.</i></p></div><p></p>
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/BerninaWatershedSign.jpg" target="_blank"><img src="/static/assets/img/blog/BerninaWatershedSign.jpg" width="45%"></a><p><i>A sign marking the peak's watershed divide: water on the left flows into the Mediterranean while water on the right flows into the Adriatic.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/BerninaWatershedSign.jpg" target="_blank"><img src="/static/assets/img/blog/BerninaWatershedSign.jpg" width="65%"></a><p><i>A sign marking the peak's watershed divide: water on the left flows into the Mediterranean while water on the right flows into the Adriatic.</i></p></div><p></p>
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/BerninaWaterfallClose.jpg" target="_blank"><img src="/static/assets/img/blog/BerninaWaterfallClose.jpg" width="45%"></a> <a href="/static/assets/img/blog/BerninaWaterfallCouple.jpg" target="_blank"><img src="/static/assets/img/blog/BerninaWaterfallCouple.jpg" width="25.4%"></a><p><i>Swiss waterfalls.</i></p></div><p></p>
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/BerninaRiverJunction.jpg" target="_blank"><img src="/static/assets/img/blog/BerninaRiverJunction.jpg" width="45%"></a><p><i>The meeting point of the Upper Rhine and Lower Rhine.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/BerninaRiverJunction.jpg" target="_blank"><img src="/static/assets/img/blog/BerninaRiverJunction.jpg" width="65%"></a><p><i>The meeting point of the Upper Rhine and Lower Rhine.</i></p></div><p></p>
