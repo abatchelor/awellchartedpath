@@ -1947,3 +1947,10 @@
   drive: 0
   boat: 0
   walk: 8.4
+
+- day: June 6, 2018
+  fly: 0
+  train: 353.4
+  drive: 0
+  boat: 0
+  walk: 1.4
