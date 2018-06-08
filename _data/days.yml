@@ -1954,3 +1954,17 @@
   drive: 0
   boat: 0
   walk: 1.4
+
+- day: June 7, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 7.5
+
+- day: June 8, 2018
+  fly: 0
+  train: 0
+  drive: 39
+  boat: 0
+  walk: 13.8
