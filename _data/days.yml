@@ -1968,3 +1968,10 @@
   drive: 39
   boat: 0
   walk: 13.8
+
+- day: June 9, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 8.8
