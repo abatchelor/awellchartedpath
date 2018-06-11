@@ -1975,3 +1975,10 @@
   drive: 0
   boat: 0
   walk: 8.8
+
+- day: June 10, 2018
+  fly: 0
+  train: 362.7
+  drive: 0
+  boat: 0
+  walk: 6.3
