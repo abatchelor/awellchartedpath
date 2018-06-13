@@ -1982,3 +1982,24 @@
   drive: 0
   boat: 0
   walk: 6.3
+
+- day: June 11, 2018
+  fly: 0
+  train: 1.5
+  drive: 0
+  boat: 0
+  walk: 7
+
+- day: June 12, 2018
+  fly: 0
+  train: 2.8
+  drive: 0
+  boat: 0
+  walk: 8.4
+
+- day: June 13, 2018
+  fly: 0
+  train: 5.3
+  drive: 0
+  boat: 0
+  walk: 9.3
