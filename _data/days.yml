@@ -2003,3 +2003,10 @@
   drive: 0
   boat: 0
   walk: 9.3
+
+- day: June 14, 2018
+  fly: 5087
+  train: 0
+  drive: 225
+  boat: 0
+  walk: 1.4
