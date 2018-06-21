@@ -2041,7 +2041,21 @@
 
 - day: June 19, 2018
   fly: 4825
-  train: 4
+  train: 5.9
   drive: 4.9
+  boat: 0
+  walk: 5.5
+
+- day: June 20, 2018
+  fly: 0
+  train: 5.28
+  drive: 0
+  boat: 0
+  walk: 6.1
+
+- day: June 21, 2018
+  fly: 0
+  train: 3.86
+  drive: 0
   boat: 0
   walk: 0000
