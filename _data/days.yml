@@ -2059,3 +2059,10 @@
   drive: 0
   boat: 0
   walk: 7.5
+
+- day: June 22, 2018
+  fly: 0
+  train: 2.25
+  drive: 0
+  boat: 0
+  walk: 9.1
