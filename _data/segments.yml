@@ -635,19 +635,12 @@
   to: -6.251,53.422
   type: flight
 
-- route: Dublin - Port for London
+- route: Dublin - London
   start_date: July 13, 2018
   end_date: July 13, 2018
-  from: -6.196, 53.345
-  to: -4.628, 53.31
-  type: boat
-
-- route: Port for London - London
-  start_date: July 13, 2018
-  end_date: July 13, 2018
-  from: -4.628, 53.31
-  to: -0.133737, 51.528245
-  type: train
+  from: -6.251,53.422
+  to: 0.0481,51.505
+  type: flight
 
 - route: London - Rotterdam
   start_date: July 20, 2018
