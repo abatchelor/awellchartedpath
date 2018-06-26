@@ -2073,3 +2073,17 @@
   drive: 0
   boat: 0
   walk: 10.7
+
+- day: June 24, 2018
+  fly: 0
+  train: 6.36
+  drive: 0
+  boat: 0
+  walk: 4
+
+- day: June 25, 2018
+  fly: 0
+  train: 244.7
+  drive: 2.5
+  boat: 0
+  walk: 5.2
