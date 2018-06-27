@@ -2094,3 +2094,10 @@
   drive: 0
   boat: 0
   walk: 9.7
+
+- day: June 27, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0.8
+  walk: 7.1
