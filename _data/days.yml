@@ -2108,3 +2108,11 @@
   drive: 0
   boat: 11.6
   walk: 5.1
+
+- day: June 29, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 12.5
+  bike: 5.66
