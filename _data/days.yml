@@ -2101,3 +2101,10 @@
   drive: 0
   boat: 0.8
   walk: 7.1
+
+- day: June 28, 2018
+  fly: 0
+  train: 387
+  drive: 0
+  boat: 11.6
+  walk: 5.1
