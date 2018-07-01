@@ -2116,3 +2116,11 @@
   boat: 0
   walk: 12.5
   bike: 5.66
+
+- day: June 30, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 9.2
+  bike: 4.2
