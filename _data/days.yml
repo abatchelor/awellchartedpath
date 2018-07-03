@@ -2130,5 +2130,13 @@
   train: 0
   drive: 0
   boat: 0
-  walk: 8.5
-  bike: 1.1
+  walk: 8.6
+  bike: 1.2
+
+- day: July 2, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 6.5
+  bike: 5
