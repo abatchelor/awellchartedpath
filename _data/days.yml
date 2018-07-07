@@ -2164,3 +2164,11 @@
   boat: 0
   walk: 7.9
   bike: 0.8
+
+- day: July 6, 2018
+  fly: 796
+  train: 0
+  drive: 21
+  boat: 0
+  walk: 7
+  bike: 2.4
