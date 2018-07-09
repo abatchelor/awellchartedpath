@@ -2180,3 +2180,11 @@
   boat: 0
   walk: 8.5
   bike: 3
+
+- day: July 8, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 8.9
+  bike: 2.4
