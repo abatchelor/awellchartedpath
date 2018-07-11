@@ -2196,3 +2196,11 @@
   boat: 0
   walk: 5.6
   bike: 1
+
+- day: July 10, 2018
+  fly: 0
+  train: 0
+  drive: 6.7
+  boat: 0
+  walk: 6
+  bike: 1.5
