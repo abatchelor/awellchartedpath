@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Copenhagen: Exploring my Roots"
+title: "Copenhagen: Exploring My Roots"
 date: 2018-07-10
 desc: "We spent over a week exploring Copenhagen, trying some Danish cuisine, and enjoying the outdoors."
 keywords: "Europe, Denmark, Danmark, Copenhagen, Baest, smorrebrod, What to Do, RTW"
