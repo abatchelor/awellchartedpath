@@ -2202,5 +2202,13 @@
   train: 0
   drive: 6.7
   boat: 0
-  walk: 6
+  walk: 7
   bike: 1.5
+
+- day: July 11, 2018
+  fly: 0
+  train: 0
+  drive: 0
+  boat: 0
+  walk: 5
+  bike: 3.5
