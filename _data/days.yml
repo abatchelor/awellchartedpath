@@ -2219,3 +2219,10 @@
   drive: 0
   boat: 0
   walk: 7.7
+
+- day: July 13, 2018
+  fly: 463
+  train: 15
+  drive: 12
+  boat: 0
+  walk: 4
