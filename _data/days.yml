@@ -2247,3 +2247,10 @@
   drive: 0
   boat: 0
   walk: 7.7
+
+- day: July 17, 2018
+  fly: 0
+  train: 3.5
+  drive: 2.2
+  boat: 0
+  walk: 9.3
