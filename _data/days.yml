@@ -2261,3 +2261,17 @@
   drive: 6
   boat: 0
   walk: 5
+
+- day: July 19, 2018
+  fly: 0
+  train: 4.75
+  drive: 5.4
+  boat: 0
+  walk: 3.5
+
+- day: July 20, 2018
+  fly: 0
+  train: 331.2
+  drive: 1.1
+  boat: 0
+  walk: 6.9
