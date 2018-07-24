@@ -650,8 +650,8 @@
   type: train
   
 - route: Rotterdam - Amsterdam
-  start_date: July 23, 2018
-  end_date: July 23, 2018
+  start_date: July 25, 2018
+  end_date: July 25, 2018
   from: 4.481, 51.942
   to: 4.900,52.379
   type: train
