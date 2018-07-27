@@ -25,14 +25,14 @@ One of the experiences we're most looking forward to over the next year is the c
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Kihei 
 
-While we were in Maui for 12 days we went snorkeling almost every day. Even just swimming out from the beach in front of the condo where we stayed in Kihei, we could easily find interesting coral, colorful fish, anemones and even sea turtles. 
+While we were in Maui for 12 days we went snorkeling almost every day. Even just swimming out from the beach in front of the condo where we stayed in Kihei, we could easily find interesting coral, colorful fish, anemones, and even sea turtles. 
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/anemone.JPG" target="_blank"><img src="/static/assets/img/blog/anemone.JPG" width="45%"></a> <a href="/static/assets/img/blog/hideturtle.JPG" target="_blank"><img src="/static/assets/img/blog/hideturtle.JPG" width="45%"></a></div>
 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Ulua 
 
-Only a 10 minute drive from the condo in Kihei, we were able to park at the beach at Ulua beach in Wailea to snorkel. The beach here is smaller than the roadside string in central Kihei but the reef goes out in a fan shape about 200 feet. There are portions that are quite shallow, to where I could have stood in chest deep ot even ankle deep water on top of the reef but at the edge the face of the reef is probably around 20 feet with another 4-5 feet of water above that. 
+Only a 10 minute drive from the condo in Kihei, we were able to park at the beach at Ulua beach in Wailea to snorkel. The beach here is smaller than the roadside string in central Kihei but the reef goes out in a fan shape about 200 feet. There are portions that are quite shallow, to where I could have stood in chest deep to even ankle deep water on top of the reef but at the edge the face of the reef is probably around 20 feet with another 4-5 feet of water above that. 
 
 This was some of the best snorkeling we did the whole time we were in Maui. Going in the morning (before 11am) meant the water was clear and waves were small. By the time we came in, closer to 12:00 some of the visability was already reduced as the water became more choppy and stirred up sand. As it got later, we also had to share the reef with more people, so like most things in Maui, it's better to get an early start. 
 
