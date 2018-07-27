@@ -22,7 +22,7 @@ Starting our trip in Maui always seemed a bit indulgent. It also meant the trip 
 ## 12 Day Itinerary 
 
 1. Land in Maui
-2. the <a href="http://site.awellchartedpath.com/blog/2017/09/Snorkeling/" target="_blank">Snorkeling</a>  off the beach in Kihei, 3 hour hike through the lava fields at La Perouse Bay, shave ice, tacos at Fred's
+2. The <a href="http://site.awellchartedpath.com/blog/2017/09/Snorkeling/" target="_blank">Snorkeling</a>  off the beach in Kihei, 3 hour hike through the lava fields at La Perouse Bay, shave ice, tacos at Fred's
 3. I finished teaching for the summer term(!), snorkeling in Kihei, long beach walk
 4. Glass bottomed kayaks, snorkeling at Turtle Bay, shave ice, Pita Perfect for dinner
 5. Sunrise at Haleakala, hiking and swimming at Na'ili'ili-haele waterfalls on the road to Hana
