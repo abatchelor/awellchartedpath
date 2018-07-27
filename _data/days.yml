@@ -2310,3 +2310,10 @@
   drive: 0.5
   boat: 0
   walk: 12
+
+- day: July 26, 2018
+  fly: 0
+  train: 287.1
+  drive: 0
+  boat: 0
+  walk: 7.7
