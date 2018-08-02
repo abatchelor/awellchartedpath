@@ -2354,3 +2354,10 @@
   drive: 0
   boat: 0
   walk: 9.8
+
+- day: August 1, 2018
+  fly: 0
+  train: 4.4
+  drive: 0
+  boat: 0
+  walk: 9.5
