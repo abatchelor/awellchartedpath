@@ -2361,3 +2361,17 @@
   drive: 0
   boat: 0
   walk: 9.5
+
+- day: August 2, 2018
+  fly: 0
+  train: 5.4
+  drive: 0
+  boat: 0
+  walk: 10.4
+
+- day: August 3, 2018
+  fly: 0
+  train: 6
+  drive: 0
+  boat: 0
+  walk: 6.8
