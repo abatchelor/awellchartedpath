@@ -2389,3 +2389,10 @@
   drive: 33.5
   boat: 0
   walk: 0.6
+
+- day: August 6, 2018
+  fly: 0
+  train: 0
+  drive: 9.3
+  boat: 0
+  walk: 4.8
