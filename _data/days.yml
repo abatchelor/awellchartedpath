@@ -2375,3 +2375,17 @@
   drive: 0
   boat: 0
   walk: 6.8
+
+- day: August 4, 2018
+  fly: 0
+  train: 342.7
+  drive: 0
+  boat: 0
+  walk: 4
+
+- day: August 5, 2018
+  fly: 6342
+  train: 0
+  drive: 33.5
+  boat: 0
+  walk: 0.6
