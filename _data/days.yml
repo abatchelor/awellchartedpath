@@ -2403,3 +2403,10 @@
   drive: 11.7
   boat: 0
   walk: 5.5
+
+- day: August 8, 2018
+  fly: 0
+  train: 0
+  drive: 47.3
+  boat: 0
+  walk: 6.7
