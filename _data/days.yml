@@ -2417,3 +2417,10 @@
   drive: 11.8
   boat: 0
   walk: 3
+
+- day: August 10, 2018
+  fly: 1936
+  train: 0
+  drive: 45
+  boat: 0
+  walk: 3.3
