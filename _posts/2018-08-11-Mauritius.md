@@ -14,15 +14,15 @@ hidden: false
 
 ---
 
-The time finally came. Mauritius was our last stop on the RTW ticket. This would be the last new country we would visit. What do you do when your adventure comes to an end? You go to the beach. 
+The time finally came. Mauritius was the last stop on [our RTW ticket](LINK). This would be the last new country we would visit. What do you do when your adventure comes to an end? You go to the beach. 
 
 We spent 5 days enjoying Flic en Flac on the west coast of the island where the weather was supposed to be more temperate for the "winter". We stayed at an Airbnb where we were able to feed ourselves for breakfast and dinner and would eat lunch near the beach most days. It was relaxing. We spent most of our time lying in the sun reading books and listening to the waves. Real life might be fast approaching but it would hold off a little longer. 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/MauritiusFlying.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusFlying.jpg" width="45%"></a> <a href="/static/assets/img/blog/MauritiusFlyingFalls.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusFlyingFalls.jpg" width="45%"></a><p><i>Flying to Mauritius. Right: view of the Seven Falls.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/MauritiusFlying.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusFlying.jpg" width="45%"></a> <a href="/static/assets/img/blog/MauritiusFlyingFalls.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusFlyingFalls.jpg" width="45%"></a><p><i>Flying to Mauritius. Right: View of the Seven Falls.</i></p></div><p></p>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Beach Time
 
-Most days we went to the beach. The part of Mauritius where we were is lovely because the beach is protected by reef about a third of a mile from the beach, so waves crashed there and the water was calm leading up to the beach. Our first day we visited Flic en Flac beach and worked our way up and down it but we found that further south Wolmar beach was our favorite. There is public parking by Wolmar but much of the beach to the south is in front of the fancier resorts we didn't have the budget to stay at. That meant that the sand there was swept and soft as opposed to the public beaches that only get cleaned on Friday and so have a lot of coral, twigs, and rocks on them. 
+Most days we went to the beach. The part of Mauritius where we were is lovely because the beach is protected by reef about a third of a mile from the beach, so waves crashed there and the water was calm leading up to the beach. Our first day we visited Flic en Flac beach and worked our way up and down it but we found that the further south Wolmar Public Beach was our favorite. There is public parking but the best part of the beach is in front of the fancier resorts we didn't have the budget to stay at, but could happily freely walk down to. That meant that the sand there was swept and soft as opposed to the public beaches that only get cleaned on Friday and so have a lot of coral, twigs, and rocks on them. 
 
 We lazed in the sun and walked on the beach, only taking a break for lunch before returning to the beach again. It doesn't make for exciting reading but it makes for a lovely way to spend time. 
 
@@ -31,11 +31,18 @@ We lazed in the sun and walked on the beach, only taking a break for lunch befor
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Hiking
 
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/MauritiusFlySwatter.gif" target="_blank"><img src="/static/assets/img/blog/MauritiusFlySwatter.gif" width="24.5%"></a> <a href="/static/assets/img/blog/MauritiusPetrinSign.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusPetrinSign.jpg" width="43.5%"></a> <a href="/static/assets/img/blog/MauritiusHillHIke.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusHillHIke.jpg" width="24.5%"></a><p><i>Machabee Forest Loop Trail.</i></p></div><p></p>
+
 We did spend one day away from the beach (somewhat begrudgingly on my part). Nate really wanted to do a hike to explore a little more of the island. 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/MauritiusFlySwat.MP4" target="_blank"><img src="/static/assets/img/blog/MauritiusFlySwat.MP4" width="24.5%"></a> <a href="/static/assets/img/blog/MauritiusPetrinSign.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusPetrinSign.jpg" width="43.5%"></a> <a href="/static/assets/img/blog/MauritiusHillHIke.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusHillHIke.jpg" width="24.5%"></a><p><i>Machabee Forest Loop Trail.</i></p></div><p></p>
+<div style="float: right; text-align: right; width: 25%;"><video controls autoplay loop style="width: 100%;">
+  <source src="/static/assets/img/blog/MauritiusWaterfallSmall.m4v" type="video/mp4">
+  <a href="/static/assets/img/blog/MauritiusWaterfall.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusWaterfall.jpg" width="45%"></a>
+</video>
+<p><i>The waterfall where we were supposed to picnic.</i></p>
+</div>
 
-Our main hike was the Machabee Forest Loop Trail at the Petrin National Park. We parked at near the visitors' center where families were having picnics and trying to keep them safe from the monkeys that were scattered around the area. 
+Our main hike was the Machabee Forest Loop Trail at the Black River Gorges National Park. We parked at near the Petrin visitors' center where families were having picnics and trying to keep them safe from the monkeys that were scattered around the area. 
 
 We started off on our hike in hopes of picnicking at the top of a waterfall at the halfway point but after walking 10-15 meteres we were engulfed in biting flies. We didn't really want to turn back, thinking they must subside soon. They didn't. We didn't turn back though. Instead, I grabbed the towel I'd brought for us to sit on for our picnic and turned it into a fly swatter, swinging it much like I've seen cows or elephants swing their tails to disperse flies. It worked pretty well but the flies did not stop coming. THE. ENTIRE. HIKE. To be fair, the steep climb up from the waterfall (where we did not stop to eat for fear of being carried away by the flies) had fewer flies but is also required us to climb up steep muddy ruts, so it didn't exactly make for a pleasant break. 
 
@@ -43,13 +50,13 @@ None of the reports from people who had done this hike talked about flies, so I 
 
 I would say it is the fastest we have ever hiked 5.5 miles at just 2 hours. So at least we got a PB? 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/MauritiusNateOverlook.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusNateOverlook.jpg" width="45%"></a> <a href="/static/assets/img/blog/MauritiusViewpointAmy.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusViewpointAmy.jpg" width="45%"></a><p><i>Nate at The Alexandra Falls Viewpoint and me at the Chamarel Viewpoint.</i></p></div><p></p>
-
 After our hike, things got a little better. We stopped at the Alexandra Falls and Chamarel Viewpoints, which are both beautiful with views of waterfalls and/or the coastline. Highly recommend those, just not the hiking. 
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/MauritiusNateOverlook.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusNateOverlook.jpg" width="30%"></a> <a href="/static/assets/img/blog/MauritiusViewpointAmy.jpg" target="_blank"><img src="/static/assets/img/blog/MauritiusViewpointAmy.jpg" width="30%"></a><p><i>Nate at The Alexandra Falls Viewpoint and me at the Chamarel Viewpoint.</i></p></div><p></p>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> How We Did with Our Budget
 
-For our time in Mauritius, we had budgeted as much as 75 USD a night for accommodations. We ended up spending a little more than that 46 USD per night for our Airbnb because we thought it would be worth it for the pool and hot tub. Unfortunately, the "hot tub" was really just a jacuzzi with cold water. Turns out jets of cold water aren't as relaxing as hot water (I know it's surprising).  
+For our time in Mauritius and our layovers heading back home, we had budgeted as much as 75 USD a night for accommodations. Mauritius in winter is cheap, but we ended up spending a little more than we needed to at 46 USD per night for our Airbnb because we thought it would be worth it for the pool and hot tub. Unfortunately, the "hot tub" was really just a jacuzzi with cold water. Turns out jets of cold water aren't as relaxing as hot water (I know it's surprising).  
 
 We had also budgeted 15 USD per day per person for food and 15 USD per day per person for entertainment. Out of that planned 60 USD per day we ended up spending almost no money on entertainment (just gas for the rental car) and ate very affordably. So even with going a little over budget on the Airbnb we still had almost 130 USD left over. 
 
