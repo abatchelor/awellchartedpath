@@ -2424,3 +2424,17 @@
   drive: 45
   boat: 0
   walk: 3.3
+
+- day: August 11, 2018
+  fly: 5422
+  train: 0
+  drive: 2.9
+  boat: 0
+  walk: 1
+
+- day: August 12, 2018
+  fly: 4563
+  train: 18.2
+  drive: 0
+  boat: 0
+  walk: 0000
