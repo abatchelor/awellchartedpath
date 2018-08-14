@@ -2438,3 +2438,10 @@
   drive: 0
   boat: 0
   walk: 6.6
+
+- day: August 13, 2018
+  fly: 1719
+  train: 11
+  drive: 6.1
+  boat: 0
+  walk: 9.9
