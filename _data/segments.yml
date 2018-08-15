@@ -677,16 +677,16 @@
   to: 57.678,-20.433
   type: rtw
 
-- route: Mauritius - Reno
+- route: Mauritius - Chicago
   start_date: August 11, 2018
-  end_date: August 13, 2018
+  end_date: August 12, 2018
   from: 57.678,-20.433
-  to: -119.771,39.502
+  to: -87.909,41.971
   type: flight
 
-- route: Reno - Tampa
-  start_date: August 17, 2018
-  end_date: August 17, 2018
-  from: -119.771,39.502
-  to: -82.540,27.978
+- route: Chicago - Reno
+  start_date: August 13, 2018
+  end_date: August 13, 2018
+  from: -87.753,41.788
+  to: -119.771,39.502
   type: flight
