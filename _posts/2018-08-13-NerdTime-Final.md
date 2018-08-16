@@ -1,106 +1,55 @@
 ---
 layout: post
-title: "Reflections on Our RTW Trip"
-date: 2018-08-13
-desc: "It's all over friends. We have travelled for 344 days. This is the first of several posts where I'll crunch the impressive (if I do say so myself) amount of data I collected while we were traveling."
+title: "Nerd Time: Final Stats"
+date: 2018-08-16
+desc: "It's all over friends. We have travelled for 347 days. This is the first of several posts to wrap up all my thoughts where I'll crunch the impressive (if I do say so myself) amount of data I collected while we were traveling."
 keywords: "Data, RTW, Look-back, Budgeting, Happiest place, Favorite Places, travel data analysis"
 categories: [Planning]
 tags: Nerd Time
 icon: icon-html
-image: blog/XXXXXX.jpg
+image: blog/NerdFinalSheet.png
 author: Amy
 country: Planning
 hidden: false
 
 ---
 
-Today, I'm sitting in a hotel in Johannesburg waiting to go to the airport for our final flight segments that will take us back to the US and to life as usual. I can't believe it is over. I'm still working through a pretty big case of denial but to help me process I'll be crunch all the data I collected each day of this crazy adventure. For those of you who missed the [first Nerd Time post](htt/blog/2017/12/NerdTimeSouthAmerica/) or [my midpoint review](/blog/2018/02/NerdTime-Halfway/), we have been collecting data every day to be able to analyze how the trip is going. Now that the end has come, this will be a reflection of a year that it's hard to put into words. 
+I can't believe it is over. 
 
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> My Gut
+I'm still working through a pretty big case of denial but to help me process I'm crunching all the data I collected each day of this crazy adventure. For those of you who missed the [first Nerd Time post](htt/blog/2017/12/NerdTimeSouthAmerica/) or [my midpoint review](/blog/2018/02/NerdTime-Halfway/), we have been collecting data every day to be able to analyze how the trip is going. Now that the end has come, this will be a reflection of a year that it's hard to put into words. 
 
-While we've been collecting a lot of data, unfortunately it is not comprehensive. There are experiences and feelings that I think are interesting or important that I just didn't properly capture in my data collection instruments. 
-
-For example, I neglected to include a score for homesickness. Yet, since we got to Southeast Asia, I've noticed feeling more homesick. I don't have data to back it up but it's how I feel. Maybe it's not speaking or reading the language, maybe it's spending more time without amenities like hot water, maybe it's having poor internet connections so it's harder to stay in touch with people back at home, or maybe it's just that the longer your gone the more you miss home. Still, I definitely feel an increase. 
-
-The other aspect I hadn't anticipated is that I'm starting to get a little tired of planning more travel. Before the trip, planning was a nice bit of escapism from our day-to-day lives; now it's a bit of a slog. At this point, we have reserved accommodations (mostly with free cancellation) all the way through to the end of our time in Italy _in May_. Every place we are, we are planning what to do there but also making sure we have our transportation for the next location squared away and accommodations for as far as 2-3 months in the future set. Once we've finally booked the last of our accommodations, it's going to be really nice to stop planning quite so much beyond the day to day. 
-
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> The Not so Glamorous
-
-The data we've collected (and [our Instagram](https://www.instagram.com/wellchartedpath/)) also doesn't fully capture the less glamorous parts of traveling. 
-
-For example, I'm tired of washing clothes by hand. We packed light for the trip. A backpack can only hold so many outfits and it means we have to do laundry regularly. Washing machines are few and far between and I have a new and deep appreciation for their magical existence. We felt good about our purchase of a travel washing "machine" (i.e. bag) to make our lives easier. It does make loads a little easier but you can only wash 2 shirts and a handful of underwear in each load. Each load requires you to fill the bag with water, then soap, massage it around agressively, empty the water, fill it with water again, massage it around agressively, and sometimes repeat the rinsing again. If we've been bad and left laundry for too long, we may have to do this 3-4 times over. Sounds fun right? 
-
-Then comes the drying. We have yet to come across a dryer, and most of our travel clothes can't be put in one anyway. So, we string up our clothes, sometimes outside, sometimes in the bathroom, sometimes in the living room. Some places they dry overnight but others it takes two days. 
-
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdWash.jpg" target="_blank"><img src="/static/assets/img/blog/NerdWash.jpg" width="45%"></a> <a href="/static/assets/img/blog/NerdDry.jpg" target="_blank"><img src="/static/assets/img/blog/NerdDry.jpg" width="25.4%"></a><p><i>Just a couple of the many loads of laundry we've done</i></p></div><p></p>
-
-And if you ever want to feel humble or maybe a little stupid, travel can definitely help with that. For example, there were the times when I couldn't speak Portuguese and [instead resorted to German by accident](http://site.awellchartedpath.com/blog/2017/10/SaoPaulo/). Or there was the time that a waitress, before we even opened the door to an empanada restaurant in Buenos Aires, identified us as tourists and started speaking English to us. Then when she brought us our delicious smelling tomales, she was nice enough to explain to us that we were not supposed to eat the husks around the tomales but _open it up and eat the inside_. Or there is the time a Thai boat driver was just trying to get me to move to the other side of the boat but I didn't understand and tried to help pull in the bike tire he was using as a bumper only to dump water all over myself and the backpacks in the boat and then to find that I was still in his way. 
-
-There is also the wide variety of places we've stayed. We've stayed in some wonderful apartments and even one night at a very fancy hotel in Buenos Aires. On the other end of the spectrum, we've stayed in some very basic accommodations, some didn't have hot water, some were tiny, some the bathrooms were pretty terrible including having cockroach-like bugs, mosquitos, ants, and a frog keeping you company while you shower. 
-
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdHotel.jpg" target="_blank"><img src="/static/assets/img/blog/NerdHotel.jpg" width="45%"></a> <a href="/static/assets/img/blog/NerdBathroom.jpg" target="_blank"><img src="/static/assets/img/blog/NerdBathroom.jpg" width="25.4%"></a><p><i>Our nicest hotel room of the trip and the worst bathroom (you can't see all the bugs or the lack of hot water).</i></p></div><p></p>
-
-The least glamorous part of travel so far has definitely been getting sick. There is nothing quite so miserable as vomiting in an unfamiliar bathroom and then having to sit on a bus popping Pepto to keep it together. It hasn't happened that often (Nate and I have each spent 17 days out of 170 sick, though not the same days) but 10 percent of the time feels like a lot while you're living it. With India and the infamous tales of "Dehli Belly" still ahead of us, we have no aspirations of making it without more days spent sick and miserable, but it comes as part of the package of world travel. 
-
-<div style="float: right; text-align: right; width: 25%;"><video controls autoplay loop style="width: 100%;">
-  <source src="/static/assets/img/blog/NerdFeet.m4v" type="video/mp4">
-  <a href="/static/assets/img/blog/ilhaParrotClimb.jpg" target="_blank"><img src="/static/assets/img/blog/ilhaParrotClimb.jpg" width="25%"></a>
-</video>
-<p><i>Just one of our many walks.</i></p>
-</div>
-
-Now on to the main attraction!
+Crunching numbers is not enough to describe this wonderful adventure though, so I am also writing a more personal reflection.  As you can imagine, the feelings part is a little less straight forward to put together. So stay tuned for the more squishy post about how I feel about the last year of travel and what comes next.
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Travel
 
-Over the last 344 days, we visited 34 countries and 71 cities. 
+Over the last 347 days, we visited 33 countries and 73 cities. 
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalHike.jpg" target="_blank"><img src="/static/assets/img/blog/NerdFinalHike.jpg" width="45%"></a> <a href="/static/assets/img/blog/NerdFinalTrain.jpg" target="_blank"><img src="/static/assets/img/blog/NerdFinalTrain.jpg" width="45%"></a><p><i></i></p></div><p></p>
 
 Going so many places means that we've gone a long way. To be exact, we've:
 
-- Flown 51,817 miles
-- Taken trains 3,233 miles
-- Driven/ridden 3,699 miles
-- Boated 577 miles
-- **Walked 1,004 miles**
+- Flown 103,437 miles
+- Taken trains 11,243 miles
+- Driven/ridden 5,789 miles
+- Boated 1,046 miles
+- **Walked 2,193 miles**
 
-(All values as of August 13th, 2018 when we landed in Reno)
+_(All values as of August 13th, 2018 when we landed in Reno)_
 
-While we've used a lot of transportation, I'm particularly excited about the number of miles we've walked. That's **5.9 miles per day on average**, not eliminating days spent on planes or on trains when we don't have a chance to add miles. We walk _a lot_ and it's been a great and inexpensive way to experience places. 
+We did a lot of moving around but we really enjoyed walking around. We averaged **6.3 miles per day**, not eliminating days spent on planes or on trains when we don't have a chance to add miles. There were a good number of days where we walked more than 10 miles in a day and one day where we walked a crazy 16 miles. 
 
-A fun extra is that I've read XX books and XXXX pages over the course of the trip. 
-
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> The Money
-
-So far, we have spent **46 percent** of our what we budgeted to spend while on the trip. We've also been able to rack up almost $1,700 in savings compared to our budget so far, which will help make our time in more expensive countries a little easier. 
-
-With Europe and Japan, with their much higher costs, still to come; I was a little worried when I saw that we had already spent almost half of our budget. Some of this can be explained by the much more robust "special treats" budget we had for the first portion of our trip to accomodate things like [diving at the Great Barrier Reef](http://site.awellchartedpath.com/blog/2017/12/great-barrier-reef/), visiting [Machu Picchu](http://site.awellchartedpath.com/blog/2017/12/machu-picchu/), [wine tasting](http://site.awellchartedpath.com/blog/2017/10/CapeTown/) (which was originally cage diving with sharks) in South Africa, and [my silent meditation retreat](http://site.awellchartedpath.com/blog/2018/02/meditation-retreat/). For the second half of our trip, the only things we budgeted specially for are our trip to Petra in Jordan and some of the more expensive museums in Europe. So, while we are in Japan and Europe we'll be working from a much smaller entertainment budget. 
-
-So far, having our fairly detailed budget document and tracking our costs has been _really_ helpful (though it may sound like a nightmare to some people). Any time we are thinking about doing something a little more expensive, whether doing an extra dive or splurging on another whole fish dinner, we can input that cost into our budget and see if it can work. Sometimes, it means spending a little less each day in a place going forward and other times it takes us way over budget would leave us with nothing for the rest of our time in a place. Knowing which category any given activity falls into means we can make the decision easily and know what the implications are. It's taken a lot of potential for stress out of our decision making. 
-
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdDinner1.jpg" target="_blank"><img src="/static/assets/img/blog/NerdDinner1.jpg" width="45%"></a> <a href="/static/assets/img/blog/NerdDinner2.jpg" target="_blank"><img src="/static/assets/img/blog/NerdDinner2.jpg" width="45%"></a><p><i>Two of our favorite meals: Lua e Mar and Parilla Pena.</i></p></div><p></p>
-
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Food
-
-We've had some amazing food while we've been traveling, a lot of it things we'd never had before. 
-
-Our most expensive meals were (1) our [Rio Food Tour](http://site.awellchartedpath.com/blog/2017/10/Rio/); (2) Dinner on the beach [of Ilha Grande at Lua e Mar](http://site.awellchartedpath.com/blog/2017/10/IlhaGrande/); (3) Ceviche dinner [on Easter Island](http://site.awellchartedpath.com/blog/2017/11/EasterIsland/); and (4) Dinner at [Parilla Pena in Buenos Aires](http://site.awellchartedpath.com/blog/2017/11/Palermo/). The food tour, dinner on Ilha Grande, and at Parilla Pena are experiences we regularly still look back on and I believe were worth every penny. The ceviche dinner on Easter Island was good but wasn't particularly memorable and was mostly just expensive because cost on the island in general were so high. 
-
-I can't talk about food without mentioning Vietnam. I'm _obsessed_ with [the food in Vietnam](http://site.awellchartedpath.com/blog/2018/01/Saigon/) now. I thought Thailand would be the big winner for me because of my love of Pad Thai back home but Vietnam and its [cheap, accessible street food](http://site.awellchartedpath.com/blog/2018/01/hanoi/) blew Thailand away. 
-
-It didn't make the list of most expensive dinners because everything was so affordable but that just made it better. There hasn't been another place where I've enjoyed such a variety of food so much and I can't wait to add in some of the things I loved the most to my cooking once I'm back home. 
-
-On average we've spent about 15 USD for dinners we've had out, including meals that cost as little as 5 USD for the two of us (mostly in Myanmar and Vietnam). 
-We've also spent almost 800 USD on groceries on the trip so far, not including snacks from convenience stores, etc. 
-
-Buying groceries and cooking definitely stretched our budget further and made us feel more at home. Unfortunately, in the two months since we got to Asia we've been staying in hotels and guesthouses and so we haven't been able to cook. Luckily, the cost of food is comparatively low but we're looking forward to our time in Japan and Europe when we'll be staying in Airbnbs again and can cook our own food. 
-
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdScuba.jpg" target="_blank"><img src="/static/assets/img/blog/NerdScuba.jpg" width="45%"></a> <a href="/static/assets/img/blog/ilhaParrotTopSelfie.JPG" target="_blank"><img src="/static/assets/img/blog/ilhaParrotTopSelfie.JPG" width="45%"></a><p><i>Two of our favorite places: Cairnes, where we dived at the Great Barrier Reef, and Ilha Grande.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalWalkGraph.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalWalkGraph.png" width="45%"></a><p><i></i></p></div><p></p>
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Our Top Places
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalCairnes.jpg" target="_blank"><img src="/static/assets/img/blog/NerdFinalCairnes.jpg" width="45%"></a> <a href="/static/assets/img/blog/NerdFinalPetra.jpg" target="_blank"><img src="/static/assets/img/blog/NerdFinalPetra.jpg" width="45%"></a><p><i>Loving diving the Great Barrier Reef and the desert of Jordan.</i></p></div><p></p>
 
 <table style="width:100%" cellspacing="10">
  <tr>
   <b><u><font size="4"> Highest Scoring Places:</font></u></b>
+  <tr>
+  <tr>
+  <tr>
  </tr>
   <tr>
     <th>Amy</th>
@@ -167,15 +116,123 @@ Buying groceries and cooking definitely stretched our budget further and made us
 <p></p>
 <p></p>
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdAmyHapLocMid.png" target="_blank"><img src="/static/assets/img/blog/NerdAmyHapLocMid.png" width="43.1%"></a> <a href="/static/assets/img/blog/NerdNateHapLocMid.png" target="_blank"><img src="/static/assets/img/blog/NerdNateHapLocMid.png" width="46.1%"></a> </div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalIlha.jpg" target="_blank"><img src="/static/assets/img/blog/NerdFinalIlha.jpg" width="45%"></a> <a href="/static/assets/img/blog/NerdFinalEI.jpg" target="_blank"><img src="/static/assets/img/blog/NerdFinalEI.jpg" width="45%"></a><p><i>Great moments from Ilha Grande and Easter Island.</i></p></div><p></p>
 
-For both Nate and I, our least happy days (a score of just 3) happened to be days we were sick and yet had to spend the day on a bus. Nate's was in Peru between Puno and Cusco. Mine was in Chile between Valparaiso and Santiago. Turns out being sick while having to travel is pretty much the worst. 
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Happiness
 
-Interestingly, Nate's happiness since we've been in Asia has been much more consistent than mine. I have more highs and lows, possibly because I've gotten sick and at least one trough and peak at my silent meditation retreat. In general, we've just been pretty happy the whole trip mostly averaging a 7-8 out of 10 for each city we visit. While it hasn't been perfect 10s everyday, or even close to that, we've been really lucky not to have any big problems come up to derail our travel and we haven't gotten sick of each other yet either.  
+Each day we rated our happiness for the day before on a scale of 1 to 10. So for 347 days we have a rating of how we felt about each day. This isn't a perfect way to reflect, we definitely saw a trend that we were more generous with our scores as the trip went on but it makes for an interesting way to reflect on our experience. 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFriend1.jpg" target="_blank"><img src="/static/assets/img/blog/NerdFriend1.jpg" width="35.5%"></a> <a href="/static/assets/img/blog/NerdFriend2.jpg" target="_blank"><img src="/static/assets/img/blog/NerdFriend2.jpg" width="35.5%"></a> <a href="/static/assets/img/blog/NerdFriend3.jpg" target="_blank"><img src="/static/assets/img/blog/NerdFriend3.jpg" width="20%"></a><p><i>Getting to see friends along the way has been wonderful.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalHappy.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalHappy.png" width="80%"></a><p><i>We tracked our happiness every day on a scale of 1 to 10.</i></p></div><p></p>
 
+For both Nate and I, our least happy days, not surprisingly, were days we were sick. I had more bad days then Nate, even though I was sick less frequently. Once of my worst days was what I'll call "the pit" of my silent meditation retreat, when I thought about giving up and leaving but pushed through. Another chunk of my bad days came in India. I wasn't sick but I wasn't enjoying myself very much either. 
 
-## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Take Aways
+On the other end of the spectrum, I had 14 _"perfect 10"_ scores and Nate had 8. So, my lows may have been lower but my highs came more frequently too. 
 
-Overall, this trip has made me really grateful (maybe it's just residual from my meditation retreat) for the chance to take this trip but also all the amazing people that make the effort to stay in touch with us and miss us while we are gone. We are only halfway finished and we have so many amazing places left to visit but I can't wait to be back where I can see and talk to the people I care about regularly again. 
+Some of my perfect 10 days were doing the food tour I am obsessed with in Rio, exploring the temples of Siem Reap, visiting the Kuang Si waterfalls in Laos, trekking through Petra, hiking in Sardinia, and of course getting to see Hamilton in London. 
+
+We both had a perfect day when we hiked Table Mountain in Cape Town, taking a luxury train ride from Cape Town to Johannesburg, exploring Easter Island, and diving on the Great Barrier Reef. 
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalHappyFreq.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalHappyFreq.png" width="60%"></a><p><i></i></p></div><p></p>
+
+Even though there were many more fluctuations, when you look at the average of our happiness in each country over the course of the trip, it is remarkably stable and high. We were very lucky in so many ways and I think these scores reflect that. We were sick but not too sick, we didn't get hurt, we didn't have any issues missing flights or trains, we didn't get robbed. Most everything went according to plan and we got to see and do a lot of amazing things. Who wouldn't be pretty happy?
+
+The other aspect of tracking our happiness was that I wanted to find out what factors effected our happiness most. So I tracked a lot of other things to compare. 
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalCorrelationsTable.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalCorrelationsTable.png" width="45%"></a><p><i></i></p></div><p></p>
+
+You can see that for most things, our correlations were not significant. 
+
+Things that stood out for me was how strongly related Nate's happiness and my happiness were. Happy partners make for happy partners it turns out. Or maybe we like and dislike the same sorts of things. Still, seems positive that we could agree most of the time about how well a day went. Spending so much time together, if this hadn't been the case the trip might have turned out differently. 
+
+Other stronger correlations included how far we had walked and how much we spent overall. These were fairly constant throughout the trip. Turns out spending money can potentially make you happy, though spending money on accommodations had a weaker relationship than spending day-to-day with our happiness.  Unsurprisingly, being sick had a negative relationship with happiness. Luckily we really were not sick very often. I was sick only 18 days (5% of the trip) and Nate for 27 days (8% of the trip). Given how much we pushed ourselves sometimes, how many new things we ate, and how many times we were assured we'd be terribly ill; this wasn't too bad. 
+
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> The Money
+
+Travelling for so long is no small feat and it is by no means cheap. We put together our first theoretical budget in 2013, while I was still in graduate school, to see how much we were going to need to save to pull this off. Our budgeting process was extremely thorough and we tracked every single penny we spent leading up to and on the trip. We tracked a total of 1,669 unique purchases. We broke down spending based on whether Nate or I paid for each purchase so we could make sure we were keeping the spending equitable. At the end of over 11 months, Nate and I ended the trip within 15 USD of evenly splitting all the costs of the trip. 
+
+Compared to our budget, we ended up spending **5 percent less than we had planned**. Much of this savings was largely driven by our under-spending on entertainment but it is offset by our overspending on food. Turns out we like eating more than most other things and it often made up our entertainment for the day as well.
+
+One category of savings we were very lucky to still have was what we called "contingency" for handling any sort of problems that came up along the way. We envisioned this as a way to pay for replacing clothes if our luggage was lost or paying for a doctors visit if we got injured but not so badly as to activate the measures covered by our travel insurance. It was just lucky that we didn't have to use any of these funds while we were on the trip. I'm glad we had them as a mental safety blanket though.  
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalCategorySpend.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalCategorySpend.png" width="60%"></a><p><i>Our surplus (or overspending) by category.</i></p></div><p></p>
+
+Because of our tracking, we could also break-down our expenses by country. We ended up being under-budget more often than not, with huge savings in South Africa because we skipped cage diving with great white sharks. We went over budget in a few places too. Peru and Australia were almost entirely due to the big ticket items (Machu Picchu and Great Barrier Reef diving) that had big price tags and ended up being more than we originally budgeted. Other places, it was the cost of accommodations that threw off our estimates or extra intentional splurges like our last minute trip to see Hamilton and Wicked while we were in London.  
+
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalSurplusGraph.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalSurplusGraph.png" width="80%"></a><p><i>Our surplus (or overspending) by country.</i></p></div><p></p>
+
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Cost of Visiting Countries based on Spending per Day
+
+<table style="width:100%" cellspacing="10">
+ <tr>
+  <b><u><font size="4"> Most Expensive Places:</font></u></b>
+  <tr>
+  <tr>
+  <tr>
+ </tr>
+ 
+  <tr>
+    <td>Australia</td>
+  </tr>
+  <tr>
+    <td>Japan</td> 
+  </tr>
+  <tr>
+    <td>France</td> 
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td>Spain</td>
+  </tr>
+  <tr>
+  </tr>
+     <td>Italy</td>
+  </tr>
+  <tr>
+  <th><b><u> <font size="4"> Least Expensive Places: </font></u></b></th>
+  </tr>
+  
+  <tr>
+    <td>Thailand</td> 
+  </tr>
+  <tr>
+    <td>Hungary</td> 
+  </tr>
+  <tr>
+    <td>Laos</td> 
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td>Vietnam</td> 
+  </tr>
+  <tr>
+  </tr>
+     <td>India</td> 
+  </tr>
+  </tr>
+</table>
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+Overall, our most expensive days were the day we visited Machu Picchu, days diving the Great Barrier Reef, and the day we went to see Hamilton. Machu Picchu may have been a rainy mess when we were there but even so each of these memories are some of our favorites on the trip and I wouldn't go back and skip them just because of their costs. 
+
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Other Tidbits
+
+- A somewhat random way we ended up saving a not insignificant amount of money was researching debit cards that refunded ATM fees. We used a Charles Scwhab card that ended up being great. In many countries we visited, using a credit card wasn't an option so we were taking out cash. Having the card the refunded fees saved us **$335**, which just for fees is a huge amount. The effort it took to apply was definitely worth it. 
+
+- A fun extra is that I've read 43 books and 18,313 pages over the course of the trip. If you're looking for recommendations, my favorites (in no particular order) were: 
+
+	- What Is Not Yours Is Not Yours
+	- Weapons of Math Destruction
+	- The Power
+	- Eight Years We Were in Power
+	- Sing Unburied Sing
+	
+
+## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> The End
+
+I get some funny looks when I describe to people all the spreadsheets we've made and data we've tracked over the last year. I know it seems crazy (at least to most people) but all these data make this crazy adventure just a little more concrete. It has helped me process and I think it's made us reflect more as we went than we might have otherwise. There will be a few more posts about how we felt about this adventure but I hope you get some joy from how big of a nerd I am. 
