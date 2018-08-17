@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nerd Time: Final Stats"
-date: 2018-08-16
+date: 2018-08-17
 desc: "It's all over friends. We have travelled for 347 days. This is the first of several posts to wrap up all my thoughts where I'll crunch the impressive (if I do say so myself) amount of data I collected while we were traveling."
 keywords: "Data, RTW, Look-back, Budgeting, Happiest place, Favorite Places, travel data analysis"
 categories: [Planning]
@@ -9,8 +9,8 @@ tags: Nerd Time
 icon: icon-html
 image: blog/NerdFinalSheet.png
 author: Amy
-country: Planning
-hidden: true
+country: United States
+hidden: false
 
 ---
 
@@ -56,27 +56,27 @@ We did a lot of moving around but we really enjoyed walking around. We averaged 
     <th>Nate</th> 
   </tr>
   <tr>
-    <td>Cairnes, Australia </td>
-    <td>Cairnes, Australia</td> 
+    <td><a href="/blog/2017/12/great-barrier-reef/">Cairnes</a>, Australia </td>
+    <td><a href="/blog/2017/12/great-barrier-reef/">Cairnes</a>, Australia</td> 
   </tr>
   <tr>
-    <td>Wadi Musa, Jordan</td>
-    <td>Wadi Musa, Jordan</td> 
+    <td><a href="/blog/2018/04/petra/">Wadi Musa</a>, Jordan</td>
+    <td><a href="/blog/2018/04/petra/">Wadi Musa</a>, Jordan</td> 
   </tr>
   <tr>
-    <td>Easter Island, Chile</td>
-    <td>Ilha Grande, Brazil</td> 
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td>Ilha Grande, Brazil</td>
-    <td>Easter Island, Chile</td> 
+    <td><a href="/blog/2017/11/EasterIsland/">Easter Island</a>, Chile</td>
+    <td><a href="/blog/2017/10/IlhaGrande/">Ilha Grande</a>, Brazil</td> 
   </tr>
   <tr>
   </tr>
-     <td>Siem Reap, Cambodia</td>
-    <td>Osaka, Japan</td> 
+  <tr>
+    <td><a href="/blog/2017/10/IlhaGrande/">Ilha Grande</a>, Brazil</td>
+    <td><a href="/blog/2017/11/EasterIsland/">Easter Island</a>, Chile</td> 
+  </tr>
+  <tr>
+  </tr>
+     <td><a href="/blog/2018/01/Siem-Reap/">Siem Reap</a>, Cambodia</td>
+    <td><a href="/blog/2018/04/osaka/">Osaka</a>, Japan</td> 
   </tr>
   <tr>
   <th><b><u> <font size="4"> Lowest Scoring: </font></u></b></th>
@@ -90,23 +90,23 @@ We did a lot of moving around but we really enjoyed walking around. We averaged 
     <td>Puno, Peru</td> 
   </tr>
   <tr>
-    <td>Varanasi, India</td>
-    <td>Cuzco, Peru</td> 
+    <td><a href="/blog/2018/03/Varanasi/">Varanasi</a>, India</td>
+    <td><a href="/blog/2017/12/machu-picchu/">Cuzco</a>, Peru</td> 
   </tr>
   <tr>
-    <td>Phnom Pehn, Cambodia</td>
-    <td>Jaisalmer, India</td> 
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td>Mandalay, Myanmar</td>
-    <td>Santiago, Chile</td> 
+    <td><a href="/blog/2018/01/PhnomPenh/">Phnom Pehn</a>, Cambodia</td>
+    <td><a href="/blog/2018/03/jaisalmer/">Jaisalmer</a>, India</td> 
   </tr>
   <tr>
   </tr>
-     <td>Dehli, India</td>
-    <td>Varanasi, India</td> 
+  <tr>
+    <td><a href="/blog/2018/01/Mandalay/">Mandalay</a>, Myanmar</td>
+    <td><a href="/blog/2017/11/Santiago/">Santiago</a>, Chile</td> 
+  </tr>
+  <tr>
+  </tr>
+     <td><a href="/blog/2018/03/new-delhi/">Dehli</a>, India</td>
+    <td><a href="/blog/2018/03/Varanasi/">Varanasi</a>, India</td> 
   </tr>
   </tr>
 </table>
