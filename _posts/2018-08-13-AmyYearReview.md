@@ -10,7 +10,7 @@ icon: icon-html
 image: blog/XXXXXX.jpg
 author: Amy
 country: Planning
-hidden: false
+hidden: true
 
 ---
 

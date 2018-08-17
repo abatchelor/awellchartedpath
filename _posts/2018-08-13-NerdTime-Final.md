@@ -10,7 +10,7 @@ icon: icon-html
 image: blog/NerdFinalSheet.png
 author: Amy
 country: Planning
-hidden: false
+hidden: true
 
 ---
 
@@ -56,7 +56,7 @@ We did a lot of moving around but we really enjoyed walking around. We averaged 
     <th>Nate</th> 
   </tr>
   <tr>
-    <td>Cairnes, Australia</td>
+    <td>Cairnes, Australia </td>
     <td>Cairnes, Australia</td> 
   </tr>
   <tr>
@@ -124,13 +124,13 @@ Each morning we rated our happiness for the day before on a scale of 1 to 10. So
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalHappy.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalHappy.png" width="80%"></a><p><i>We tracked our happiness every day on a scale of 1 to 10.</i></p></div><p></p>
 
-For both Nate and I, our least happy days, not surprisingly, were days we were sick. I had more bad days then Nate, even though I was sick less frequently. One of my worst days was what I'll call "the pit" of my silent meditation retreat, when I thought about giving up and leaving but pushed through. Another chunk of my bad days came in India. I wasn't sick but I wasn't enjoying myself very much either. 
+For both Nate and I, our least happy days, not surprisingly, were days we were sick. I had more bad days then Nate, even though I was sick less frequently. One of my worst days was what I'll call "the pit" of [my silent meditation retreat in Thailand](/blog/2018/02/meditation-retreat/), when I thought about giving up and leaving but pushed through. Another chunk of my bad days came in India. I wasn't sick but I wasn't enjoying myself very much either. 
 
 On the other end of the spectrum, I had 14 _"perfect 10"_ scores and Nate only had 8. So, my lows may have been lower but my highs came more frequently too. 
 
-Some of my perfect 10 days were doing the food tour I am obsessed with in Rio, exploring the temples of Siem Reap, visiting the Kuang Si waterfalls in Laos, trekking through Petra, hiking in Sardinia, and of course getting to see Hamilton in London. 
+Some of my perfect 10 days were doing [the food tour I am obsessed with in Rio](/blog/2017/10/Rio/), [exploring the temples of Siem Reap](/blog/2018/01/Siem-Reap/), [visiting the Kuang Si waterfalls in Laos](/blog/2018/03/Laos/), [trekking through Petra](/blog/2018/04/petra/), [hiking in Sardinia](/blog/2018/05/sardinia/), and of course getting to see [Hamilton in London](/blog/2018/07/london/). 
 
-We both had perfect days when we hiked Table Mountain in Cape Town, took a luxury train ride from Cape Town to Johannesburg, explored Easter Island, and dove on the Great Barrier Reef. 
+We both had perfect days when we [hiked Table Mountain in Cape Town](/blog/2017/09/table-mountain/), took a [luxury train ride from Cape Town to Johannesburg](/blog/2017/10/premier-classe/), [explored Easter Island](/blog/2017/11/EasterIsland/), and [dove on the Great Barrier Reef](/blog/2017/12/great-barrier-reef/). 
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalHappyFreq.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalHappyFreq.png" width="60%"></a><p><i></i></p></div><p></p>
 
@@ -140,7 +140,7 @@ The other aspect of tracking our happiness was that I wanted to find out what fa
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalCorrelationsTable.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalCorrelationsTable.png" width="45%"></a><p><i></i></p></div><p></p>
 
-You can see that for most things, our correlations were not significant (even using a bar of **THRESHOLD**, which is well below what would count as a significant finding in social science research). 
+You can see that for most things, our correlations were not significant (even using a bar of 0.20, which is low even for social science research). 
 
 By far the strongest correlation was between Nate's happiness and my own. Happy partners make for happy partners it turns out. Or maybe we like and dislike the same sorts of things. Still, it seems positive that we could agree most of the time about how well a day went. With us spending so much time together the trip might have turned out pretty differently if this hadn't been the case.
 
@@ -158,7 +158,7 @@ One category of savings we were very lucky to still have was what we called our 
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalCategorySpend.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalCategorySpend.png" width="60%"></a><p><i>Our surplus (or overspending) by category.</i></p></div><p></p>
 
-Because of our tracking, we could also break-down our expenses by country. We ended up being under-budget more often than not, with huge savings in South Africa because we skipped cage diving with great white sharks. We went over budget in a few places too. Peru and Australia were almost entirely due to the big ticket items (Machu Picchu and Great Barrier Reef diving) that had big price tags and ended up being more than we originally budgeted. In other places, it was the cost of accommodations that threw off our estimates or extra intentional splurges like our last minute trip to see Hamilton and Wicked while we were in London.  
+Because of our tracking, we could also break-down our expenses by country. We ended up being under-budget more often than not, with huge savings in South Africa because we skipped cage diving with great white sharks. We went over budget in a few places too. Peru and Australia were almost entirely due to the big ticket items ([Machu Picchu](/blog/2017/12/machu-picchu/) and [Great Barrier Reef diving](/blog/2017/12/great-barrier-reef/)) that had big price tags and ended up being more than we originally budgeted. In other places, it was the cost of accommodations that threw off our estimates or extra intentional splurges like our [last minute trip to see Hamilton and Wicked while we were in London](/blog/2018/07/london/).  
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/NerdFinalSurplusGraph.png" target="_blank"><img src="/static/assets/img/blog/NerdFinalSurplusGraph.png" width="80%"></a><p><i>Our surplus (or overspending) by country.</i></p></div><p></p>
 
@@ -220,7 +220,7 @@ Because of our tracking, we could also break-down our expenses by country. We en
 <p></p>
 <p></p>
 
-Overall, our most expensive days were the day we visited Machu Picchu, days diving the Great Barrier Reef, and the day we went to see Hamilton. Machu Picchu may have been a rainy mess when we were there but even so each of these memories are some of our favorites on the trip and I wouldn't go back in time and skip them just because of their costs. 
+Overall, our most expensive days were the day we [visited Machu Picchu](/blog/2017/12/machu-picchu/), [days diving the Great Barrier Reef](/blog/2017/12/great-barrier-reef/), and the day we went to see Hamilton. Machu Picchu may have been a rainy mess when we were there but even so each of these memories are some of our favorites on the trip and I wouldn't go back in time and skip them just because of their costs. 
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> Other Tidbits
 
@@ -228,13 +228,13 @@ Overall, our most expensive days were the day we visited Machu Picchu, days divi
 
 - A fun extra is that I've read 43 books and 18,313 pages over the course of the trip. If you're looking for recommendations, my favorites (in no particular order) were: 
 
-	- What Is Not Yours Is Not Yours by XXXXXX
-	- Weapons of Math Destruction by XXXXXX
-	- The Power by XXXXXX
-	- Eight Years We Were in Power by XXXXXX
-	- Sing Unburied Sing by XXXXXX
+	- What Is Not Yours Is Not Yours by Helen Oyeyemi
+	- Weapons of Math Destruction by Cathy O'Neil
+	- The Power by Naomi Alderman
+	- Eight Years We Were in Power by Ta-Nehisi Coates
+	- Sing Unburied Sing by Jesmyn Ward
 	
 
 ## <i class="fa fa-check-square" aria-hidden="true" style="color:#2495C4;"></i> The End
 
-I get some funny looks when I describe to people all the spreadsheets we've made and data we've tracked over the last year. I know it seems crazy (at least to most people) but all these data make this crazy adventure just a little more concrete. COMMENT ABOUT HOW BUDGETING MAKES EVERY DAY EASIER! It has helped me process and I think it's made us reflect more as we went than we might have otherwise. There will be a few more posts about how we felt about this adventure but I hope you get some joy from how big of a nerd I am. 
+I get some funny looks when I describe to people all the spreadsheets we've made and data we've tracked over the last year. I know it seems crazy (at least to most people) but all these data make this crazy adventure just a little more concrete. Budgeting in such detail also took the stress out of so many decisions. We didn't have to wonder if we splurged on a nice dinner if we were going to ruin our budget, we could plug in the cost of whatever we wanted into our spreadsheet and see what the effect would be. So deciding any number of things we were going to do became _so much easier_! It really took my budget nerdiness to a whole different level. It has also helped me process and I think it's made us reflect more as we went than we might have otherwise. There will be a few more posts about how we felt about this adventure but I hope you get some joy from how big of a nerd I am. 
