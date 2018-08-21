@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Home in Style"
 date: 2018-08-20
-desc: "We spent four days getting home from Mauritius in style, flying business class on South African and SWISS for the first time ever."
+desc: "We spent four days getting home from Mauritius in style, flying business class for the first time ever, on South African Airways and SWISS."
 keywords: "Mauritius, business class flights, points and miles, united mileageplus, south african airways, swiss, swiss business class review, johannesburg, zurich, lounge, chicago, reno"
 categories: [Africa]
 tags: Mauritius
@@ -79,6 +79,7 @@ On the 4-hour flight to Johannesburg we enjoyed:
 4. Bread
 5. An entree (I had lamb)
 6. Dessert cheesecake
+
 Along with all the drinks we wanted.
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/homewardAmuse.jpg" target="_blank"><img src="/static/assets/img/blog/homewardAmuse.jpg" width="25.4%"></a> <a href="/static/assets/img/blog/homewardLamb.jpg" target="_blank"><img src="/static/assets/img/blog/homewardLamb.jpg" width="45%"></a><p><i>On board our flight from Mauritius to Johannesburg.</i></p></div><p></p>
@@ -96,7 +97,7 @@ On the 10-hour flight to Zurich we enjoyed:
 9. Muesli/yogurt
 Along with all the drinks we wanted during both meals.
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/homewardNutsGT.jpg" target="_blank"><img src="/static/assets/img/blog/homewardNutsGT.jpg" width="24.5%"></a> <a href="/static/assets/img/blog/homewardSlicedBeef.jpg" target="_blank"><img src="/static/assets/img/blog/homewardSlicedBeef.jpg" width="43.5%"></a> <a href="/static/assets/img/blog/homewardChickenAmy.jpg" target="_blank"><img src="/static/assets/img/blog/homewardChickenAmy.jpg" width="24.5%"></a><p><i>Some of our SWISS fare.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/homewardNutsGT.jpg" target="_blank"><img src="/static/assets/img/blog/homewardNutsGT.jpg" width="25.4%"></a> <a href="/static/assets/img/blog/homewardSlicedBeef.jpg" target="_blank"><img src="/static/assets/img/blog/homewardSlicedBeef.jpg" width="45%"></a><p><i>Some of our SWISS fare.</i></p></div><p></p>
 
 On the 9-hour flight to Chicago we enjoyed:
 1. Mixed nuts
@@ -119,7 +120,7 @@ Our trip home took three overnights: one at a hotel near the airport in Johannes
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/homewardSunrockPool.jpg" target="_blank"><img src="/static/assets/img/blog/homewardSunrockPool.jpg" width="30%"></a> <a href="/static/assets/img/blog/homewardSunrockAnimals.jpg" target="_blank"><img src="/static/assets/img/blog/homewardSunrockAnimals.jpg" width="30%"></a><p><i>Sunrock Guesthouse</i></p></div><p></p>
 
-In Johannesburg, we stayed at the **Sunrock Guesthouse** which is out near the airport and offers free airport pick-up/drop-off and free breakfast and had great reviews. We ended up a bit unlucky as one of the draws of their property is their outdoor pool, but our winter day there was an unseasonably cool 45 degrees, which made us freeze both inside and outside our room. We had a nice sleep, ate some breakfast, and then needed to kill 6-7 hours before heading to the airport since our onward flight didn't leave until the evening. We got a late checkout, played some pool in their common room, and I got my 7th and final massage of the trip at a great price before we got back in their van to head to our flight.
+In Johannesburg, we stayed at the **Sunrock Guesthouse**, which is out near the airport and offers free airport pick-up/drop-off and free breakfast and had great reviews. We ended up a bit unlucky as one of the draws of their property is their outdoor pool, but our winter day there was an unseasonably cool 45 degrees, which made us freeze both inside and outside our room. We had a nice sleep, ate some breakfast, and then needed to kill 6-7 hours before heading to the airport since our onward flight didn't leave until the evening. We got a late checkout, played some pool in their common room, and I got my 7th and final massage of the trip at a great price before we got back in their van to head to our flight.
 
 <div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/homewardChicago.jpg" target="_blank"><img src="/static/assets/img/blog/homewardChicago.jpg" width="30%"></a> <a href="/static/assets/img/blog/homewardChicagoDeepDish.jpg" target="_blank"><img src="/static/assets/img/blog/homewardChicagoDeepDish.jpg" width="30%"></a><p><i>Left: The view from our hotel room. Right: Lou Malnati's Pizzeria.</i></p></div><p></p>
 
