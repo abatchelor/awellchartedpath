@@ -9,7 +9,7 @@ tags: Nerd Time
 icon: icon-html
 image: blog/AmyWrapReno.jpg
 author: Amy
-country: Planning
+country: United States
 hidden: false
 
 ---
