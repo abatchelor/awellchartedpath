@@ -50,7 +50,7 @@ Most visitors, including all tour buses, end up in the 2nd-highest parking lot, 
 
 ### Pā Ka'oao Trail
 
-Luckily, I had taken a close look at the NPS park map beforehand and read a bit about the Pā Ka'oao Trail, which is a quarter mile path up to the top of one of Haleakala's cinder cones. The top has a better view than the jam-packed railing below, plus rock walls on two-and-a-half sides to help block the whistling wind. Best of all, when we were there we were joined by a grand total of 8 others, for a much more serence experience.
+Luckily, I had taken a close look at the NPS park map beforehand and read a bit about the Pā Ka'oao Trail, which is a quarter mile path up to the top of one of Haleakala's cinder cones. The top has a better view than the jam-packed railing below, plus rock walls on two-and-a-half sides to help block the whistling wind. Best of all, when we were there we were joined by a grand total of 8 others, for a much more serene experience.
 
 The trail is well maintained and the steeper parts have high stairs cut out of the rock. There is zero lighting (which helps keep the masses away), so **be sure to bring a flashlight**.
 
