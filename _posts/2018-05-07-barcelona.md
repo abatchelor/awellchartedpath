@@ -24,7 +24,7 @@ It is decidedly less fun to explore the pretty tree-lined avenues and cobbleston
 
 Barcelona is also at an interesting point in its history right now. Back in October there was a referendum for Catalonia to become independent from Spain that turned violent when the central government sent national police to disrupt the voting. Still all around the city there is graffiti of yellow ribbons that were used by the Catalan independence movement as a symbol of solidarity and in protest against the imprisonment of the parties leaders. People still wear yellow ribbons when you pass them on the street. They are on backpacks, store fronts, and even government buildings. 
 
-<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/BarcelonaRibbon.jpg" target="_blank"><img src="/static/assets/img/blog/BarcelonaRibbon.jpg" width="30%"></a><p><i>Just one of the many signs we saw.</i></p></div><p></p>
+<div style="text-align: center; max-width: calc(100% - 20px);"><a href="/static/assets/img/blog/BarcelonaRibbon.JPG" target="_blank"><img src="/static/assets/img/blog/BarcelonaRibbon.JPG" width="30%"></a><p><i>Just one of the many signs we saw.</i></p></div><p></p>
 
 
 When we were in Myanmar in December we enjoyed dinner to celebrate New Years with a couple from Barcelona who shared their views about the ongoing struggle for independence and clued us in on some of the news we'd missed while traveling. Even as months pass, it is clear the city has not moved on but there was nothing more than a few demonstrations on Labor Day to indicate that tensions were still present. Beyond that, the city functioned as usual playing host to many tourists like us each day. 
